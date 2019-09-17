@@ -1,0 +1,2237 @@
+#EXTM3U
+#EXTINF:0,(18+) BLUE HUSTLER
+http://37.194.184.105:81/udp/239.1.6.36:1234
+#EXTINF:-1 GROUP-TITLE="🎧 РАДИО" TVG-LOGO="HTTP://EKZOT.UCOZ.NET/CH_ICONS/0/03_MATCH.PNG",03 МАТЧ!
+http://93.170.3.5:4022/udp/239.255.11.2:1234
+#EXTINF:-1,1+1
+http://78.26.128.45:8081/live/104/playlist.m3u8
+#EXTINF:-1,1+1
+http://ruip.tv/7016/video.m3u8?token=ottgttv
+#EXTINF:-1 TVG-LOGO="HTTPS://WWW.POLITNAVIGATOR.NET/WP-CONTENT/UPLOADS/2017/01/1PLUS1-TV.PNG" GROUP-TITLE="UKRAINE",1+1
+http://stream2g03-f23.ovva.tv/227022/smil:227022.smil/playlist.m3u8
+#EXTINF:-1,1+1
+https://live-k2311-kbp.1plus1.video/189931/smil:189931.smil/chunklist_b2928000.m3u8
+#EXTINF:-1 GROUP-TITLE="🔸UA 🇺🇦" TVG-LOGO="HTTP://EKZOT.UCOZ.NET/CH_ICONS/1/1PLUS1.PNG",1+1
+https://stream2g03-f23.ovva.tv/189931/smil:189931.smil/chunklist_b2928000.m3u8
+#EXTINF:-1 GROUP-TITLE="🔸UA 🇺🇦" TVG-LOGO="HTTP://EKZOT.UCOZ.NET/CH_ICONS/1/1PLUS1.PNG",1+1
+https://live-k2301-kbp.1plus1.video/189931/smil:189931/chunklist_b2928000.m3u8
+#EXTINF:-1 GROUP-TITLE="🔸UA 🇺🇦" TVG-LOGO="HTTP://EKZOT.UCOZ.NET/CH_ICONS/1/1PLUS1.PNG",1+1
+https://live-k2301-kbp.1plus1.video/189931/smil:189931.smil/chunklist_b2928000.m3u8
+#EXTINF:-1 GROUP-TITLE="🔸UA 🇺🇦" TVG-LOGO="HTTP://EKZOT.UCOZ.NET/CH_ICONS/1/1PLUS1.PNG",1+1
+https://live-k2303-kbp.1plus1.video/189931/smil:189931.smil/chunklist_b2928000.m3u8
+#EXTINF:-1,1+1 INTERNATIONAL
+http://ruip.tv/7224/video.m3u8?token=ottgttv
+#EXTINF:-1,1+1 INTERNATIONAL
+https://stream2g03-f23.ovva.tv/227022/smil:227022.smil/chunklist_b2928000.m3u8
+#EXTINF:-1,1+1 INTERNATIONAL
+https://live-k2304-kbp.1plus1.video/227022/smil:227022.smil/chunklist_b2928000.m3u8
+#EXTINF:-1,1+1 INTERNATIONAL
+https://live-k2302-kbp.1plus1.video/227022/smil:227022.smil/chunklist_b2928000.m3u8
+#EXTINF:-1,1+1 INTERNATIONAL
+https://live-k2304-kbp.1plus1.video/227022/smil:227022.smil/chunklist_b2928000.m3u8?q=?seg-user-zona-iptv.ru-v1-a1.m3u8
+#EXTINF:-1,1+1 INTERNATIONAL
+https://stream2g04-f23.ovva.tv/227022/smil:227022.smil/playlist.m3u8
+#EXTINF:-1,1+1 INTERNATIONAL
+http://stream2g03-f23.ovva.tv/227022/smil:227022.smil/playlist.m3u8?q=?seg-user-zona-iptv.ru-v1-a1.m3u8
+#EXTINF:-1 TVG-ID="" TVG-NAME="" TVG-LOGO="" GROUP-TITLE="",1+1 INTERNATIONAL [576P]
+http://live-k2302-kbp.1plus1.video/227022/smil:227022.smil/chunklist_b2928000.m3u8
+#EXTINF:-1,112 УКРАИНА HD
+http://ruip.tv/9340/video.m3u8?token=ottgttv
+#EXTINF:-1,112 УКРАИНА HD
+http://app.live.112.events/hls-ua/112hd_hi/index.m3u8
+#EXTINF:-1,112 УКРАЇНА HD
+http://app.live.112.events/hls/112hd_hi/index.m3u8
+#EXTINF:-1,112 УКРАЇНА
+http://112hd-hls3.cosmonova.net.ua/hls/112hd_ua_low/index.m3u8
+#EXTINF:-1,112 УКРАИНА HD
+http://app.live.112.events/hls-ua/112hd_mid/index.m3u8
+#EXTINF:-1 GROUP-TITLE="🔸UA 🇺🇦" TVG-LOGO="HTTP://EKZOT.UCOZ.NET/CH_ICONS/1/112_UKRAINA.PNG",112 УКРАИНА
+http://app.live.112.events/hls-ua/112hd_low/index.m3u8
+#EXTINF:-1 GROUP-TITLE="🔸UA 🇺🇦" TVG-LOGO="HTTP://EKZOT.UCOZ.NET/CH_ICONS/1/112_UKRAINA.PNG",112 УКРАИНА [FHD]
+http://app.live.112.events/hls/112hd_hi/index.m3u8?q=?seg-user-zona-iptv.ru-v1-a1.m3u8
+#EXTINF:-1 GROUP-TITLE="🔸UA 🇺🇦" TVG-LOGO="HTTP://EKZOT.UCOZ.NET/CH_ICONS/1/112_UKRAINA.PNG",112 УКРАИНА [FHD]
+http://112hd-hls3.cosmonova.net.ua/hls/112hd_ua_hi/index.m3u8
+#EXTINF:-1 GROUP-TITLE="🔸UA 🇺🇦" TVG-LOGO="HTTP://EKZOT.UCOZ.NET/CH_ICONS/1/112_UKRAINA.PNG",112 УКРАИНА [FHD]
+http://app.live.112.events/hls-ua/112hd_hi/index.m3u8?q=?seg-user-zona-iptv.ru-v1-a1.m3u8
+#EXTINF:-1 GROUP-TITLE="🔸UA 🇺🇦" TVG-LOGO="HTTP://EKZOT.UCOZ.NET/CH_ICONS/1/112_UKRAINA.PNG",112 УКРАИНА [HD]
+http://app.live.112.events/hls/112hd_mid/index.m3u8
+#EXTINF:-1 GROUP-TITLE="🔸UA 🇺🇦" TVG-LOGO="HTTP://EKZOT.UCOZ.NET/CH_ICONS/1/112_UKRAINA.PNG",112 УКРАИНА [HD]
+http://app.live.112.events/hls/112hd_mid/index.m3u8?q=?seg-user-zona-iptv.ru-v1-a1.m3u8
+#EXTINF:-1 GROUP-TITLE="🔸UA 🇺🇦" TVG-LOGO="HTTP://EKZOT.UCOZ.NET/CH_ICONS/1/112_UKRAINA.PNG",112 УКРАИНА [HD]
+http://112hd-hls3.cosmonova.net.ua/hls/112hd_ua_mid/index.m3u8
+#EXTINF:-1 GROUP-TITLE="🔸UA 🇺🇦" TVG-LOGO="HTTP://EKZOT.UCOZ.NET/CH_ICONS/1/112_UKRAINA.PNG",112 УКРАИНА [HD]
+http://95.67.12.67/hls/112hd_mid/index.m3u8
+#EXTINF:-1 GROUP-TITLE="🔸UA 🇺🇦" TVG-LOGO="HTTP://EKZOT.UCOZ.NET/CH_ICONS/1/112_UKRAINA.PNG",112 УКРАИНА [HD]
+http://app.live.112.events/hls-ua/112hd_mid/index.m3u8?q=?seg-user-zona-iptv.ru-v1-a1.m3u8
+#EXTINF:-1 GROUP-TITLE="🎧 РАДИО" TVG-LOGO="HTTP://EKZOT.UCOZ.NET/CH_ICONS/1/1_1_INTERNATIONAL.PNG",1 1 INTERNATIONAL
+http://188.35.9.26:2050/udp/238.0.2.1:69000
+#EXTINF:-1,12 КАНАЛ
+http://live-gtrkomsk.cdnvideo.ru/gtrkomsk/gtrkomsk.sdp/playlist.m3u8
+#EXTINF:-1,2+2
+http://78.26.128.45:8081/live/108/playlist.m3u8
+#EXTINF:-1,2+2
+http://ruip.tv/7476/video.m3u8?token=ottgttv
+#EXTINF:-1 GROUP-TITLE="🔸UA 🇺🇦" TVG-LOGO="HTTP://EPG.IT999.RU/IMG/2195.PNG",2+2
+http://tvport.it-tele.net:8000/58298b0671711c68e61fd7bb37bf12ab
+#EXTINF:-1,2+2
+https://live-k2310-kbp.1plus1.video/361665/smil:361665.smil/chunklist_b2928000.m3u8
+#EXTINF:-1,2+2
+https://stream2g03-f23.ovva.tv/361665/smil:361665.smil/playlist.m3u8?q=?seg-user-zona-iptv.ru-v1-a1.m3u8
+#EXTINF:-1,2+2
+https://live-k2302-kbp.1plus1.video/361665/smil:361665.smil/chunklist_b2928000.m3u8
+#EXTINF:-1,2+2
+https://stream2g03-f23.ovva.tv/361665/smil:361665.smil/chunklist_b2928000.m3u8
+#EXTINF:-1 GROUP-TITLE="РАЗНОЕ" TVG-LOGO="HTTP://EKZOT.UCOZ.NET/CH_ICONS/2/21_KANAL.PNG",21 КАНАЛ
+http://213.174.8.7:8000/play/1/index.m3u8
+#EXTINF:-1,24 КАНАЛ HD
+http://streamvideol1.luxnet.ua/news24/smil:news24.stream.smil/chunklist_b1328800.m3u8
+#EXTINF:-1,24 КАНАЛ
+http://78.26.128.45:8081/live/69/playlist.m3u8
+#EXTINF:-1 AUDIO-TRACK="RUS" GROUP-TITLE="🔸UA 🇺🇦" TVG-LOGO="HTTP://EKZOT.UCOZ.NET/CH_ICONS/2/24_KANAL.PNG",24 КАНАЛ [HD]
+http://streamvideol1.luxnet.ua/news24/smil:news24.stream.smil/playlist.m3u8
+#EXTINF:-1 GROUP-TITLE="🔸UA 🇺🇦" TVG-LOGO="HTTP://EKZOT.UCOZ.NET/CH_ICONS/2/24_KANAL.PNG",24 КАНАЛ [HD]
+http://streamvideol1.luxnet.ua/news24/smil:news24.stream.smil/chunklist_b1328800.m3u8?q=?seg-user-zona-iptv.ru-v1-a1.m3u8
+#EXTINF:-1,24 ТЕХНО
+http://212.112.101.69:8081/stream63/output.m3u8
+#EXTINF:-1 GROUP-TITLE="РАЗНОЕ" TVG-LOGO="HTTP://EKZOT.UCOZ.NET/CH_ICONS/2/24_UKRAINA.PNG",24 УКРАИНА
+http://tv.balkanweb.com:8081/news24/livestream/playlist.m3u8
+#EXTINF:-1,2Х2
+http://46.18.202.220:8879/2x2/ch1.m3u8
+#EXTINF:-1,2X2
+http://ruip.tv/2935/video.m3u8?token=ottgttv
+#EXTINF:-1 GROUP-TITLE="РАЗВЛЕКАТЕЛЬНЫЕ" TVG-LOGO="HTTP://EKZOT.UCOZ.NET/CH_ICONS/2/2X2.PNG",2X2
+http://109.171.14.41:81/udp/239.54.5.20:1224
+#EXTINF:-1 GROUP-TITLE="РАЗВЛЕКАТЕЛЬНЫЕ" TVG-LOGO="HTTP://EKZOT.UCOZ.NET/CH_ICONS/2/2X2.PNG",2X2
+http://31.148.16.31:8080/udp/224.10.10.38:10000
+#EXTINF:-1 GROUP-TITLE="РАЗВЛЕКАТЕЛЬНЫЕ" TVG-LOGO="HTTP://EKZOT.UCOZ.NET/CH_ICONS/2/2X2.PNG",2X2
+http://188.242.133.94:443/udp/239.239.3.3:5239
+#EXTINF:-1 GROUP-TITLE="РАЗВЛЕКАТЕЛЬНЫЕ" TVG-LOGO="HTTP://EKZOT.UCOZ.NET/CH_ICONS/2/2X2.PNG",2X2
+http://37.192.22.180:81/udp/239.1.2.1:1234
+#EXTINF:-1 GROUP-TITLE="РАЗВЛЕКАТЕЛЬНЫЕ" TVG-LOGO="HTTP://EKZOT.UCOZ.NET/CH_ICONS/2/2X2.PNG",2X2
+http://93.170.3.5:4022/udp/239.255.10.28:1234
+#EXTINF:-1 GROUP-TITLE="РАЗВЛЕКАТЕЛЬНЫЕ" TVG-LOGO="HTTP://EKZOT.UCOZ.NET/CH_ICONS/2/2X2.PNG",2X2
+http://109.171.14.41:81/udp/239.54.6.55:1234
+#EXTINF:-1 GROUP-TITLE="РАЗВЛЕКАТЕЛЬНЫЕ" TVG-LOGO="HTTP://EKZOT.UCOZ.NET/CH_ICONS/2/2X2.PNG",2X2
+http://176.196.160.34:4022/udp/239.255.42.29:1234
+#EXTINF:-1 GROUP-TITLE="РАЗВЛЕКАТЕЛЬНЫЕ" TVG-LOGO="HTTP://EKZOT.UCOZ.NET/CH_ICONS/2/2X2.PNG",2X2
+http://93.100.231.28:81/udp/239.239.3.3:5239
+#EXTINF:-1 GROUP-TITLE="РАЗВЛЕКАТЕЛЬНЫЕ" TVG-LOGO="HTTP://EKZOT.UCOZ.NET/CH_ICONS/2/2X2.PNG",2X2
+http://188.242.199.174:81/udp/239.239.3.3:5239
+#EXTINF:-1,2X2
+http://94.19.54.215:81/udp/239.239.3.3:5239
+#EXTINF:-1,2X2
+http://83.246.208.234:81/udp/239.54.5.20:1224
+#EXTINF:-1 GROUP-TITLE="РАЗВЛЕКАТЕЛЬНЫЕ" TVG-LOGO="HTTP://EKZOT.UCOZ.NET/CH_ICONS/2/2X2.PNG",2X2 (+2)
+http://31.148.16.31:8080/udp/224.0.90.71:1234
+#EXTINF:-1,2X2 (+4)
+http://ruip.tv/8806/video.m3u8?token=ottgttv
+#EXTINF:-1,43 КАНАЛ HD
+http://sochi-strk.ru:1936/strk/43Kanal.stream/playlist.m3u8
+#EXTINF: -1 ,49 КАНАЛ
+http://46.175.163.130/vod/9/index.m3u8
+#EXTINF: -1 ,49 КАНАЛ
+https://webcams.ks.ua/tvhls/stream2/index.m3u8
+#EXTINF:-1 GROUP-TITLE="4K UHD 3D",4K EUROSPORT 4K
+http://ott.shara.club/nonecsa/DGMkwp30d8/2147
+#EXTINF:-1,4 КИЇВ HD
+http://cdn.vsnw.net:8081/interradio/720i.m3u8
+#EXTINF:-1 GROUP-TITLE="ОБЩЕСТВЕННЫЕ" TVG-LOGO="HTTP://EKZOT.UCOZ.NET/CH_ICONS/5/5_KANAL.PNG",5 КАНАЛ
+http://pstv.krasmix.ru/tv/5kanal/playlist.m3u8?q=?seg-user-zona-iptv.ru-v1-a1.m3u8
+#EXTINF:-1 GROUP-TITLE="ОБЩЕСТВЕННЫЕ" TVG-LOGO="HTTP://EKZOT.UCOZ.NET/CH_ICONS/5/5_KANAL.PNG",5 КАНАЛ
+http://meta.vcdn.biz/bd7779421f9ce7a23453cb0fb05987a9_megogo/vod/fs/o/36429601/u_sid/0/u_uid/0/u_vod/0/u_device/cms_html5/u_srvc/28561/type.live/playlist.m3u8
+#EXTINF:-1 GROUP-TITLE="ОБЩЕСТВЕННЫЕ" TVG-LOGO="HTTP://EKZOT.UCOZ.NET/CH_ICONS/5/5_KANAL.PNG",5 КАНАЛ
+http://176.101.224.21:8080/udp/239.195.32.14:1234
+#EXTINF:-1 GROUP-TITLE="ОБЩЕСТВЕННЫЕ" TVG-LOGO="HTTP://EKZOT.UCOZ.NET/CH_ICONS/5/5_KANAL.PNG",5 КАНАЛ
+http://176.101.224.21:8080/udp/239.195.32.14:1234?em9uYS1pcHR2LnJ1
+#EXTINF:-1 GROUP-TITLE="ОБЩЕСТВЕННЫЕ" TVG-LOGO="HTTP://EKZOT.UCOZ.NET/CH_ICONS/5/5_KANAL.PNG",5 КАНАЛ
+http://37.192.22.180:81/udp/239.1.10.3:1234
+#EXTINF:-1 GROUP-TITLE="ОБЩЕСТВЕННЫЕ" TVG-LOGO="HTTP://EKZOT.UCOZ.NET/CH_ICONS/5/5_KANAL.PNG",5 КАНАЛ
+http://176.196.160.34:4022/udp/239.255.0.5:1234
+#EXTINF:-1 GROUP-TITLE="ОБЩЕСТВЕННЫЕ" TVG-LOGO="HTTP://EKZOT.UCOZ.NET/CH_ICONS/5/5_KANAL.PNG",5 КАНАЛ
+http://109.70.184.20:8080/udp/239.195.32.14:1234
+#EXTINF:-1 GROUP-TITLE="ОБЩЕСТВЕННЫЕ" TVG-LOGO="HTTP://EKZOT.UCOZ.NET/CH_ICONS/5/5_KANAL.PNG",5 КАНАЛ
+http://31.148.16.31:8080/udp/224.10.10.154:10000
+#EXTINF:-1 GROUP-TITLE="ОБЩЕСТВЕННЫЕ" TVG-LOGO="HTTP://EKZOT.UCOZ.NET/CH_ICONS/5/5_KANAL.PNG",5 КАНАЛ
+http://109.171.14.41:81/udp/239.0.47.35:1224
+#EXTINF:-1 GROUP-TITLE="РЕГИОНАЛЬНЫЕ" TVG-LOGO="HTTP://EKZOT.UCOZ.NET/CH_ICONS/5/5_KANAL.PNG",5 КАНАЛ
+http://vs343.vcdn.biz/bd7779421f9ce7a23453cb0fb05987a9_megogo/vod/fs/o/36429601/u_sid/0/u_uid/0/u_vod/0/u_device/cms_html5/u_srvc/28561/type.live/chunklist-sid995884198-b2490000.m3u8
+#EXTINF:0,5 КАНАЛ +8
+http://ruip.tv/8110/video.m3u8?token=ottgttv
+#EXTINF: -1 ,5 КАНАЛ RU
+http://stream2.topspb.tv:1935/live/1/media_b608608_w1746568392.m3u8
+#EXTINF:-1 GROUP-TITLE="ОДЕССА",7 КАНАЛ
+http://91.197.48.162/opnykx89z32r7/mpegts?auth=26S96GYXZGYTA
+#EXTINF:-1 GROUP-TITLE="ОДЕССА",7 КАНАЛ HD
+http://91.197.48.162/bfnc7wgkqjreh/mpegts?auth=26S96GYXZGYTA
+#EXTINF:-1 TVG-LOGO="HTTP://TV-ONLINE.AT.UA/1LOGO/1/7_KANAL-ODESSA.PNG" GROUP-TITLE="UKRAINE",7 KANAL
+http://cdn10.live-tv.od.ua:8081/7tvod/7tvod-abr/7tvod/7tvod/playlist.m3u8
+#EXTINF:-1,7 КАНАЛ
+http://77.123.139.124:8081/7tvod/7tvod-abr/playlist.m3u8
+#EXTINF:-1,7 КАНАЛ
+http://cdn10.live-tv.od.ua:8081/7tvod/7tvod-abr-lq/playlist.m3u8
+#EXTINF:-1,7 КАНАЛ
+http://77.245.98.22:8000/play/39/index.m3u8
+#EXTINF: -1 ,7 КАНАЛ
+http://v1.proofix.ru/live-tv7/stream1/playlist.m3u8
+#EXTINF:0,AD SPORT 1 HD
+http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8
+#EXTINF:-1,AD SPORT 1 HD
+http://adtv.ercdn.net/adsport1/adsport1_360p.m3u8
+#EXTINF:0,AD SPORT 2 HD
+http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8
+#EXTINF:-1,AD SPORT 2 HD
+http://adtv.ercdn.net/adsport2/adsport2_360p.m3u8
+#EXTINF:0,AD SPORTS 1 HD
+http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8#iptvchileyelmundo
+#EXTINF:0,AD SPORTS 2 HD
+http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8#iptvchileyelmundo
+#EXTINF:0,ALL SPORTS HD
+http://173.236.10.10:1935/dgrau/dgrau/playlist.m3u8
+#EXTINF:-1,ALL SPORTS
+http://173.236.10.10:1935/dgrau/dgrau/live.m3u8
+#EXTINF:1.16099,ALL SPORTS
+http://173.236.10.10:1935/dgrau/dgrau/chunklist_w549339512.m3u8
+#EXTINF:-1,AMEDIA 1
+http://212.112.101.69:8081/stream48/output.m3u8
+#EXTINF:-1,AMEDIA 1 HD
+http://ruip.tv/7386/video.m3u8?token=ottgttv
+#EXTINF:-1 GROUP-TITLE="КИНО И СЕРИАЛЫ" TVG-LOGO="HTTP://EKZOT.UCOZ.NET/CH_ICONS/A/AMEDIA_2.PNG",AMEDIA 2
+http://89.106.234.3/A2_36_37.m3u8
+#EXTINF:-1 GROUP-TITLE="КИНО И СЕРИАЛЫ" TVG-LOGO="HTTP://EKZOT.UCOZ.NET/CH_ICONS/A/AMEDIA_2.PNG",AMEDIA 2
+https://sc.id-tv.kz/A2_38_39.m3u8
+#EXTINF:-1 GROUP-TITLE="КИНО И СЕРИАЛЫ" TVG-LOGO="HTTP://EKZOT.UCOZ.NET/CH_ICONS/A/AMEDIA_2.PNG",AMEDIA 2
+http://182.73.122.74:10000/bysid/306
+#EXTINF:-1,AMEDIA HIT HD
+http://ruip.tv/4546/video.m3u8?token=ottgttv
+#EXTINF:-1,AMEDIA HIT
+http://178.163.59.183:4022/udp/234.0.0.169:2000
+#EXTINF:-1,AMEDIA PREMIUM
+http://212.112.101.69:8081/stream46/output.m3u8
+#EXTINF:-1,AMEDIA PREMIUM HD
+http://ruip.tv/3610/video.m3u8?token=ottgttv
+#EXTINF:-1 GROUP-TITLE="НАШ",AMEDIA PREMIUM HD (РЕЗЕРВ)
+http://tvport.it-tele.net:8000/5ab5b8760b36dfa12a690139b5d65e75
+#EXTINF:-1 GROUP-TITLE="КИНО И СЕРИАЛЫ" TVG-LOGO="HTTP://EKZOT.UCOZ.NET/CH_ICONS/A/AMEDIA_PREMIUM_HBO.PNG",AMEDIA PREMIUM HBO [FHD]
+http://81.25.55.85:4022/udp/239.64.65.123:1234
+#EXTINF:0,ANIMAL PLANET HD
+http://ott.ipstream.one:80/zh4QiEdO7b/o94PvvyhQj/141
+#EXTINF:-1,ANIMAL PLANET
+http://95.153.22.122:8000/play/a00f/index.m3u8
+#EXTINF:-1,ANIMAL PLANET HD
+http://ruip.tv/3507/video.m3u8?token=ottgttv
+#EXTINF:-1,ANIMAL PLANET
+http://tvport.it-tele.net:8000/b9822568a5d05813b058193c94a27c39
+#EXTINF:-1 GROUP-TITLE="В МИРЕ ЖИВОТНЫХ" TVG-LOGO="HTTP://EKZOT.UCOZ.NET/CH_ICONS/A/ANIMAL_PLANET.PNG",ANIMAL PLANET
+http://37.195.117.73:81/udp/239.1.5.3:1234
+#EXTINF:-1 GROUP-TITLE="В МИРЕ ЖИВОТНЫХ" TVG-LOGO="HTTP://EKZOT.UCOZ.NET/CH_ICONS/A/ANIMAL_PLANET.PNG",ANIMAL PLANET
+http://182.73.122.74:10004/bysid/1112
+#EXTINF:-1,ANIMAL PLANET HD
+http://83.246.208.234:81/udp/239.54.7.94:1224
+#EXTINF:0,ANIMAL PLANET (ENGLAND)
+http://80.80.160.168/live/1/live.m3u8
+#EXTINF:-1,ANIMAL PLANET (ENGLAND)
+http://80.80.160.168/live/1/live.m3u8?q=?seg-user-zona-iptv.ru-v1-a1.m3u8
+#EXTINF:-1 GROUP-TITLE="В МИРЕ ЖИВОТНЫХ" TVG-LOGO="HTTP://EKZOT.UCOZ.NET/CH_ICONS/A/ANIMAL_PLANET.PNG",ANIMAL PLANET [FHD]
+http://194.28.155.10:81/udp/225.0.56.22:1234
+#EXTINF:-1 GROUP-TITLE="В МИРЕ ЖИВОТНЫХ" TVG-LOGO="HTTP://EKZOT.UCOZ.NET/CH_ICONS/A/ANIMAL_PLANET.PNG",ANIMAL PLANET [FHD]
+http://5.129.5.77:81/udp/239.1.17.16:1234
+#EXTINF:0 TYPE="STREAM" CHANNELID="-1",ASPORTHD
+http://trkvz-m.ercdn.net/trkvz-temp/asporhdm.m3u8
+#EXTINF:-1,ATR
+http://78.26.128.45:8081/live/322/playlist.m3u8
+#EXTINF:-1 GROUP-TITLE="НАШ",ATR HD
+http://stream.atr.ua/atr/live/index.m3u8
+#EXTINF:-1 GROUP-TITLE="🔸UA 🇺🇦" TVG-LOGO="HTTP://EKZOT.UCOZ.NET/CH_ICONS/A/ATR.PNG",ATR
+http://stream.atr.ua/atr/live/index.m3u8?q=?seg-user-zona-iptv.ru-v1-a1.m3u8
+#EXTINF:0,АВТО
+http://109.248.236.41:4433/udp/238.1.1.21:1234
+#EXTINF:0,АВТО
+http://100automoto.tv:1935/bgtv1/autotv/playlist.m3u8
+#EXTINF:0,АВТО 24
+http://109.248.236.41:4433/udp/238.1.1.110:1234
+#EXTINF:-1,АВТО 24
+http://46.18.202.220:8879/Avto24/ch1.m3u8
+#EXTINF:-1 GROUP-TITLE="МУЖСКИЕ" TVG-LOGO="HTTP://EKZOT.UCOZ.NET/CH_ICONS/A/AVTO_PLJUS.PNG",АВТО ПЛЮС
+http://37.193.190.134:81/udp/239.1.2.6:1234
+#EXTINF:-1 GROUP-TITLE="МУЖСКИЕ" TVG-LOGO="HTTP://EKZOT.UCOZ.NET/CH_ICONS/A/AVTO_PLJUS.PNG",АВТО ПЛЮС
+http://176.196.160.34:4022/udp/239.255.42.25:1234
+#EXTINF:-1,АВТОПЛЮС
+http://83.246.208.234:81/udp/239.54.7.37:1224
+#EXTINF:-1,B4U MUSIC
+http://161.0.157.5/PLTV/88888888/224/3221226332/03.m3u8
+#EXTINF:-1,B4U MUSIC
+http://161.0.157.5/PLTV/88888888/224/3221226332/03.m3u8?q=?seg-user-zona-iptv.ru-v1-a1.m3u8
+#EXTINF:-1,BBC WORLD
+http://78.26.128.45:8081/live/36/playlist.m3u8
+#EXTINF:0,BBC WORLD NEWS (EN)
+http://37.145.62.206:34040/udp/233.33.210.16:5050
+#EXTINF:-1 TVG-LOGO="HTTPS://WWW.DIGITALTVEUROPE.COM/FILES/2011/12/BBC-WORLD-NEWS1.JPG" GROUP-TITLE="UK",BBC WORLD NEWS (OPT-2)
+https://1636691764.rsc.cdn77.org/LS-ATL-54548-11/tracks-v1a1/mono.m3u8?fluxustv.m3u8
+#EXTINF:0,BELARUS 24
+http://95.141.225.78:4022/udp/233.49.170.168:5000
+#EXTINF:0,БЕЛАРУСЬ
+http://ruip.tv/5813/video.m3u8?token=ottgttv
+#EXTINF:0,БЕЛАРУСЬ
+http://ruip.tv/7574/video.m3u8?token=ottgttv
+#EXTINF:0,БЕЛАРУСЬ
+http://ruip.tv/6512/video.m3u8?token=ottgttv
+#EXTINF:0,БЕЛАРУСЬ
+http://ruip.tv/8020/video.m3u8?token=ottgttv
+#EXTINF:0,БЕЛАРУСЬ
+http://ruip.tv/9136/video.m3u8?token=ottgttv
+#EXTINF:-1,БЕЛАРУСЬ 24
+http://78.26.128.45:8081/live/336/playlist.m3u8
+#EXTINF:-1,БЕЛАРУСЬ 24 HD
+https://nimble01edge01.hoster.by/belarus24hd/livehd/chunks.m3u8
+#EXTINF:-1 GROUP-TITLE="НОВОСТИ" TVG-LOGO="HTTP://EKZOT.UCOZ.NET/CH_ICONS/B/BELARUS_24.PNG",БЕЛАРУСЬ 24
+http://109.171.14.41:81/udp/239.54.5.175:1224
+#EXTINF:-1 GROUP-TITLE="НОВОСТИ" TVG-LOGO="HTTP://EKZOT.UCOZ.NET/CH_ICONS/B/BELARUS_24.PNG",БЕЛАРУСЬ 24 [HD]
+http://serv30.vintera.tv:8081/belarus24/belarus24/playlist.m3u8
+#EXTINF:-1 GROUP-TITLE="НОВОСТИ" TVG-LOGO="HTTP://EKZOT.UCOZ.NET/CH_ICONS/B/BELARUS_24.PNG",БЕЛАРУСЬ 24 [HD]
+https://nimble01edge02.hoster.by/belarus24hd/livehd/chunks.m3u8
+#EXTINF:-1,БЕЛАРУСЬ 4
+http://95.46.208.8:26258/belarus4
+#EXTINF:-1,БЕЛАРУСЬ 8 HD
+http://91.215.176.238:8000/8channel
+#EXTINF:-1,БИГУДИ
+http://78.26.128.45:8081/live/29/playlist.m3u8
+#EXTINF:-1,БІГУДІ
+https://live-k2309-kbp.1plus1.video/335987/smil:335987.smil/chunklist_b2928000.m3u8
+#EXTINF:-1,БІГУДІ
+https://stream2g03-f23.ovva.tv/335987/smil:335987.smil/chunklist_b2928000.m3u8
+#EXTINF:0 TYPE="STREAM" CHANNELID="119",BLOOMBERG
+https://liveprodeuwest.akamaized.net/eu1/Channel-EUTVqvs-AWS-ireland-1/Source-EUTVqvs-1000-1_live.m3u8
+#EXTINF:330826016 GROUP-TITLE="НОВОСТИ РАЗНЫЕ" TVG-LOGO="HTTP://EKZOT.UCOZ.NET/CH_ICONS/B/BLOOMBERG.PNG",BLOOMBERG
+http://liveproduseast.akamaized.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8
+#EXTINF:321966544 GROUP-TITLE="РАЗНОЕ" TVG-LOGO="HTTP://EKZOT.UCOZ.NET/CH_ICONS/B/BLOOMBERG.PNG",BLOOMBERG (EN)
+https://liveprodeuwest.akamaized.net/eu1/Channel-EUTVqvs-AWS-ireland-1/Source-EUTVqvs-700-1_live.m3u8
+#EXTINF:-1 GROUP-TITLE="ЭРОТИКА",BLUE HUSTLER HD
+http://213.234.9.46:7088/udp/239.1.13.5:1234
+#EXTINF:-1,BLUE HUSTLER
+http://cdn.miip.tv:80/Damian/123456/94
+#EXTINF:-1,BLUE HUSTLER (18+)
+http://212.12.194.10/hustler/live.m3u8
+#EXTINF:-1 GROUP-TITLE="ХОЗЯЙСТВО И БЫТ" TVG-LOGO="HTTP://EKZOT.UCOZ.NET/CH_ICONS/B/BOBER.PNG",БОБЕР
+http://194.28.155.10:81/udp/225.0.55.190:1234
+#EXTINF:-1 GROUP-TITLE="ХОЗЯЙСТВО И БЫТ" TVG-LOGO="HTTP://EKZOT.UCOZ.NET/CH_ICONS/B/BOBER.PNG",БОБЕР
+http://37.192.22.180:81/udp/239.1.2.19:1234
+#EXTINF:-1 GROUP-TITLE="ХОЗЯЙСТВО И БЫТ" TVG-LOGO="HTTP://EKZOT.UCOZ.NET/CH_ICONS/B/BOBER.PNG",БОБЕР
+http://176.196.160.34:4022/udp/239.255.42.207:1234
+#EXTINF:-1,БОЙЦОВСКИЙ КЛУБ
+http://37.193.58.164:4022/udp/239.1.12.9:1234
+#EXTINF:0,БОКС ТВ
+http://hls.boxingtvru.cdnvideo.ru/boxingtvru/smil:boxingtvru.smil/playlist.m3u8
+#EXTINF:0,БОКС ТВ HD
+http://hls.boxingtvru.cdnvideo.ru/boxingtvru/boxingtvru_hq/playlist.m3u8
+#EXTINF:-1,БОКС ТВ
+http://46.18.202.220:8879/BoksTV/ch1.m3u8
+#EXTINF:-1,БОКС ТВ
+http://ruip.tv/9550/video.m3u8?token=ottgttv
+#EXTINF:-1 GROUP-TITLE="МУЖСКИЕ" TVG-LOGO="HTTP://EKZOT.UCOZ.NET/CH_ICONS/B/BOKS_TV.PNG",БОКС ТВ
+http://hls.boxingtvru.cdnvideo.ru/boxingtvru/boxingtvru_sq/playlist.m3u8
+#EXTINF:-1 GROUP-TITLE="МУЖСКИЕ" TVG-LOGO="HTTP://EKZOT.UCOZ.NET/CH_ICONS/B/BOKS_TV.PNG",БОКС ТВ
+http://hls.boxingtvru.cdnvideo.ru/boxingtvru/boxingtvru_lq/playlist.m3u8
+#EXTINF:-1 GROUP-TITLE="МУЖСКИЕ" TVG-LOGO="HTTP://EKZOT.UCOZ.NET/CH_ICONS/B/BOKS_TV.PNG",БОКС ТВ [HD]
+http://hls.boxingtvru.cdnvideo.ru/boxingtvru/boxingtvru_hq/playlist.m3u8?q=?seg-user-zona-iptv.ru-v1-a1.m3u8
+#EXTINF:-1,BOLLYWOOD
+http://77.245.98.22:8000/play/403/index.m3u8
+#EXTINF:-1,BOLLYWOOD HD
+http://78.26.128.45:8081/live/488/playlist.m3u8
+#EXTINF:-1,BOLLYWOOD HD
+http://81.28.160.9/iptv/12207/26007/jTw9YQSafbMK3UAu
+#EXTINF:-1,BOLLYWOOD
+http://178.163.42.18:4022/udp/234.0.0.195:2000
+#EXTINF:-1,BOLLYWOOD HD
+http://77.245.98.22:8000/play/403/tracks-v1a1/index.m3u8
+#EXTINF:-1,BOOMERANG
+http://78.26.128.45:8081/live/358/playlist.m3u8
+#EXTINF:-1,BOOMERANG
+http://ruip.tv/2275/video.m3u8?token=ottgttv
+#EXTINF:-1 GROUP-TITLE="НАШ",BOOMERANG
+http://91.197.48.162/sm85i4km1s226/mpegts?auth=26S96GYXZGYTA
+#EXTINF:-1,BOUTIQUE
+http://78.26.128.45:8081/live/460/playlist.m3u8
+#EXTINF:-1,BRAZZER TV EUROPE
+http://cdn.miip.tv:80/Damian/123456/9527
+#EXTINF:-1,BRIDGE TV
+http://212.112.101.69:8081/stream36/output.m3u8
+#EXTINF:-1,BRIDGE TV HD
+http://91.205.131.7:80/bridge_hd/index.m3u8
+#EXTINF:-1 GROUP-TITLE="МУЗЫКАЛЬНЫЕ" TVG-LOGO="HTTP://EKZOT.UCOZ.NET/CH_ICONS/B/BRIDGE_TV.PNG",BRIDGE TV
+http://176.196.160.34:4022/udp/239.255.42.35:1234
+#EXTINF:-1 GROUP-TITLE="МУЗЫКАЛЬНЫЕ" TVG-LOGO="HTTP://EKZOT.UCOZ.NET/CH_ICONS/B/BRIDGE_TV.PNG",BRIDGE TV
+http://158.46.64.79:81/udp/239.255.42.35:1234
+#EXTINF:-1 GROUP-TITLE="МУЗЫКАЛЬНЫЕ" TVG-LOGO="HTTP://EKZOT.UCOZ.NET/CH_ICONS/B/BRIDGE_TV.PNG",BRIDGE TV
+http://158.46.65.248:81/udp/239.255.42.35:1234
+#EXTINF:-1 GROUP-TITLE="МУЗЫКАЛЬНЫЕ" TVG-LOGO="HTTP://EKZOT.UCOZ.NET/CH_ICONS/B/BRIDGE_TV.PNG",BRIDGE TV
+http://92.61.69.31:34040/udp/224.0.42.7:5000
+#EXTINF:-1 GROUP-TITLE="МУЗЫКАЛЬНЫЕ" TVG-LOGO="HTTP://EKZOT.UCOZ.NET/CH_ICONS/B/BRIDGE_TV.PNG",BRIDGE TV
+http://37.192.22.180:81/udp/239.1.8.8:1234
+#EXTINF:-1 GROUP-TITLE="МУЗЫКАЛЬНЫЕ" TVG-LOGO="HTTP://EKZOT.UCOZ.NET/CH_ICONS/B/BRIDGE_TV.PNG",BRIDGE TV
+http://178.163.107.2:4022/udp/234.0.0.180:2000
+#EXTINF:-1 GROUP-TITLE="МУЗЫКАЛЬНЫЕ" TVG-LOGO="HTTP://EKZOT.UCOZ.NET/CH_ICONS/B/BRIDGE_TV.PNG",BRIDGE TV
+http://93.100.231.28:81/udp/239.239.3.12:5239
+#EXTINF:-1,BRIDGE TV
+http://83.246.208.234:81/udp/239.54.5.9:1224
+#EXTINF:-1 GROUP-TITLE="МУЗЫКАЛЬНЫЕ" TVG-LOGO="HTTP://EKZOT.UCOZ.NET/CH_ICONS/B/BRIDGE_TV_DANCE.PNG",BRIDGE TV DANCE
+http://92.61.69.31:34040/udp/224.0.42.110:5000
+#EXTINF:-1 GROUP-TITLE="МУЗЫКАЛЬНЫЕ" TVG-LOGO="HTTP://EKZOT.UCOZ.NET/CH_ICONS/B/BRIDGE_TV_DANCE.PNG",BRIDGE TV DANCE [R]
+http://93.100.231.28:81/udp/239.239.3.69:5239
+#EXTINF:-1 GROUP-TITLE="🎧 РАДИО" TVG-LOGO="HTTP://EKZOT.UCOZ.NET/CH_ICONS/B/BRIDGE_TV__DANGE.PNG",BRIDGE TV  DANGE
+http://37.192.22.180:81/udp/239.1.8.17:1234
+#EXTINF:-1,CARTOON NETWORK
+http://78.26.128.45:8081/live/349/playlist.m3u8
+#EXTINF:-1,CARTOON NETWORK
+http://ruip.tv/5635/video.m3u8?token=ottgttv
+#EXTINF:-1 GROUP-TITLE="ДЕТСКИЕ" TVG-LOGO="HTTP://EKZOT.UCOZ.NET/CH_ICONS/C/CARTOON_NETWORK.PNG",CARTOON NETWORK
+http://37.193.27.13:81/udp/239.1.3.3:1234
+#EXTINF:-1 GROUP-TITLE="ДЕТСКИЕ" TVG-LOGO="HTTP://EKZOT.UCOZ.NET/CH_ICONS/C/CARTOON_NETWORK.PNG",CARTOON NETWORK
+http://109.171.14.41:81/udp/239.54.6.57:1224
+#EXTINF:-1,CARTOON NETWORK
+http://161.0.157.9/PLTV/88888888/224/3221226843/index.m3u8?q=?seg-user-zona-iptv.ru-v1-a1.m3u8
+#EXTINF:-1,CARTOON NETWORK (LA)
+http://161.0.157.9/PLTV/88888888/224/3221226843/index.m3u8?fluxustv.m3u8
+#EXTINF:-1 GROUP-TITLE="🎧 РАДИО" TVG-LOGO="HTTP://EKZOT.UCOZ.NET/CH_ICONS/C/CARTOON_NETWORK.PNG",CARTOON NETWORK (РЕЗЕРВ2)
+http://tvport.it-tele.net:8000/85488232c57316c53d53559b6b65acc2
+#EXTINF:-1,CARTOON NETWORK ENGLAND
+http://161.0.157.9/PLTV/88888888/224/3221226843/index.m3u8
+#EXTINF:-1 GROUP-TITLE="ДЕТСКИЕ" TVG-LOGO="HTTP://EKZOT.UCOZ.NET/CH_ICONS/C/CARTOON_NETWORK.PNG",CARTOON NETWORK [R]
+http://37.49.212.64:81/udp/239.54.7.57:1224
+#EXTINF:0,CBC SPORT HD
+http://streams.livetv.az/azerbaijan/cbc_sport_hd/playlist.m3u8
+#EXTINF:-1,CBS SPORT HD
+https://streams.livetv.az/azerbaijan/cbc_sport_hd/playlist.m3u8
+#EXTINF:-1,ЧЕ
+http://ruip.tv/8708/video.m3u8?token=ottgttv
+#EXTINF:-1,ЧЕ
+http://tvsever.ru:8080/hls/ach2.m3u8
+#EXTINF:-1 GROUP-TITLE="РАЗВЛЕКАТЕЛЬНЫЕ",ЧЕ
+http://37.193.190.134:81/udp/239.1.15.14:1234
+#EXTINF:-1 GROUP-TITLE="РАЗВЛЕКАТЕЛЬНЫЕ" TVG-LOGO="HTTP://EKZOT.UCOZ.NET/CH_ICONS/C/CHE.PNG",ЧЕ
+http://93.100.231.28:81/udp/239.239.3.64:5239
+#EXTINF:-1 GROUP-TITLE="РАЗВЛЕКАТЕЛЬНЫЕ" TVG-LOGO="HTTP://EKZOT.UCOZ.NET/CH_ICONS/C/CHE.PNG",ЧЕ
+http://109.171.14.41:81/udp/239.0.42.166:1224
+#EXTINF:-1 GROUP-TITLE="РАЗВЛЕКАТЕЛЬНЫЕ" TVG-LOGO="HTTP://EKZOT.UCOZ.NET/CH_ICONS/C/CHE.PNG",ЧЕ
+http://109.171.14.41:81/udp/239.54.5.4:1224
+#EXTINF:-1 GROUP-TITLE="РАЗВЛЕКАТЕЛЬНЫЕ" TVG-LOGO="HTTP://EKZOT.UCOZ.NET/CH_ICONS/C/CHE.PNG",ЧЕ
+http://31.148.16.31:8080/udp/224.0.90.161:1234
+#EXTINF:-1 GROUP-TITLE="РАЗВЛЕКАТЕЛЬНЫЕ" TVG-LOGO="HTTP://EKZOT.UCOZ.NET/CH_ICONS/C/CHE.PNG",ЧЕ
+http://178.49.77.88:3371/udp/239.1.15.14:1234
+#EXTINF:-1 GROUP-TITLE="РАЗВЛЕКАТЕЛЬНЫЕ" TVG-LOGO="HTTP://EKZOT.UCOZ.NET/CH_ICONS/C/CHE.PNG",ЧЕ
+http://176.196.160.34:4022/udp/239.255.42.64:1234
+#EXTINF:-1 GROUP-TITLE="РАЗВЛЕКАТЕЛЬНЫЕ" TVG-LOGO="HTTP://EKZOT.UCOZ.NET/CH_ICONS/C/CHE.PNG",ЧЕ
+http://37.192.22.180:81/udp/239.1.15.14:1234
+#EXTINF:-1 GROUP-TITLE="РАЗВЛЕКАТЕЛЬНЫЕ" TVG-LOGO="HTTP://EKZOT.UCOZ.NET/CH_ICONS/C/CHE.PNG",ЧЕ
+http://93.170.3.5:4022/udp/239.255.10.21:1234
+#EXTINF:-1,ЧЕ
+http://83.246.208.234:81/udp/239.54.5.4:1224
+#EXTINF:-1,ЧЕРНОМОРКА
+http://live-blackseatv.cdnvideo.ru/blackseatv/blackseatv.sdp/playlist.m3u8?q=?seg-user-zona-iptv.ru-v1-a1.m3u8
+#EXTINF:-1 GROUP-TITLE="НОВОСТИ РАЗНЫЕ" TVG-LOGO="HTTP://EKZOT.UCOZ.NET/CH_ICONS/C/CNN.PNG",CNN
+https://2122248091.dogannet.tv/S2/HLS_LIVE/cnn_turk/1000/prog_index.m3u8?key=&amp;live=true&amp;app=com.cnnturk
+#EXTINF:-1 GROUP-TITLE="НОВОСТИ РАЗНЫЕ" TVG-LOGO="HTTP://EKZOT.UCOZ.NET/CH_ICONS/C/CNN.PNG",CNN
+https://2122248091.dogannet.tv/S2/HLS_LIVE/cnn_turk/1000/prog_index.m3u8?key=&live=true&app=com.cnnturk
+#EXTINF:-1 GROUP-TITLE="НОВОСТИ РАЗНЫЕ" TVG-LOGO="HTTP://EKZOT.UCOZ.NET/CH_ICONS/C/CNN.PNG",CNN
+http://54.251.134.121:1935/live/15273.sdp/playlist.m3u8
+#EXTINF:-1 GROUP-TITLE="НОВОСТИ РАЗНЫЕ" TVG-LOGO="HTTP://EKZOT.UCOZ.NET/CH_ICONS/C/CNN.PNG",CNN
+http://media.netd.com.tr/S1/HLS_LIVE/cnn_turk/1000/prog_index.m3u8
+#EXTINF:-1 GROUP-TITLE="НОВОСТИ РАЗНЫЕ" TVG-LOGO="HTTP://EKZOT.UCOZ.NET/CH_ICONS/C/CNN.PNG",CNN
+http://92.61.69.31:34040/udp/224.0.42.79:5000
+#EXTINF:-1 GROUP-TITLE="НОВОСТИ РАЗНЫЕ" TVG-LOGO="HTTP://EKZOT.UCOZ.NET/CH_ICONS/C/CNN.PNG",CNN
+http://109.171.14.41:81/udp/239.54.7.60:1224
+#EXTINF:-1 GROUP-TITLE="НОВОСТИ РАЗНЫЕ" TVG-LOGO="HTTP://EKZOT.UCOZ.NET/CH_ICONS/C/CNN.PNG",CNN
+http://46.241.48.168:81/udp/239.54.6.60:1224
+#EXTINF:-1 GROUP-TITLE="НОВОСТИ РАЗНЫЕ" TVG-LOGO="HTTP://EKZOT.UCOZ.NET/CH_ICONS/C/CNN.PNG",CNN
+http://109.171.14.41:81/udp/239.54.6.60:1224
+#EXTINF:0 TYPE="STREAM" CHANNELID="1427",CTV
+http://212.98.171.116/HLS/ctvby/playlist.m3u8
+#EXTINF:-1,ДАЧА
+http://78.26.128.45:8081/live/360/playlist.m3u8
+#EXTINF:-1 GROUP-TITLE="РАЗВЛЕКАТЕЛЬНЫЕ",ДАЧА HD
+http://tvport.it-tele.net:8000/2e9f10137a13f5aea7daa31fdccb94fc
+#EXTINF:-1,TVG-ID="EPG N/A" TVG-LOGO="LOGO N/A" TVG-NAME="ДАЧА ТВ"  GROUP-TITLE="UNSORTED",ДАЧА ТВ
+http://88.216.8.122:8080/dacha/index.m3u8
+#EXTINF:0,DELUXE MUSIC
+http://server55.livestreamingcdn.com:1935/tulixdemo/tulixdemo/chunklist.m3u8
+#EXTINF:-1,DELUXE MUSIC
+http://78.26.128.45:8081/live/492/playlist.m3u8
+#EXTINF:-1,DELUXE MUSIC HD
+http://188.35.9.5:10007/stolen/200b/parasite.install
+#EXTINF:-1 GROUP-TITLE="МУЗЫКА",DELUXE MUSIC HD
+http://tvport.it-tele.net:8000/6e24ed5dff819c4f0e344e572e4f9d93
+#EXTINF:-1 GROUP-TITLE="МУЗЫКАЛЬНЫЕ" TVG-LOGO="HTTP://EKZOT.UCOZ.NET/CH_ICONS/D/DELUXE_MUSIC.PNG",DELUXE MUSIC
+http://streaming-02.mivitec.net/live/smil:test.smil/chunklist_w1073861416_b879931_slDE.m3u8?q=?seg-user-zona-iptv.ru-v1-a1.m3u8
+#EXTINF:-1 GROUP-TITLE="МУЗЫКАЛЬНЫЕ" TVG-LOGO="HTTP://EKZOT.UCOZ.NET/CH_ICONS/D/DELUXE_MUSIC.PNG",DELUXE MUSIC
+http://streaming-02.mivitec.net/live/smil:test.smil/chunklist_w1073861416_b879931_slDE.m3u8
+#EXTINF:-1 GROUP-TITLE="МУЗЫКАЛЬНЫЕ" TVG-LOGO="HTTP://EKZOT.UCOZ.NET/CH_ICONS/D/DELUXE_MUSIC.PNG",DELUXE MUSIC
+http://46.245.180.160/live/smil:test.smil/chunklist_w1073861416_b879931_slDE.m3u8
+#EXTINF:-1,DEUTSCHE WELLE
+http://78.26.128.45:8081/live/41/playlist.m3u8
+#EXTINF:-1,ДИКАЯ РЫБАЛКА HD
+http://ruip.tv/9250/video.m3u8?token=ottgttv
+#EXTINF:-1 GROUP-TITLE="МУЖСКИЕ" TVG-LOGO="HTTP://EKZOT.UCOZ.NET/CH_ICONS/D/DIKAJA_RYBALKA.PNG",ДИКАЯ РЫБАЛКА [FHD]
+http://194.28.155.10:81/udp/225.0.56.99:1234
+#EXTINF:-1,ДИКИЙ
+http://212.113.38.99/hls/6c4669a788be90c2652da0dfcc6e48c7//mhd/Braven.2018.720p.WEB-DL.Kinozal-Reliz.by.WSM.m3u8
+#EXTINF:-1,DISCOVERY
+http://95.153.22.122:8000/play/a00c/index.m3u8
+#EXTINF:-1,DISCOVERY HD
+http://83.246.208.234:81/udp/239.54.7.86:1224
+#EXTINF:-1,DISCOVERY CHANNEL HD
+http://ruip.tv/8979/video.m3u8?token=ottgttv
+#EXTINF:-1,DISCOVERY CHANNEL HD
+http://46.241.81.71:81/udp/239.54.7.86:1224
+#EXTINF:-1,DISCOVERY CHANNEL
+http://213.174.8.7:8000/play/24/index.m3u8
+#EXTINF:-1 GROUP-TITLE="ПУТЕШЕСТВИЯ" TVG-LOGO="HTTP://EKZOT.UCOZ.NET/CH_ICONS/D/DISCOVERY_CHANNEL.PNG",DISCOVERY CHANNEL
+http://83.167.253.110:5000/live/discovery/playlist.m3u8
+#EXTINF:-1 GROUP-TITLE="ПУТЕШЕСТВИЯ" TVG-LOGO="HTTP://EKZOT.UCOZ.NET/CH_ICONS/D/DISCOVERY_CHANNEL.PNG",DISCOVERY CHANNEL
+http://109.171.14.41:81/udp/239.54.6.91:1234
+#EXTINF:-1 GROUP-TITLE="ПУТЕШЕСТВИЯ" TVG-LOGO="HTTP://EKZOT.UCOZ.NET/CH_ICONS/D/DISCOVERY_CHANNEL.PNG",DISCOVERY CHANNEL
+http://37.192.100.141:81/udp/239.1.5.1:1234
+#EXTINF:-1 GROUP-TITLE="ПУТЕШЕСТВИЯ" TVG-LOGO="HTTP://EKZOT.UCOZ.NET/CH_ICONS/D/DISCOVERY_CHANNEL.PNG",DISCOVERY CHANNEL
+http://109.171.14.41:81/udp/239.54.6.199:1224
+#EXTINF:-1 GROUP-TITLE="ПУТЕШЕСТВИЯ" TVG-LOGO="HTTP://EKZOT.UCOZ.NET/CH_ICONS/D/DISCOVERY_CHANNEL.PNG",DISCOVERY CHANNEL
+http://tvport.it-tele.net:8000/50f77507a9f62b64aab112621c893b5b
+#EXTINF:-1,DISCOVERY CHANNEL HD (ENG)
+http://80.80.160.168/live/8/live.m3u8
+#EXTINF:-1 GROUP-TITLE="ПУТЕШЕСТВИЯ" TVG-LOGO="HTTP://EKZOT.UCOZ.NET/CH_ICONS/D/DISCOVERY_CHANNEL.PNG",DISCOVERY CHANNEL [FHD]
+http://194.28.155.10:81/udp/225.0.56.23:1234
+#EXTINF:0,DISCOVERY SCIENCE HD
+http://live02-cdn.tv.ti.ru/dtv/id248_NBN_SG--DiscoveryScienceHD/04/plst.m3u8
+#EXTINF:-1,DISCOVERY SCIENCE HD
+http://ruip.tv/6482/video.m3u8?token=ottgttv
+#EXTINF:-1,DISCOVERY SCIENCE
+http://tvport.it-tele.net:8000/fae5e9752a49e0cebbdb07ca0f1abc60
+#EXTINF:-1,DISCOVERY SCIENCE HD
+http://live02-cdn.tv.ti.ru/dtv/id248_NBN_SG--DiscoveryScienceHD/04/plst.m3u8?q=?seg-user-zona-iptv.ru-v1-a1.m3u8
+#EXTINF:-1,DISCOVERY SCIENCE HD
+http://live02-cdn.tv.ti.ru/dtv/id248_NBN_SG--DiscoveryScienceHD/03/plst.m3u8?q=?seg-user-zona-iptv.ru-v1-a1.m3u8
+#EXTINF:-1,DISCOVERY SCIENCE HD
+http://live02-cdn.tv.ti.ru/dtv/id248_NBN_SG--DiscoveryScienceHD/03/plst.m3u8
+#EXTINF:-1 GROUP-TITLE="НАШ",DISCOVERY SCIENCE HD (РЕЗЕРВ)
+http://tvport.it-tele.net:8000/5767bdc75c13febea8aea3ef718be06c
+#EXTINF:-1 GROUP-TITLE="ПОЗНАВАТЕЛЬНЫЕ" TVG-LOGO="HTTP://EKZOT.UCOZ.NET/CH_ICONS/D/DISCOVERY_SCIENCE.PNG",DISCOVERY SCIENCE [FHD]
+http://194.28.155.10:81/udp/225.0.56.24:1234
+#EXTINF:-1 GROUP-TITLE="ПОЗНАВАТЕЛЬНЫЕ" TVG-LOGO="HTTP://EKZOT.UCOZ.NET/CH_ICONS/D/DISCOVERY_SCIENCE.PNG",DISCOVERY SCIENCE [FHD]
+http://iptvfree1.com:6969/live/lirone/oy0G4o2SMB/5467.ts
+#EXTINF:-1 GROUP-TITLE="ПОЗНАВАТЕЛЬНЫЕ" TVG-LOGO="HTTP://EKZOT.UCOZ.NET/CH_ICONS/D/DISCOVERY_SCIENCE.PNG",DISCOVERY SCIENCE [HD]
+http://80.80.160.168/live/9/live.m3u8
+#EXTINF:-1 GROUP-TITLE="ПОЗНАВАТЕЛЬНЫЕ" TVG-LOGO="HTTP://EKZOT.UCOZ.NET/CH_ICONS/D/DISCOVERY_SCIENCE.PNG",DISCOVERY SCIENCE [R]
+http://182.73.122.74:10003/bysid/914
+#EXTINF:-1 AUDIO-TRACK="RUS" GROUP-TITLE="НАШ",DISCOVERY SHOWCASE HD
+http://tvport.it-tele.net:8000/347c13f2884140a1343279d3f2b0bb34
+#EXTINF:-1,DISCOVERY HD SHOWCASE
+http://ruip.tv/3258/video.m3u8?token=ottgttv
+#EXTINF:-1,DISCOVEVY CHANNEL
+http://213.151.233.20:8000/dna-6179-tv-pc/hls/4005v102.m3u8
+#EXTINF:-1 GROUP-TITLE="РАЗНОЕ" TVG-LOGO="HTTP://EKZOT.UCOZ.NET/CH_ICONS/D/DISCOVEVY_CHANNEL.PNG",DISCOVEVY CHANNEL (ENGLAND
+http://80.80.160.168/live/2/live.m3u8?q=?seg-user-zona-iptv.ru-v1-a1.m3u8
+#EXTINF:-1,DISNEY
+http://ruip.tv/7528/video.m3u8?token=ottgttv
+#EXTINF:-1 GROUP-TITLE="ДЕТСКИЕ" TVG-LOGO="HTTP://EKZOT.UCOZ.NET/CH_ICONS/D/DISNEY.PNG",DISNEY
+http://37.193.27.13:81/udp/239.1.15.12:1234
+#EXTINF:-1 GROUP-TITLE="ДЕТСКИЕ" TVG-LOGO="HTTP://EKZOT.UCOZ.NET/CH_ICONS/D/DISNEY.PNG",DISNEY
+http://93.100.231.28:81/udp/239.239.3.10:5239
+#EXTINF:-1 GROUP-TITLE="ДЕТСКИЕ" TVG-LOGO="HTTP://EKZOT.UCOZ.NET/CH_ICONS/D/DISNEY.PNG",DISNEY
+http://78.107.250.103:4000/udp/233.33.210.7:5050
+#EXTINF:-1 GROUP-TITLE="ДЕТСКИЕ" TVG-LOGO="HTTP://EKZOT.UCOZ.NET/CH_ICONS/D/DISNEY.PNG",DISNEY
+http://176.196.160.34:4022/udp/239.255.42.26:1234
+#EXTINF:-1 GROUP-TITLE="ДЕТСКИЕ" TVG-LOGO="HTTP://EKZOT.UCOZ.NET/CH_ICONS/D/DISNEY.PNG",DISNEY
+http://92.61.69.31:34040/udp/224.0.42.43:5000
+#EXTINF:-1 GROUP-TITLE="ДЕТСКИЕ" TVG-LOGO="HTTP://EKZOT.UCOZ.NET/CH_ICONS/D/DISNEY.PNG",DISNEY
+http://182.73.122.74:10001/bysid/701
+#EXTINF:-1,DISNEY CHANNEL
+http://188.35.9.5:10007/stolen/199w/parasite.install
+#EXTINF:-1,ДОРАМА
+http://78.26.128.45:8081/live/487/playlist.m3u8
+#EXTINF:-1 GROUP-TITLE="НАШ",ДОРАМА HD
+http://213.234.9.46:7088/udp/239.1.10.38:1234
+#EXTINF:-1 GROUP-TITLE="КИНО И СЕРИАЛЫ" TVG-LOGO="HTTP://EKZOT.UCOZ.NET/CH_ICONS/D/DORAMA.PNG",ДОРАМА
+http://31.148.16.31:8080/udp/224.10.10.242:10000
+#EXTINF:-1 GROUP-TITLE="КИНО И СЕРИАЛЫ" TVG-LOGO="HTTP://EKZOT.UCOZ.NET/CH_ICONS/D/DORAMA.PNG",ДОРАМА [R]
+http://5.129.5.77:81/udp/239.1.21.56:1234
+#EXTINF:-1,DORCEL
+http://cdn.miip.tv:80/Damian/123456/3277
+#EXTINF:0,DORCEL TV HD
+http://a12453eb.iptvbot.net/iptv/ACC4B93WRQXVEF/245/index.m3u8
+#EXTINF:-1,DORCEL TV (18+)
+http://tvport.it-tele.net:8000/27cdb139c06cf32606e74585247314aa
+#EXTINF:-1,DSPORT
+http://jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD.m3u8?fluxustv.m3u8
+#EXTINF:-1, DSPORTS
+http://jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD_800.m3u8
+#EXTINF:-1 GROUP-TITLE="НАШ",DUCK TV
+http://91.197.48.162/ddyp045top9zi/mpegts?auth=26S96GYXZGYTA
+#EXTINF:-1 GROUP-TITLE="НАШ",DUCK TV HD
+http://51.15.190.120:38099/duckhd/live.m3u8
+#EXTINF:-1,DUSK TV
+http://cdn.miip.tv:80/Damian/123456/3267
+#EXTINF:-1,ECO TV
+http://78.26.128.59:8085/live/26/playlist.m3u8
+#EXTINF:-1,ЕДА HD
+http://now2.eaglecdn.com/stream/tveda_12/index.m3u8
+#EXTINF:-1,ЕДА
+https://now2.eaglecdn.com/stream/tveda_12/index.m3u8
+#EXTINF:0 TYPE="STREAM" CHANNELID="95",ЭХО ТВ
+http://live-echotv.cdnvideo.ru/echotv/echotv.sdp/chunklist.m3u8
+#EXTINF:0 TYPE="STREAM" CHANNELID="95",ЭХО ТВ
+http://live-echotv.cdnvideo.ru/echotv/echotv.sdp/playlist.m3u8
+#EXTINF:-1 GROUP-TITLE="РЕГИОНАЛЬНЫЕ" TVG-LOGO="HTTP://EKZOT.UCOZ.NET/CH_ICONS/E/EHKHO_TV.PNG",ЭХО ТВ
+http://live-echotv.cdnvideo.ru/echotv/echotv.sdp/playlist.m3u8?q=?seg-user-zona-iptv.ru-v1-a1.m3u8
+#EXTINF:-1,ЕКО
+http://78.26.128.45:8081/live/26/playlist.m3u8
+#EXTINF:-1,ENGLISH CLUB
+http://livecdnh2.tvanywhere.ae/hls/english_club/index.m3u8
+#EXTINF:-1 GROUP-TITLE="ОБРАЗОВАТЕЛЬНЫЕ" TVG-LOGO="HTTP://EKZOT.UCOZ.NET/CH_ICONS/E/ENGLISH_CLUB_TV.PNG",ENGLISH CLUB TV
+http://tvport.it-tele.net:8000/889911c4592a63b80b8b27d2ae6e0751
+#EXTINF:-1,ENTER-ФІЛЬМ
+http://188.35.9.5:10007/stolen/138w/parasite.install
+#EXTINF:-1,ENTER FILM
+http://ruip.tv/3420/video.m3u8?token=ottgttv
+#EXTINF:-1 GROUP-TITLE="РАЗНОЕ" TVG-LOGO="HTTP://EKZOT.UCOZ.NET/CH_ICONS/E/ENTER_FILM_UA.PNG",ENTER ФИЛЬМ UA
+http://tvport.it-tele.net:8000/0b9d1a3f676be516cdc5ba7ddf218f3b
+#EXTINF:-1,EROS XX
+http://cdn.miip.tv:80/Damian/123456/3274
+#EXTINF:-1,EROS XXX HD
+http://cdn.miip.tv:80/Damian/123456/3273
+#EXTINF:-1 GROUP-TITLE="ЭРОТИКА",EROX HD
+http://217.75.209.82:10224/udp/239.250.5.134:1234
+#EXTINF:-1 GROUP-TITLE="СПОРТ РАЗНЫЙ" TVG-LOGO="HTTP://EKZOT.UCOZ.NET/CH_ICONS/E/ESPORT_3.PNG",ESPORT 3
+http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:es3_web/chunklist_b1296000_DVR.m3u8
+#EXTINF:-1,ЕСПРЕСО
+http://78.26.128.45:8081/live/290/playlist.m3u8
+#EXTINF:-1 GROUP-TITLE="НАШ",ESPRESO TV HD
+http://91.197.48.162/y4lndd92d6b5q/mpegts?auth=26S96GYXZGYTA
+#EXTINF:-1 GROUP-TITLE="МУЗЫКА",EU.MUSIC HD
+http://91.197.48.162/nrj1dxod855xi/mpegts?auth=26S96GYXZGYTA
+#EXTINF:-1,EU MUSIC
+http://78.26.128.59:8085/live/361/chunks.m3u8
+#EXTINF:0,EURONEWS
+http://evronovosti.mediacdn.ru/sr1/evronovosti/playlist.m3u8
+#EXTINF:-1,EURONEWS
+http://95.153.22.122:8000/play/a00u/index.m3u8
+#EXTINF:-1,EURONEWS
+http://212.112.101.69:8081/stream35/output.m3u8
+#EXTINF:-1 TVG-LOGO="HTTP://S8.HOSTINGKARTINOK.COM/UPLOADS/IMAGES/2018/10/D80336151A35F8FCF09ABF0A79A678C4.JPG" TVG-NAME="EURONEWS" GROUP-TITLE="ИНФОРМАЦИОННЫЕ",EURONEWS
+http://evronovosti.mediacdn.ru/sr1/evronovosti/playlist_2m.m3u8
+#EXTINF:-1 GROUP-TITLE="НОВОСТИ РАЗНЫЕ" TVG-LOGO="HTTP://EKZOT.UCOZ.NET/CH_ICONS/E/EURONEWS.PNG",EURONEWS (EN)
+http://46.241.48.168:81/udp/239.54.6.165:1224
+#EXTINF:0,EUROSPORT
+http://95.141.225.78:4022/udp/233.49.170.16:5000
+#EXTINF:-1,EUROSPORT
+http://95.153.22.122:8000/play/a00h/index.m3u8
+#EXTINF:-1,EUROSPORT
+http://46.19.43.248:9981/stream/channelid/1394443404
+#EXTINF:1,EUROSPORT HD
+http://203.154.243.89:1209
+#EXTINF:0,EUROSPORT 1 HD
+http://ruip.tv/8413/video.m3u8?token=ottgttv
+#EXTINF:0,EUROSPORT 1 HD
+http://ruip.tv/1515/video.m3u8?token=ottgttv
+#EXTINF:-1,EUROSPORT 1
+http://77.245.98.22:8000/play/307/index.m3u8
+#EXTINF:-1,EUROSPORT 1 HD
+http://212.112.101.69:8081/stream44/output.m3u8
+#EXTINF:-1,EUROSPORT 1
+http://tvport.it-tele.net:8000/228ae58f824e7668c245ecb1e5c1c850
+#EXTINF:-1,EUROSPORT 1 HD
+http://46.241.81.71:81/udp/239.54.6.174:1224
+#EXTINF:-1,EUROSPORT 1
+http://77.245.98.22:8000/play/307/tracks-v1a1/index.m3u8
+#EXTINF:-1 GROUP-TITLE="СПОРТ" TVG-LOGO="HTTP://EKZOT.UCOZ.NET/CH_ICONS/E/EUROSPORT_1.PNG",EUROSPORT 1
+http://213.174.8.7:8000/play/15/tracks-v1a1/index.m3u8
+#EXTINF:35000 GROUP-TITLE="СПОРТ" TVG-LOGO="HTTP://EKZOT.UCOZ.NET/CH_ICONS/E/EUROSPORT_1.PNG",EUROSPORT 1
+http://iptv-telik.usite.pro/load/0-0-1-7-20
+#EXTINF:-1 GROUP-TITLE="СПОРТ" TVG-LOGO="HTTP://EKZOT.UCOZ.NET/CH_ICONS/E/EUROSPORT_1.PNG",EUROSPORT 1
+http://213.174.8.7:8000/play/15/index.m3u8
+#EXTINF:-1,EUROSPORT 1 HD
+http://109.171.14.41:81/udp/239.54.6.174:1224
+#EXTINF:-1,TVG-ID="EPG N/A" TVG-LOGO="LOGO N/A" TVG-NAME="EUROSPORT 1 HD"  GROUP-TITLE="UNSORTED",EUROSPORT 1 HD
+http://213.151.233.20:8000/dna-6069-tv-pc/hls/4001v105.m3u8
+#EXTINF:1.19217,EUROSPORT 1 HD
+https://1.ip2stream.icu/live/eurosport_1_hd/chunks.m3u8
+#EXTINF:-1 GROUP-TITLE="СПОРТ",EUROSPORT 1
+http://livebar.pw/lba/123/g3/eurosport1rus.m3u8
+#EXTINF:0,EUROSPORT 2 HD
+http://ruip.tv/1525/video.m3u8?token=ottgttv
+#EXTINF:0,EUROSPORT 2 HD
+http://ruip.tv/9523/video.m3u8?token=ottgttv
+#EXTINF:-1,EUROSPORT 2
+http://95.153.22.122:8000/play/a00s/index.m3u8
+#EXTINF:-1,EUROSPORT 2
+http://tvport.it-tele.net:8000/440f706cdc90fc2a7b78e72a6d318ad9
+#EXTINF:-1,EUROSPORT 2
+http://46.19.43.248:9981/stream/channelid/796888819
+#EXTINF:-1 GROUP-TITLE="СПОРТ" TVG-LOGO="HTTP://EKZOT.UCOZ.NET/CH_ICONS/E/EUROSPORT_2.PNG",EUROSPORT 2
+http://37.193.190.134:81/udp/239.1.12.4:1234
+#EXTINF:-1 GROUP-TITLE="СПОРТ" TVG-LOGO="HTTP://EKZOT.UCOZ.NET/CH_ICONS/E/EUROSPORT_2.PNG",EUROSPORT 2
+http://212.164.223.102:8888/udp/233.7.70.14:5000
+#EXTINF:5.20039,EUROSPORT 2 HD
+https://1.ip2stream.icu/live/eurosport_2_hd/chunks.m3u8
+#EXTINF:-1 GROUP-TITLE="СПОРТ",EUROSPORT 2
+http://livebar.pw/lba/123/g4/ruseuro2.m3u8
+#EXTINF:0,EUROSPORT 4K
+http://ruip.tv/9006/video.m3u8?token=ottgttv
+#EXTINF:0,EUROSPORT GOLD HD
+http://ruip.tv/8749/video.m3u8?token=ottgttv
+#EXTINF:-1 GROUP-TITLE="СПОРТ",EUROSPORT GOLD HD (РЕЗЕРВ)
+http://ott.shara.club/nonecsa/DGMkwp30d8/1584
+#EXTINF:-1,ЕВРОКИНО
+http://78.26.128.45:8081/live/62/playlist.m3u8
+#EXTINF:-1,ЕВРОКИНО
+http://tvport.it-tele.net:8000/7acc10ebbfd3e151e98342d84275a8ef
+#EXTINF:-1 GROUP-TITLE="UNSORTED",ЕВРОКИНО
+http://46.18.202.220:8879/Eurokino/ch1.m3u8
+#EXTINF:-1 GROUP-TITLE="КИНО И СЕРИАЛЫ" TVG-LOGO="HTTP://EKZOT.UCOZ.NET/CH_ICONS/E/EVROKINO.PNG",ЕВРОКИНО
+http://92.61.69.31:34040/udp/224.0.42.105:5000
+#EXTINF:-1 GROUP-TITLE="КИНО И СЕРИАЛЫ" TVG-LOGO="HTTP://EKZOT.UCOZ.NET/CH_ICONS/E/EVROKINO.PNG",ЕВРОКИНО
+http://109.248.236.41:4433/udp/238.1.1.49:1234
+#EXTINF:-1,FAN
+http://ruip.tv/2006/video.m3u8?token=ottgttv
+#EXTINF:-1 GROUP-TITLE="ДЕТСКИЕ" TVG-LOGO="HTTP://EKZOT.UCOZ.NET/CH_ICONS/F/FAN.PNG",FAN
+http://92.61.69.31:34040/udp/224.0.42.183:5000
+#EXTINF:-1 GROUP-TITLE="ДЕТСКИЕ" TVG-LOGO="HTTP://EKZOT.UCOZ.NET/CH_ICONS/F/FAN.PNG",FAN
+http://37.235.158.116:81/udp/225.50.64.16:1234
+#EXTINF:0 TYPE="STREAM" CHANNELID="280" GROUP="ОБЩИЕ" ASPECT-RATIO="16:9",FASHION TV
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/playlist.m3u8
+#EXTINF:-1 GROUP-TITLE="ЖЕНСКИЕ" TVG-LOGO="HTTP://EKZOT.UCOZ.NET/CH_ICONS/F/FASHION_TV.PNG",FASHION TV
+http://80.94.54.42/fashiontv/stream/playlist.m3u8
+#EXTINF:-1 GROUP-TITLE="ЖЕНСКИЕ" TVG-LOGO="HTTP://EKZOT.UCOZ.NET/CH_ICONS/F/FASHION_TV.PNG",FASHION TV
+http://176.196.160.34:4022/udp/239.255.42.51:1234
+#EXTINF:-1 GROUP-TITLE="ЖЕНСКИЕ" TVG-LOGO="HTTP://EKZOT.UCOZ.NET/CH_ICONS/F/FASHION_TV.PNG",FASHION TV
+http://158.46.64.79:81/udp/239.255.42.51:1234
+#EXTINF:-1,FASHIONTV
+http://83.246.208.234:81/udp/239.54.5.3:1224
+#EXTINF:0,FASHION TV (SK)
+http://lb.streaming.sk/fashiontv/stream/playlist.m3u8
+#EXTINF:-1 GROUP-TITLE="ЖЕНСКИЕ" TVG-LOGO="HTTP://EKZOT.UCOZ.NET/CH_ICONS/F/FASHION_TV.PNG",FASHION TV (SK)
+http://lb.streaming.sk/fashiontv/stream/chunklist_w1906011378.m3u8
+#EXTINF:-1 GROUP-TITLE="РАЗВЛЕКАТЕЛЬНЫЕ",FASHION TV EU HD
+http://91.197.48.162/nkbunjq2rxxfo/mpegts?auth=26S96GYXZGYTA
+#EXTINF:0 TYPE="STREAM" CHANNELID="-1",FASHION TV VOD
+http://fash1043.cloudycdn.services/vod/_definst_/43/00/11/102218/1o2_dm_x3oqree.smil/playlist.m3u8
+#EXTINF:-1,FASHION UA
+http://95.67.47.115/hls/hdfashion_ua_mid/index.m3u8?q=?seg-user-zona-iptv.ru-v1-a1.m3u8
+#EXTINF:-1 GROUP-TITLE="НАШ",FILM.UA LIFE HD
+http://195.162.89.113:4000/udp/232.0.3.200:1234
+#EXTINF:-1,FILM 1 ACTION
+http://188.35.9.5:10005/stolen/142w/imposter.rar
+#EXTINF:-1,FILMUA DRAMA HD
+http://iptv.1plus1.net/iptv/ay40YWIuVVNRenExKi4y/228.0.2.130:1234
+#EXTINF:-1,FINE LIVING
+http://78.26.128.45:8081/live/404/playlist.m3u8
+#EXTINF:-1 GROUP-TITLE="РАЗВЛЕКАТЕЛЬНЫЕ",FINE LIVING HD
+http://ott.shara.club:80/nonecsa/DGMkwp30d8/2002
+#EXTINF:-1 GROUP-TITLE="ПОЗНАВАТЕЛЬНЫЕ" TVG-LOGO="HTTP://EKZOT.UCOZ.NET/CH_ICONS/F/FINE_LIVING.PNG",FINE LIVING
+http://182.73.122.74:10003/bysid/920
+#EXTINF:-1,FINE LIVING NETWORK
+http://78.26.128.59:8085/live/404/chunks.m3u8
+#EXTINF:-1,FOOD NETWORK
+http://78.26.128.45:8081/live/406/playlist.m3u8
+#EXTINF:-1 GROUP-TITLE="ЕДА" TVG-LOGO="HTTP://EKZOT.UCOZ.NET/CH_ICONS/F/FOOD_NETWORK.PNG",FOOD NETWORK
+http://176.196.160.34:4022/udp/239.255.42.201:1234
+#EXTINF:-1 GROUP-TITLE="ЕДА" TVG-LOGO="HTTP://EKZOT.UCOZ.NET/CH_ICONS/F/FOOD_NETWORK.PNG",FOOD NETWORK
+http://182.73.122.74:10003/bysid/916
+#EXTINF:-1,FOOD NETWORK
+http://95.86.32.7:999/food
+#EXTINF:-1,FOX
+http://95.153.22.122:8000/play/a00x/index.m3u8
+#EXTINF:-1,FOX
+http://77.245.98.22:8000/play/401/index.m3u8
+#EXTINF:-1,FOX HD
+http://s1.ott-club.ru/ch0052/video.m3u8?token=QWxpa3NhbmRyaXNofHxRbUZ5WVdKaE1UazBNQT09
+#EXTINF:-1,FOX HD
+http://37.195.117.73:81/udp/239.1.17.5:1234
+#EXTINF:-1,FOX
+http://178.163.47.249:4022/udp/234.0.0.184:2000
+#EXTINF:-1,FOX
+http://178.163.59.183:4022/udp/234.0.0.184:2000
+#EXTINF:-1,FRANCE 24
+http://78.26.128.45:8081/live/282/playlist.m3u8
+#EXTINF:-1,FRANCE 24
+http://95.153.22.122:8000/play/a01a/index.m3u8
+#EXTINF:-1 GROUP-TITLE="НОВОСТИ РАЗНЫЕ" TVG-LOGO="HTTP://EKZOT.UCOZ.NET/CH_ICONS/F/FRANCE_24.PNG",FRANCE 24
+http://f24hls-i.akamaihd.net/hls/live/221193/F24_EN_LO_HLS/master_900.m3u8?q=?seg-user-zona-iptv.ru-v1-a1.m3u8
+#EXTINF:0,FRANCE 24 (ENG)
+http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master_2000.m3u8
+#EXTINF:0,FRANCE 24 ARABIC
+http://f24hls-i.akamaihd.net/hls/live/221196-b/F24_AR_LO_HLS/master_900.m3u8
+#EXTINF:-1 GROUP-TITLE="НАШ",FRANCE 24 ENGLISH
+http://91.197.48.162/00r6riiuyucx8/mpegts?auth=26S96GYXZGYTA
+#EXTINF:-1,FRANCE 24 ENGLISH
+http://f24hls-i.akamaihd.net/hls/live/221193/F24_EN_LO_HLS/master_900.m3u8
+#EXTINF:-1 GROUP-TITLE="НОВОСТИ РАЗНЫЕ" TVG-LOGO="HTTP://EKZOT.UCOZ.NET/CH_ICONS/F/FRANCE_24.PNG",FRANCE 24 [FHD]
+http://92.61.69.31:34040/udp/224.0.42.21:5000
+#EXTINF:-1 GROUP-TITLE="НОВОСТИ РАЗНЫЕ" TVG-LOGO="HTTP://EKZOT.UCOZ.NET/CH_ICONS/F/FRANCE_24.PNG",FRANCE 24 [FHD]
+http://92.61.69.31:34040/udp/224.0.42.6:5000
+#EXTINF:0 TYPE="STREAM" CHANNELID="-1" NAME="FRANCOPHONIE 24" GROUP="FR" TVG-COUNTRY="FR",FRANCOPHONIE 24
+http://mv2.tvfrancophonie.org/live/Stream1/media_b776739_w671289549.m3u8
+#EXTINF:-1 GROUP-TITLE="FASHION ТВ" TVG-LOGO="HTTP://EKZOT.UCOZ.NET/CH_ICONS/F/FTV_TEENS.PNG",FTV TEENS
+https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_paris_pg_4dg_27027_paris_pg18_188_hls.smil/chunklist_b1400000_t64NDgwcA==.m3u8
+#EXTINF:0,ФУТБОЛ HD
+http://ruip.tv/2647/video.m3u8?token=ottgttv
+#EXTINF:-1 GROUP-TITLE="ФУТБОЛ" TVG-LOGO="HTTP://EKZOT.UCOZ.NET/CH_ICONS/F/FUTBOL.PNG",ФУТБОЛ
+http://37.192.22.180:81/udp/239.1.12.5:1234
+#EXTINF:-1 GROUP-TITLE="ФУТБОЛ" TVG-LOGO="HTTP://EKZOT.UCOZ.NET/CH_ICONS/F/FUTBOL.PNG",ФУТБОЛ
+http://92.61.69.31:34040/udp/224.0.42.118:5000
+#EXTINF:-1,ФУТБОЛ
+http://91.105.172.235:81/udp/239.54.6.153:1224
+#EXTINF:-1,ФУТБОЛ
+http://83.246.178.37:81/udp/239.54.7.153:1224
+#EXTINF:-1,ФУТБОЛ
+http://83.246.208.234:81/udp/239.54.7.153:1224
+#EXTINF:-1 GROUP-TITLE="СПОРТ",ФУТБОЛ 1 UA
+http://livebar.pw/lba/123/g1/ukrfoot1.m3u8
+#EXTINF:0,ФУТБОЛ 1 HD УКРАИНА
+http://ruip.tv/2284/video.m3u8?token=ottgttv
+#EXTINF:0,ФУТБОЛ 1 HD УКРАИНА
+http://ruip.tv/8521/video.m3u8?token=ottgttv
+#EXTINF:0 TVG-ID="FOOTBALL1-UA" GROUP-TITLE="СПОРТИВНЫЕ" TVG-LOGO="HTTP://EPG.IT999.RU/IMG/2189.PNG",ФУТБОЛ 1 УКРАИНА
+https://95-213-174-220.livesports24.online/uafootballua1.m3u8
+#EXTINF:-1 GROUP-TITLE="СПОРТ",ФУТБОЛ 2 UA
+http://livebar.pw/lba/123/g2/football2ukraine.m3u8
+#EXTINF:0,ФУТБОЛ 2 HD УКРАИНА
+http://ruip.tv/7054/video.m3u8?token=ottgttv
+#EXTINF:0,ФУТБОЛ 2 УКРАИНА HD
+http://ruip.tv/2070/video.m3u8?token=ottgttv
+#EXTINF:-1 GROUP-TITLE="СПОРТ",ФУТБОЛ RU
+http://livebar.pw/lba/123/g1/rusfootball.m3u8
+#EXTINF:0,ГЛАС
+http://85.238.112.69:8811/hlss/time.m3u8
+#EXTINF:-1 GROUP-TITLE="ОДЕССА",ГЛАС
+http://85.238.112.69:8811/hls_sec/239.0.4.18-.m3u8
+#EXTINF:0,GOTV
+http://nstream17.gotv.at:1938/live/gotvlive_576p/playlist.m3u8?user-4pda-denms-ru-v1-a1
+#EXTINF:-1,GOTV
+http://nstream17.gotv.at:1938/live/gotvlive_576p/playlist.m3u8
+#EXTINF:-1,GOTV
+http://nstream17.gotv.at:1938/live/gotvlive_576p/playlist.m3u8?q=?seg-user-zona-iptv.ru-v1-a1.m3u8
+#EXTINF:-1 GROUP-TITLE="НАШ",HBO HD
+http://tvport.it-tele.net:8000/46de61d870aa5aa225929b530b29fe43
+#EXTINF:-1 GROUP-TITLE="КИНО И СЕРИАЛЫ" TVG-LOGO="HTTP://EKZOT.UCOZ.NET/CH_ICONS/H/HBO.PNG",HBO
+http://extremetv.club:25461/Nilson1212/jzBREnbpDZ/4029
+#EXTINF:-1,HBO
+http://151.236.247.171:9000/get.php?username=dzunde&password=dzunde&type=m3u
+#EXTINF:-1,HBO
+http://lista.iptvcs.eu:80/irqy8j/gu7y1j/227
+#EXTINF:-1 GROUP-TITLE="НАШ",HBO 3 HD
+http://tvport.it-tele.net:8000/84f7393a41019e2fcd6cfb55f89c6bdf
+#EXTINF:-1,HISTORY
+http://95.153.22.122:8000/play/a00e/index.m3u8
+#EXTINF:-1,HISTORY
+http://31.185.0.40:8080/History/playlist.m3u8
+#EXTINF:-1,HISTORY HD
+http://ruip.tv/2267/video.m3u8?token=ottgttv
+#EXTINF:-1,HISTORY HD
+http://188.35.9.5:10005/stolen/152p/imposter.rar
+#EXTINF:-1 GROUP-TITLE="ПОЗНАВАТЕЛЬНЫЕ" TVG-LOGO="HTTP://EKZOT.UCOZ.NET/CH_ICONS/H/HISTORY.PNG",HISTORY
+http://182.73.122.74:10002/bysid/1213
+#EXTINF:0 TYPE="STREAM" CHANNELID="-1",HISTORYLAB
+http://wma10.fluidstream.net:1935/HistoryLab/livestream/playlist.m3u8
+#EXTINF:-1 GROUP-TITLE="🔸IT 🇮🇹" TVG-LOGO="HTTP://EKZOT.UCOZ.NET/CH_ICONS/H/HISTORY_LAB.PNG",HISTORY LAB
+http://wma10.fluidstream.net/HistoryLab/livestream/playlist.m3u8
+#EXTINF:-1 GROUP-TITLE="НАШ",HISTORY НАШ HD
+http://ott.shara.club:80/nonecsa/DGMkwp30d8/1434
+#EXTINF:-1,HOLLYWOOD HD
+http://ruip.tv/1996/video.m3u8?token=ottgttv
+#EXTINF:-1 GROUP-TITLE="КИНО И СЕРИАЛЫ" TVG-LOGO="HTTP://EKZOT.UCOZ.NET/CH_ICONS/H/HOLLYWOOD.PNG",HOLLYWOOD [FHD]
+http://194.28.155.10:81/udp/225.0.56.12:1234
+#EXTINF:-1,HUSTLER HD
+http://cdn.miip.tv:80/Damian/123456/86
+#EXTINF:-1,HUSTLER TV.
+http://cdn.miip.tv:80/Damian/123456/3138
+#EXTINF:-1,ICTV
+http://78.26.128.45:8081/live/189/playlist.m3u8
+#EXTINF:-1,ICTV
+http://ruip.tv/5886/video.m3u8?token=ottgttv
+#EXTINF:-1 GROUP-TITLE="🔸UA 🇺🇦" TVG-LOGO="HTTP://EKZOT.UCOZ.NET/CH_ICONS/I/ICTV.PNG",ICTV
+http://188.35.9.26:11051/udp/238.0.11.1:69000
+#EXTINF:-1 GROUP-TITLE="🔸UA 🇺🇦" TVG-LOGO="HTTP://EKZOT.UCOZ.NET/CH_ICONS/I/ICTV.PNG",ICTV
+http://188.35.9.26:11050/udp/238.0.11.1:69000
+#EXTINF:-1,IF FASHION
+http://idfashion-hls1.cosmonova.net.ua/hls/idfashion_ua_mid/index.m3u8
+#EXTINF:-1,ИНДИГО
+http://78.26.128.45:8081/live/233/playlist.m3u8
+#EXTINF:-1,ИНТЕР
+http://109.68.41.148:1935/live/inter_2/playlist.m3u8
+#EXTINF:-1,ИНТЕР
+http://lb1.macc.com.ua/img/inter_2/index.m3u8
+#EXTINF:-1,ИНТЕР
+http://78.26.128.45:8081/live/137/playlist.m3u8
+#EXTINF:-1,ИНТЕР
+http://ruip.tv/5928/video.m3u8?token=ottgttv
+#EXTINF:-1,ИНТЕР
+https://edge3.iptv.macc.com.ua/img/inter_3/index.m3u8
+#EXTINF:-1,IНТЕР
+https://edge3.iptv.macc.com.ua/img/inter_2/index.m3u8
+#EXTINF:-1,IНТЕР
+http://109.68.41.148:1935/live/inter_3/playlist.m3u8
+#EXTINF:-1 GROUP-TITLE="🔸UA 🇺🇦" TVG-LOGO="HTTP://EKZOT.UCOZ.NET/CH_ICONS/I/INTER.PNG",IНТЕР
+http://109.68.41.148:1935/live/inter_3/playlist.m3u8?q=?seg-user-zona-iptv.ru-v1-a1.m3u8
+#EXTINF:-1 GROUP-TITLE="🔸UA 🇺🇦" TVG-LOGO="HTTP://EKZOT.UCOZ.NET/CH_ICONS/I/INTER.PNG",ИНТЕР
+http://109.68.41.148:1935/live/inter_1/playlist.m3u8
+#EXTINF:-1 GROUP-TITLE="🔸UA 🇺🇦" TVG-LOGO="HTTP://EKZOT.UCOZ.NET/CH_ICONS/I/INTER.PNG",ИНТЕР
+https://edge3.iptv.macc.com.ua/img/inter_3/index.m3u8?q=?seg-user-zona-iptv.ru-v1-a1.m3u8
+#EXTINF:-1,K1
+http://78.26.128.45:8081/live/105/playlist.m3u8
+#EXTINF:-1,К1
+http://ruip.tv/4625/video.m3u8?token=ottgttv
+#EXTINF:-1,К1
+http://109.68.40.67/life/k1_3/index.m3u8
+#EXTINF:-1,К1
+http://109.68.40.67/life/k1.m3u8
+#EXTINF:0 TYPE="STREAM" CHANNELID="427",К1
+https://edge2.iptv.macc.com.ua/life/k1_2/index.m3u8
+#EXTINF:0 TYPE="STREAM" CHANNELID="427",К1
+http://109.68.40.72/life/k1_2/index.m3u8
+#EXTINF:-1 GROUP-TITLE="РАЗНОЕ" TVG-LOGO="HTTP://EKZOT.UCOZ.NET/CH_ICONS/K/K1.PNG",K1
+http://188.35.9.26:2050/udp/238.0.2.2:69000
+#EXTINF:-1 GROUP-TITLE="🔸UA 🇺🇦" TVG-LOGO="HTTPS://WWW.K1.UA/IMAGES/LOGO.PNG",K1
+http://109.68.40.67:80/life/k1_3/index.m3u8
+#EXTINF:-1 GROUP-TITLE="🔸UA 🇺🇦" TVG-LOGO="HTTP://EKZOT.UCOZ.NET/CH_ICONS/K/K1.PNG",К1
+http://109.68.40.67/life/k1_3/index.m3u8?q=?seg-user-zona-iptv.ru-v1-a1.m3u8
+#EXTINF:-1 GROUP-TITLE="🔸UA 🇺🇦" TVG-LOGO="HTTP://EKZOT.UCOZ.NET/CH_ICONS/K/K1.PNG",К1
+http://109.68.40.72/life/k1_2/index.m3u8#EXTM3U
+#EXTINF:-1 GROUP-TITLE="🔸UA 🇺🇦" TVG-LOGO="HTTP://EKZOT.UCOZ.NET/CH_ICONS/K/K1.PNG",К1
+http://109.68.40.67:80/life/k1_1/index.m3u8
+#EXTINF:-1,К1
+http://109.68.40.67/life/k1.m3u8?q=?seg-user-zona-iptv.ru-v1-a1.m3u8
+#EXTINF:-1,К1
+http://109.68.40.67:80/life/k1_1/index.m3u8?q=?seg-user-zona-iptv.ru-v1-a1.m3u8
+#EXTINF:-1,К2
+http://78.26.128.45:8081/live/145/playlist.m3u8
+#EXTINF:-1,К2
+http://ruip.tv/4349/video.m3u8?token=ottgttv
+#EXTINF:-1 GROUP-TITLE="РАЗНОЕ" TVG-LOGO="HTTP://EKZOT.UCOZ.NET/CH_ICONS/K/K2.PNG",K2
+http://188.35.9.26:2050/udp/238.0.2.3:69000
+#EXTINF:-1,К24
+http://176.101.224.21:8080/udp/239.195.41.225:1234
+#EXTINF:-1,KANAL 2
+http://95.153.22.122:8000/play/a00a/index.m3u8
+#EXTINF:0 TYPE="STREAM" CHANNELID="-1",KANAL 3
+http://stream.taksimbilisim.com:1935/kanal3/smil:kanal3.smil/iptvdelisi.m3u8
+#EXTINF:-1,КАНАЛ 5
+http://212.112.101.69:8081/stream27/output.m3u8
+#EXTINF:0 TYPE="STREAM" CHANNELID="3077",KANAL D HD
+https://blutv-beta.akamaized.net/kanaldhd/kanaldhd.smil/playlist.m3u8
+#EXTINF:-1,КАНАЛ DISNEY
+http://37.49.212.64:81/udp/239.54.7.67:1224
+#EXTINF:-1,КАРАВАН
+http://78.26.128.45:8081/live/435/playlist.m3u8
+#EXTINF:-1,KAZSPORT
+http://109.248.236.41:4433/udp/238.1.1.116:1234
+#EXTINF:-1 GROUP-TITLE="СПОРТ",KAZSPORT
+http://livebar.pw/lba/123/g2/qazsportkz.m3u8
+#EXTINF:-1,КИЇВ ТВ
+http://hls-kyivtv.cdnvideo.ru/kyivtv/kyivtv.sdp/playlist.m3u8
+#EXTINF:-1,КИНОКОМЕДИЯ
+http://ruip.tv/1119/video.m3u8?token=ottgttv
+#EXTINF:-1 GROUP-TITLE="КИНО И СЕРИАЛЫ" TVG-LOGO="HTTP://EKZOT.UCOZ.NET/CH_ICONS/K/KINOKOMEDIJA.PNG",КИНОКОМЕДИЯ
+http://37.192.22.180:81/udp/239.1.4.3:1234
+#EXTINF:-1 GROUP-TITLE="КИНО И СЕРИАЛЫ" TVG-LOGO="HTTP://EKZOT.UCOZ.NET/CH_ICONS/K/KINOKOMEDIJA.PNG",КИНОКОМЕДИЯ
+http://176.196.160.34:4022/udp/239.255.42.43:1234
+#EXTINF:-1 GROUP-TITLE="КОМЕДИИ",КИНОКОМЕДИЯ
+http://109.248.236.41:4433/udp/238.1.1.133:1234
+#EXTINF:0,KRATU
+http://iptv.rubintele.com:8552/play/a008
+#EXTINF:-1 GROUP-TITLE="РАЗНОЕ" TVG-LOGO="HTTP://EKZOT.UCOZ.NET/CH_ICONS/K/KRATU.PNG",KRATU
+http://46.175.163.130/vod/2/index.m3u8?q=?seg-user-zona-iptv.ru-v1-a1.m3u8
+#EXTINF:-1 GROUP-TITLE="🔸UA 🇺🇦" TVG-LOGO="HTTP://KRATU.UA/WP-CONTENT/UPLOADS/2016/06/OLD-LOGO.PNG",KRATU
+https://webcams.ks.ua/tvhls/stream1/index.m3u8
+#EXTINF:-1 GROUP-TITLE="🔸UA 🇺🇦" TVG-LOGO="HTTP://KRATU.UA/WP-CONTENT/UPLOADS/2016/06/OLD-LOGO.PNG",KRATU
+http://46.175.163.130/vod/2/index.m3u8
+#EXTINF:-1,KRATU
+http://193.107.128.8:8552/play/a008
+#EXTINF:-1,КРТ
+http://78.26.128.45:8081/live/248/playlist.m3u8
+#EXTINF:-1,КВАРТАЛ ТВ
+http://ruip.tv/1142/video.m3u8?token=ottgttv
+#EXTINF:-1 GROUP-TITLE="🎧 РАДИО" TVG-LOGO="HTTP://EKZOT.UCOZ.NET/CH_ICONS/K/KVARTAL_TV.PNG",KVARTAL TV
+http://188.35.9.26:2050/udp/238.0.2.6:69000
+#EXTINF:-1,М1
+http://78.26.128.45:8081/live/87/playlist.m3u8
+#EXTINF:-1,М2
+http://78.26.128.45:8081/live/124/playlist.m3u8
+#EXTINF:-1,МАЛЯТКО TV
+http://78.26.128.45:8081/live/177/playlist.m3u8
+#EXTINF:-1,МАТЧ
+http://46.18.202.220:8879/Match/ch1.m3u8
+#EXTINF:-1,МАТЧ
+http://176.114.132.7:81/udp/239.100.2.7:1234
+#EXTINF:0,МАТЧ!
+http://5.129.5.77:81/udp/239.1.15.16:1234
+#EXTINF:-1,МАТЧ! HD
+http://188.35.9.5:10007/stolen/196k/parasite.install
+#EXTINF:-1 GROUP-TITLE="СПОРТ" TVG-LOGO="HTTP://EKZOT.UCOZ.NET/CH_ICONS/M/MATCH.PNG",МАТЧ!
+http://meta.vcdn.biz/fb2879b1db7b9774b142918ea4521488_megogo/vod/fs/o/36426601/u_sid/0/u_uid/0/u_vod/0/u_device/cms_html5/u_srvc/28561/type.live/playlist.m3u8
+#EXTINF:-1 GROUP-TITLE="СПОРТ" TVG-LOGO="HTTP://EKZOT.UCOZ.NET/CH_ICONS/M/MATCH.PNG",МАТЧ!
+http://176.101.224.21:8080/udp/239.195.32.3:1234
+#EXTINF:-1 GROUP-TITLE="СПОРТ" TVG-LOGO="HTTP://EKZOT.UCOZ.NET/CH_ICONS/M/MATCH.PNG",МАТЧ!
+http://176.196.160.34:4022/udp/239.255.0.3:1234
+#EXTINF:-1 GROUP-TITLE="СПОРТ" TVG-LOGO="HTTP://EKZOT.UCOZ.NET/CH_ICONS/M/MATCH.PNG",МАТЧ!
+http://31.148.16.31:8080/udp/224.10.10.195:10000
+#EXTINF:-1 GROUP-TITLE="СПОРТ" TVG-LOGO="HTTP://EKZOT.UCOZ.NET/CH_ICONS/M/MATCH.PNG",МАТЧ!
+http://92.61.69.31:34040/udp/224.0.42.13:5000
+#EXTINF:-1 GROUP-TITLE="СПОРТ" TVG-LOGO="HTTP://EKZOT.UCOZ.NET/CH_ICONS/M/MATCH.PNG",МАТЧ!
+http://109.171.14.41:81/udp/239.0.42.83:1224
+#EXTINF:-1 GROUP-TITLE="СПОРТ" TVG-LOGO="HTTP://EKZOT.UCOZ.NET/CH_ICONS/M/MATCH.PNG",МАТЧ!
+http://109.171.14.41:81/udp/239.0.42.53:1224
+#EXTINF:-1 GROUP-TITLE="СПОРТ" TVG-LOGO="HTTP://EKZOT.UCOZ.NET/CH_ICONS/M/MATCH.PNG",МАТЧ!
+http://109.171.14.41:81/udp/239.54.6.191:1224
+#EXTINF:-1 GROUP-TITLE="СПОРТ" TVG-LOGO="HTTP://EKZOT.UCOZ.NET/CH_ICONS/M/MATCH.PNG",МАТЧ!
+http://194.28.155.10:81/udp/225.0.59.3:1234
+#EXTINF:-1 GROUP-TITLE="СПОРТ" TVG-LOGO="HTTP://EKZOT.UCOZ.NET/CH_ICONS/M/MATCH.PNG",МАТЧ!
+http://93.100.231.28:81/udp/239.239.1.66:5239
+#EXTINF:-1 GROUP-TITLE="СПОРТ" TVG-LOGO="HTTP://EKZOT.UCOZ.NET/CH_ICONS/M/MATCH.PNG",МАТЧ!
+http://188.35.9.26:13050/udp/238.0.13.3:69000
+#EXTINF:-1,МАТЧ!
+http://37.235.133.111:81/udp/225.50.66.91:1234
+#EXTINF:-1,МАТЧ! HD
+http://91.105.172.235:81/udp/239.54.6.152:1224
+#EXTINF:-1,TVG-ID="EPG N/A" TVG-LOGO="LOGO N/A" TVG-NAME="МАТЧ!"  GROUP-TITLE="UNSORTED",МАТЧ!
+http://meta.vcdn.biz/fb2879b1db7b9774b142918ea4521488_megogo/vod/fs/o/36426601/u_sid/0/u_uid/0/u_vod/0/u_device/cms_html5/u_srvc/28561/type.live/chunklist-sid1403767213-b700000.m3u8
+#EXTINF:-1,TVG-ID="EPG N/A" TVG-LOGO="LOGO N/A" TVG-NAME="МАТЧ! HD"  GROUP-TITLE="UNSORTED",МАТЧ! HD
+http://vs350.vcdn.biz/fb2879b1db7b9774b142918ea4521488_megogo/vod/fs/o/36426601/u_sid/0/u_uid/0/u_vod/0/u_device/cms_html5/u_srvc/28561/type.live/chunklist-sid1386192425-b4000000.m3u8
+#EXTINF:-1 GROUP-TITLE="РАЗНЫЙ СПОРТ",МАТЧ! HD
+http://vs350.vcdn.biz/fb2879b1db7b9774b142918ea4521488_megogo/vod/fs/o/36426601/u_sid/0/u_uid/0/u_vod/0/u_device/cms_html5/u_srvc/28561/type.live/chunklist-sid1386192425-b4000000.m3u8a
+#EXTINF:-1,МАТЧ! HD
+http://83.246.208.234:81/udp/239.54.7.152:1224
+#EXTINF:-1 GROUP-TITLE="СПОРТ",МАТЧ!
+http://livebar.pw/lba/123/g1/rusmatchtv.m3u8
+#EXTINF:-1,МАТЧ!
+http://91.205.131.26:8080/udp/239.195.32.3:1234
+#EXTINF:-1,МАТЧ! АРЕНА
+http://46.19.43.248:9981/stream/channelid/1313029335
+#EXTINF:-1 GROUP-TITLE="СПОРТ" TVG-LOGO="HTTP://EKZOT.UCOZ.NET/CH_ICONS/M/MATCH_ARENA.PNG",МАТЧ! АРЕНА
+http://31.148.16.31:8080/udp/224.10.10.39:10000
+#EXTINF:-1 GROUP-TITLE="СПОРТ" TVG-LOGO="HTTP://EKZOT.UCOZ.NET/CH_ICONS/M/MATCH_ARENA.PNG",МАТЧ! АРЕНА
+http://109.171.14.111:81/udp/239.54.7.85:1224
+#EXTINF:-1 GROUP-TITLE="СПОРТ" TVG-LOGO="HTTP://EKZOT.UCOZ.NET/CH_ICONS/M/MATCH_ARENA.PNG",МАТЧ! АРЕНА
+http://109.171.14.41:81/udp/239.54.7.85:1224
+#EXTINF:-1 GROUP-TITLE="СПОРТ" TVG-LOGO="HTTP://EKZOT.UCOZ.NET/CH_ICONS/M/MATCH_ARENA.PNG",МАТЧ! АРЕНА
+http://109.171.14.41:81/udp/239.54.6.225:1234
+#EXTINF:-1 GROUP-TITLE="СПОРТ" TVG-LOGO="HTTP://EKZOT.UCOZ.NET/CH_ICONS/M/MATCH_ARENA.PNG",МАТЧ! АРЕНА
+http://109.171.14.41:81/udp/239.54.6.85:1224
+#EXTINF:-1 GROUP-TITLE="СПОРТ" TVG-LOGO="HTTP://EKZOT.UCOZ.NET/CH_ICONS/M/MATCH_ARENA.PNG",МАТЧ! АРЕНА
+http://109.171.14.141:81/udp/239.54.6.85:1224?denms.ru
+#EXTINF:-1 GROUP-TITLE="СПОРТ" TVG-LOGO="HTTP://EKZOT.UCOZ.NET/CH_ICONS/M/MATCH_ARENA.PNG",МАТЧ! АРЕНА
+http://109.171.15.66:81/udp/239.54.6.85:1224?denms.ru
+#EXTINF:-1 GROUP-TITLE="СПОРТ" TVG-LOGO="HTTP://EKZOT.UCOZ.NET/CH_ICONS/M/MATCH_ARENA.PNG",МАТЧ! АРЕНА
+http://92.61.69.31:34040/udp/224.0.42.54:5000
+#EXTINF:-1 GROUP-TITLE="СПОРТ" TVG-LOGO="HTTP://EKZOT.UCOZ.NET/CH_ICONS/M/MATCH_ARENA.PNG",МАТЧ! АРЕНА
+http://109.171.14.41:81/udp/239.54.6.176:1224
+#EXTINF:-1,МАТЧ! АРЕНА
+http://91.105.172.235:81/udp/239.54.6.176:1224
+#EXTINF:-1,МАТЧ! АРЕНА HD
+http://37.235.133.111:81/udp/225.50.71.26:1234
+#EXTINF:-1,МАТЧ! АРЕНА
+http://83.246.208.234:81/udp/239.54.7.85:1224
+#EXTINF:-1 GROUP-TITLE="СПОРТ",МАТЧ! АРЕНА
+http://livebar.pw/lba/123/g5/rumatcharena.m3u8
+#EXTINF:-1,МАТЧ! АРЕНА (РЕЗЕРВ)
+http://109.171.42.247:81/udp/239.54.7.85:1224
+#EXTINF:0,МАТЧ! БОЕЦ
+http://5.129.5.77:81/udp/239.1.12.9:1234
+#EXTINF:-1,МАТЧ! БОЕЦ
+http://ruip.tv/1403/video.m3u8?token=ottgttv
+#EXTINF:-1,МАТЧ! БОЕЦ
+http://46.19.43.248:9981/stream/channelid/1585100965
+#EXTINF:-1 GROUP-TITLE="МУЖСКИЕ" TVG-LOGO="HTTP://EKZOT.UCOZ.NET/CH_ICONS/M/MATCH_BOEC.PNG",МАТЧ! БОЕЦ
+http://5.17.94.120:81/udp/235.10.10.27:1234
+#EXTINF:-1 GROUP-TITLE="МУЖСКИЕ" TVG-LOGO="HTTP://127.0.0.1/",МАТЧ! БОЕЦ
+http://188.134.74.206:81/udp/235.10.10.27:1234
+#EXTINF:-1 GROUP-TITLE="МУЖСКИЕ" TVG-LOGO="HTTP://EKZOT.UCOZ.NET/CH_ICONS/M/MATCH_BOEC.PNG",МАТЧ! БОЕЦ
+http://176.196.160.34:4022/udp/239.255.42.61:1234
+#EXTINF:-1 GROUP-TITLE="МУЖСКИЕ" TVG-LOGO="HTTP://EKZOT.UCOZ.NET/CH_ICONS/M/MATCH_BOEC.PNG",МАТЧ! БОЕЦ
+http://37.49.212.64:81/udp/239.54.7.25:1224
+#EXTINF:-1 GROUP-TITLE="МУЖСКИЕ" TVG-LOGO="HTTP://EKZOT.UCOZ.NET/CH_ICONS/M/MATCH_BOEC.PNG",МАТЧ! БОЕЦ
+http://109.171.14.111:81/udp/239.54.7.25:1224
+#EXTINF:-1,МАТЧ! БОЕЦ
+http://178.163.38.18:4022/udp/234.0.0.6:2000
+#EXTINF:-1,МАТЧ! БОЕЦ
+http://37.192.76.72:81/udp/239.1.12.9:1234
+#EXTINF:-1 GROUP-TITLE="МУЖСКИЕ" TVG-LOGO="HTTP://EKZOT.UCOZ.NET/CH_ICONS/M/MATCH_BOEC.PNG",МАТЧ! БОЕЦ [R]
+http://109.171.14.41:81/udp/239.54.6.25:1224
+#EXTINF:0,МАТЧ! ФУТБОЛ 1 HD
+http://ruip.tv/2321/video.m3u8?token=ottgttv
+#EXTINF:0,МАТЧ! ФУТБОЛ 1 HD
+http://ruip.tv/2065/video.m3u8?token=ottgttv
+#EXTINF:-1,МАТЧ! ФУТБОЛ 1
+http://46.19.43.248:9981/stream/channelid/354688218
+#EXTINF:-1,МАТЧ! ФУТБОЛ 1
+http://tvport.it-tele.net:8000/8b804b43f839479e0671340cf37e8555
+#EXTINF:-1,МАТЧ! ФУТБОЛ 1
+http://91.105.172.235:81/udp/239.54.6.72:1224
+#EXTINF:-1 GROUP-TITLE="СПОРТ",МАТЧ! ФУТБОЛ 1
+http://livebar.pw/lba/123/g2/mfootball1.m3u8
+#EXTINF:-1 GROUP-TITLE="СПОРТ",МАТЧ! ФУТБОЛ 1 HD (РЕЗЕРВ)
+http://tvport.it-tele.net:8000/c4899b628faa196e0c7ee76e7b3240e9
+#EXTINF:-1 GROUP-TITLE="ФУТБОЛ" TVG-LOGO="HTTP://EKZOT.UCOZ.NET/CH_ICONS/M/MATCH_FUTBOL_1.PNG",МАТЧ! ФУТБОЛ 1 [FHD]
+http://188.134.74.206:81/udp/235.10.10.100:1234
+#EXTINF:-1 GROUP-TITLE="ФУТБОЛ" TVG-LOGO="HTTP://EKZOT.UCOZ.NET/CH_ICONS/M/MATCH_FUTBOL_1.PNG",МАТЧ! ФУТБОЛ 1 [FHD]
+http://92.61.69.31:34040/udp/224.0.42.196:5000
+#EXTINF:99567 GROUP-TITLE="ФУТБОЛ" TVG-LOGO="HTTP://EKZOT.UCOZ.NET/CH_ICONS/M/MATCH_FUTBOL_1.PNG",МАТЧ! ФУТБОЛ 1 [HD]
+http://strah.live/iptv/mlkLutc/channel/2
+#EXTINF:0,МАТЧ! ФУТБОЛ 2 HD
+http://ruip.tv/6026/video.m3u8?token=ottgttv
+#EXTINF:0,МАТЧ! ФУТБОЛ 2 HD
+http://ruip.tv/4286/video.m3u8?token=ottgttv
+#EXTINF:0,МАТЧ! ФУТБОЛ 2
+http://persik.by/stream/3477/395381/10217.m3u8
+#EXTINF:-1,МАТЧ! ФУТБОЛ 2
+http://46.19.43.248:9981/stream/channelid/1669396465
+#EXTINF:-1,МАТЧ! ФУТБОЛ 2
+http://tvport.it-tele.net:8000/36efbb6e1af7983ec59ae790498692ce
+#EXTINF:-1 GROUP-TITLE="ФУТБОЛ" TVG-LOGO="HTTP://EKZOT.UCOZ.NET/CH_ICONS/M/MATCH_FUTBOL_2.PNG",МАТЧ! ФУТБОЛ 2
+http://188.35.9.26:12050/udp/238.0.12.3:69000
+#EXTINF:-1 GROUP-TITLE="ФУТБОЛ" TVG-LOGO="HTTP://EKZOT.UCOZ.NET/CH_ICONS/M/MATCH_FUTBOL_2.PNG",МАТЧ! ФУТБОЛ 2
+http://188.35.9.26:12051/udp/238.0.12.3:69000
+#EXTINF:-1 GROUP-TITLE="ФУТБОЛ" TVG-LOGO="HTTP://EKZOT.UCOZ.NET/CH_ICONS/M/MATCH_FUTBOL_2.PNG",МАТЧ! ФУТБОЛ 2
+http://85.12.241.45:81/udp/239.99.17.73:1234
+#EXTINF:-1 GROUP-TITLE="СПОРТ",МАТЧ! ФУТБОЛ 2
+http://livebar.pw/lba/123/g5/rumatchf2.m3u8
+#EXTINF:-1 GROUP-TITLE="СПОРТ",МАТЧ! ФУТБОЛ 2 HD (РЕЗЕРВ)
+http://tvport.it-tele.net:8000/a10205989fef823106861151d240cee4
+#EXTINF:-1 GROUP-TITLE="ФУТБОЛ" TVG-LOGO="HTTP://EKZOT.UCOZ.NET/CH_ICONS/M/MATCH_FUTBOL_2.PNG",МАТЧ! ФУТБОЛ 2 [FHD]
+http://92.61.69.31:34040/udp/224.0.42.198:5000
+#EXTINF:-1 GROUP-TITLE="ФУТБОЛ" TVG-LOGO="HTTP://EKZOT.UCOZ.NET/CH_ICONS/M/MATCH_FUTBOL_2.PNG",МАТЧ! ФУТБОЛ 2 [FHD]
+http://85.12.241.45:81/udp/239.99.17.60:1234
+#EXTINF:0,МАТЧ! ФУТБОЛ 3 HD
+http://ruip.tv/6866/video.m3u8?token=ottgttv
+#EXTINF:0,МАТЧ! ФУТБОЛ 3 HD
+http://ruip.tv/2773/video.m3u8?token=ottgttv
+#EXTINF:-1,МАТЧ! ФУТБОЛ 3
+http://46.19.43.248:9981/stream/channelid/2058911058
+#EXTINF:-1,МАТЧ! ФУТБОЛ 3
+http://tvport.it-tele.net:8000/c4f4d43363bea02c37593218d78b39b0
+#EXTINF:-1 GROUP-TITLE="СПОРТ",МАТЧ! ФУТБОЛ 3
+http://livebar.pw/lba/123/g4/matfoot3.m3u8
+#EXTINF:-1 GROUP-TITLE="СПОРТ",МАТЧ! ФУТБОЛ 3 HD (РЕЗЕРВ)
+http://tvport.it-tele.net:8000/77aa9bf2af12d2c52fb7dc4d8fb17b8a
+#EXTINF:-1 GROUP-TITLE="ФУТБОЛ" TVG-LOGO="HTTP://EKZOT.UCOZ.NET/CH_ICONS/M/MATCH_FUTBOL_3.PNG",МАТЧ! ФУТБОЛ 3 [FHD]
+http://217.117.113.24:4022/udp/230.3.4.82:5678
+#EXTINF:99567 GROUP-TITLE="ФУТБОЛ" TVG-LOGO="HTTP://EKZOT.UCOZ.NET/CH_ICONS/M/MATCH_FUTBOL_3.PNG",МАТЧ! ФУТБОЛ 3 [HD]
+http://strah.live/iptv/mlkLutc/channel/4
+#EXTINF:-1,МАТЧ! ИГРА
+http://46.19.43.248:9981/stream/channelid/1405443465
+#EXTINF:-1,МАТЧ! ИГРА
+http://tvport.it-tele.net:8000/79ed92e138099616894fd89daa1fb813
+#EXTINF:-1 GROUP-TITLE="СПОРТ" TVG-LOGO="HTTP://EKZOT.UCOZ.NET/CH_ICONS/M/MATCH_IGRA.PNG",МАТЧ! ИГРА
+http://31.148.16.31:8080/udp/224.0.90.142:1234
+#EXTINF:-1 GROUP-TITLE="СПОРТ" TVG-LOGO="HTTP://EKZOT.UCOZ.NET/CH_ICONS/M/MATCH_IGRA.PNG",МАТЧ! ИГРА
+http://91.244.114.186:808/iptv215
+#EXTINF:-1 GROUP-TITLE="СПОРТ" TVG-LOGO="HTTP://EKZOT.UCOZ.NET/CH_ICONS/M/MATCH_IGRA.PNG",МАТЧ! ИГРА
+http://178.163.63.41:4022/udp/234.0.0.6:2000
+#EXTINF:-1 GROUP-TITLE="СПОРТ" TVG-LOGO="HTTP://EKZOT.UCOZ.NET/CH_ICONS/M/MATCH_IGRA.PNG",МАТЧ! ИГРА
+http://92.61.69.31:34040/udp/224.0.42.176:5000
+#EXTINF:-1 GROUP-TITLE="СПОРТ" TVG-LOGO="HTTP://EKZOT.UCOZ.NET/CH_ICONS/M/MATCH_IGRA.PNG",МАТЧ! ИГРА
+http://109.171.14.41:81/udp/239.54.6.177:1224
+#EXTINF:-1 GROUP-TITLE="СПОРТ" TVG-LOGO="HTTP://EKZOT.UCOZ.NET/CH_ICONS/M/MATCH_IGRA.PNG",МАТЧ! ИГРА
+http://178.163.104.34:81/udp/234.0.0.6:2000
+#EXTINF:-1,МАТЧ! ИГРА
+http://91.105.172.235:81/udp/239.54.6.177:1224
+#EXTINF:-1,МАТЧ! ИГРА
+http://37.235.133.111:81/udp/225.50.64.41:1234
+#EXTINF:-1,МАТЧ! ИГРА
+http://83.246.208.234:81/udp/239.54.7.177:1234
+#EXTINF:-1 GROUP-TITLE="СПОРТ",МАТЧ! ИГРА
+http://livebar.pw/lba/123/g2/igrarus.m3u8
+#EXTINF:-1 TVG-LOGO="HTTP://S8.HOSTINGKARTINOK.COM/UPLOADS/IMAGES/2018/10/D80336151A35F8FCF09ABF0A79A678C4.JPG" TVG-NAME="МАТЧ!_ПРЕМЬЕР" TVG-SHIFT=0 ASPECT-RATIO=16:9 GROUP-TITLE="СПОРТИВНЫЕ",МАТЧ! ПРЕМЬЕР
+http://37.235.145.147:81/udp/225.50.67.1:1234?denms.ru
+#EXTINF:0,МАТЧ! ПРЕМЬЕР
+http://188.191.36.106:8080/hls/nashfutbol.m3u8
+#EXTINF:-1 GROUP-TITLE="ФУТБОЛ" TVG-LOGO="HTTP://EKZOT.UCOZ.NET/CH_ICONS/M/MATCH_PREMER.PNG",МАТЧ! ПРЕМЬЕР
+http://182.73.122.74:10001/bysid/706
+#EXTINF:-1,МАТЧ! ПРЕМЬЕР HD
+http://109.171.15.66:81/udp/239.54.6.152:1224
+#EXTINF:-1 GROUP-TITLE="СПОРТ",МАТЧ! ПРЕМЬЕР
+http://livebar.pw/lba/123/g3/mpremier.m3u8
+#EXTINF:0,МАТЧ! СТРАНА
+http://158.46.64.79:81/udp/239.255.42.27:1234
+#EXTINF:-1,МАТЧ! СТРАНА
+http://188.35.9.5:10007/stolen/124n/parasite.install
+#EXTINF:-1,МАТЧ! СТРАНА
+http://46.19.43.248:9981/stream/channelid/1951989673
+#EXTINF:-1 GROUP-TITLE="СПОРТ" TVG-LOGO="HTTP://EKZOT.UCOZ.NET/CH_ICONS/M/MATCH_STRANA.PNG",МАТЧ! СТРАНА
+http://tvport.it-tele.net:8000/362f79993bb03876d462ef1401cb0dfc
+#EXTINF:-1 GROUP-TITLE="СПОРТ" TVG-LOGO="HTTP://EKZOT.UCOZ.NET/CH_ICONS/M/MATCH.PNG",МАТЧ! [R]
+http://188.35.9.26:15051/udp/238.0.15.4:69000
+#EXTINF:-1 GROUP-TITLE="СПОРТ" TVG-LOGO="HTTP://EKZOT.UCOZ.NET/CH_ICONS/M/MATCH.PNG",МАТЧ! [R]
+http://109.171.14.41:81/udp/239.0.47.33:1224
+#EXTINF:-1 GROUP-TITLE="СПОРТ" TVG-LOGO="HTTP://EKZOT.UCOZ.NET/CH_ICONS/M/MATCH.PNG",МАТЧ! [R]
+http://78.107.250.103:4000/udp/233.33.220.252:5050
+#EXTINF:-1,MATCH TV
+http://188.134.78.205:81/udp/235.10.10.15:1234
+#EXTINF:-1,МАТЧ ПРЕМЬЕР
+http://109.248.236.41:4433/udp/238.1.1.76:1234?em9uYS1pcHR2LnJ1
+#EXTINF:-1,TVG-ID="EPG N/A" TVG-LOGO="LOGO N/A" TVG-NAME="МАТЧ ТВ"  GROUP-TITLE="UNSORTED",МАТЧ ТВ
+http://vs321.vcdn.biz/fb2879b1db7b9774b142918ea4521488_megogo/vod/fs/o/36426601/u_sid/0/u_uid/0/u_vod/0/u_device/cms_html5/u_srvc/28561/type.live/chunklist-sid1815308259-b4000000.m3u8
+#EXTINF:-1,TVG-ID="EPG N/A" TVG-LOGO="LOGO N/A" TVG-NAME="МАТЧ ТВ HD"  GROUP-TITLE="UNSORTED",МАТЧ ТВ HD
+http://93.170.3.5:4022/udp/239.255.8.42:1234
+#EXTINF:-1,МЕГА
+http://188.35.9.5:10007/stolen/140r/parasite.install
+#EXTINF:-1 GROUP-TITLE="РАЗНОЕ" TVG-LOGO="HTTP://EKZOT.UCOZ.NET/CH_ICONS/M/MEIDAN_TV.PNG",MEIDAN TV
+http://182.73.122.74:10003/bysid/906
+#EXTINF:-1 GROUP-TITLE="УКРАИНА",MILADY TELEVISION
+http://91.197.48.162/72iu3bpjhzb0p/mpegts?auth=26S96GYXZGYTA
+#EXTINF:-1 GROUP-TITLE="НАШ",МОТОРСПОРТ HD
+http://83.174.198.141:80/udp/239.98.2.149:1234
+#EXTINF:0,МОТОРСПОРТ ТВ HD
+http://ruip.tv/2697/video.m3u8?token=ottgttv
+#EXTINF:-1 GROUP-TITLE="МУЗЫКАЛЬНЫЕ" TVG-LOGO="HTTP://EKZOT.UCOZ.NET/CH_ICONS/M/MTV_DANCE.PNG",MTV DANCE
+http://37.192.22.180:81/udp/239.1.8.15:1234
+#EXTINF:-1 GROUP-TITLE="МУЗЫКАЛЬНЫЕ" TVG-LOGO="HTTP://EKZOT.UCOZ.NET/CH_ICONS/M/MTV_HITS.PNG",MTV HITS
+http://91.244.114.186:808/iptv359
+#EXTINF:-1,MTV HITS
+http://178.163.59.183:4022/udp/234.0.0.194:2000
+#EXTINF:-1 GROUP-TITLE="МУЗЫКАЛЬНЫЕ" TVG-LOGO="HTTP://EKZOT.UCOZ.NET/CH_ICONS/M/MTV_LIVE_HD.PNG",MTV LIVE HD [FHD]
+http://37.195.117.73:81/udp/239.1.17.83:1234
+#EXTINF:-1 GROUP-TITLE="МУЗЫКАЛЬНЫЕ" TVG-LOGO="HTTP://EKZOT.UCOZ.NET/CH_ICONS/M/MTV_ROCKS.PNG",MTV ROCKS
+http://178.163.122.244:4022/udp/234.0.0.193:2000
+#EXTINF:0,МУЖСКОЕ КИНО
+http://86.57.225.245:7015/play/a00r
+#EXTINF:-1,МУЖСКОЕ КИНО
+http://ruip.tv/5595/video.m3u8?token=ottgttv
+#EXTINF:-1 GROUP-TITLE="UNSORTED",МУЖСКОЕ КИНО
+http://178.163.123.93:4022/udp/234.0.0.213:2000
+#EXTINF:-1 GROUP-TITLE="КИНО И СЕРИАЛЫ" TVG-LOGO="HTTP://EKZOT.UCOZ.NET/CH_ICONS/M/MUZHSKOE_KINO.PNG",МУЖСКОЕ КИНО
+http://109.248.236.41:4433/udp/238.1.1.74:1234
+#EXTINF:-1 GROUP-TITLE="КИНО И СЕРИАЛЫ" TVG-LOGO="HTTP://EKZOT.UCOZ.NET/CH_ICONS/M/MUZHSKOE_KINO.PNG",МУЖСКОЕ КИНО
+http://92.61.69.31:34040/udp/224.0.42.22:5000
+#EXTINF:-1 GROUP-TITLE="КИНО И СЕРИАЛЫ" TVG-LOGO="HTTP://EKZOT.UCOZ.NET/CH_ICONS/M/MUZHSKOE_KINO.PNG",МУЖСКОЕ КИНО
+http://109.171.14.41:81/udp/239.54.7.1:1224
+#EXTINF:-1 GROUP-TITLE="КИНО И СЕРИАЛЫ" TVG-LOGO="HTTP://EKZOT.UCOZ.NET/CH_ICONS/M/MUZHSKOE_KINO.PNG",МУЖСКОЕ КИНО
+http://109.171.14.41:81/udp/239.54.6.1:1224
+#EXTINF:-1,МУЖСКОЕ КИНО
+http://83.246.208.234:81/udp/239.54.7.1:1224
+#EXTINF:-1 GROUP-TITLE="КИНО И СЕРИАЛЫ" TVG-LOGO="HTTP://EKZOT.UCOZ.NET/CH_ICONS/M/MUZHSKOE_KINO.PNG",МУЖСКОЕ КИНО [R]
+http://37.49.212.64:81/udp/239.54.7.1:1224
+#EXTINF:-1,MUSIC BOX
+http://212.26.132.86/hls/mb_ua_2500.m3u8
+#EXTINF:0 TYPE="STREAM" CHANNELID="-1",МUSICBOX
+http://212.26.132.86/hls/mb_ua.m3u8
+#EXTINF:-1 TVG-LOGO="HTTPS://WWW.FIRSTONETV.LIVE/IMAGES/LOGOS/UA/MUSICBOX.PNG" GROUP-TITLE="UKRAINE",MUSIC BOX
+http://212.26.132.86/hls/mb_ua_2500.m3u8?fluxustv.m3u8
+#EXTINF:0,MUSIC BOX AU
+http://212.26.132.86/hls/mb_ua_2500.m3u8?
+#EXTINF: -1 ,MUSICBOXGE
+http://94.43.239.178:8080/CHANNEL470/BITRATE0/playlist.m3u8
+#EXTINF:-1 GROUP-TITLE="🎧 РАДИО" TVG-LOGO="HTTP://EKZOT.UCOZ.NET/CH_ICONS/M/MUSIC_BOX_RUSSIAN.PNG",MUSIC BOX RUSSIAN
+http://5.129.5.77:81/udp/239.1.8.5:1234
+#EXTINF:-1 GROUP-TITLE="🎧 РАДИО" TVG-LOGO="HTTP://EKZOT.UCOZ.NET/CH_ICONS/M/MUSIC_BOX_RUSSIAN.PNG",MUSIC BOX RUSSIAN
+http://176.196.160.34:4022/udp/239.255.42.100:1234
+#EXTINF:-1 GROUP-TITLE="🎧 РАДИО" TVG-LOGO="HTTP://EKZOT.UCOZ.NET/CH_ICONS/M/MUSIC_BOX_RUSSIAN.PNG",MUSIC BOX RUSSIAN
+http://46.180.99.15:81/udp/239.255.42.100:1234
+#EXTINF:-1 GROUP-TITLE="🎧 РАДИО" TVG-LOGO="HTTP://EKZOT.UCOZ.NET/CH_ICONS/M/MUSIC_BOX_RUSSIAN.PNG",MUSIC BOX RUSSIAN
+http://37.193.27.13:81/udp/239.1.8.5:1234
+#EXTINF:-1 GROUP-TITLE="МУЗЫКАЛЬНЫЕ" TVG-LOGO="HTTP://EKZOT.UCOZ.NET/CH_ICONS/M/MUSIC_BOX_TV.PNG",MUSIC BOX TV
+http://37.192.22.180:81/udp/239.1.8.6:1234
+#EXTINF:-1 GROUP-TITLE="МУЗЫКАЛЬНЫЕ" TVG-LOGO="HTTP://EKZOT.UCOZ.NET/CH_ICONS/M/MUSIC_BOX_TV.PNG",MUSIC BOX TV
+http://37.195.117.73:81/udp/239.1.8.6:1234
+#EXTINF:-1 GROUP-TITLE="МУЗЫКАЛЬНЫЕ" TVG-LOGO="HTTP://EKZOT.UCOZ.NET/CH_ICONS/M/MUSIC_BOX_TV.PNG",MUSIC BOX TV
+http://37.193.27.13:81/udp/239.1.8.6:1234
+#EXTINF:-1 GROUP-TITLE="МУЗЫКАЛЬНЫЕ" TVG-LOGO="HTTP://EKZOT.UCOZ.NET/CH_ICONS/M/MUSICBOX_UA.PNG",MUSICBOX UA
+http://212.26.132.86/hls/mb_ua_2500.m3u8?user-4pda-denms-ru-v1-a1
+#EXTINF:-1 GROUP-TITLE="РАЗНОЕ" TVG-LOGO="HTTP://EKZOT.UCOZ.NET/CH_ICONS/M/MUSICBOX_UA.PNG",MUSICBOX UA
+http://212.26.132.86/hls/mb_ua_2500.m3u8?q=?seg-user-zona-iptv.ru-v1-a1.m3u8
+#EXTINF:0,НАШ ФУТБОЛ HD
+http://95.141.225.78:4022/udp/233.49.170.161:5000
+#EXTINF:-1,НАШ ФУТБОЛ
+http://46.19.43.248:9981/stream/channelid/1732834568
+#EXTINF:-1,НАШКОМЕДИЯ
+http://tvport.it-tele.net:8000/19caf07012c584095861c7cac8011659
+#EXTINF:-1,НАСТОЯЩЕЕ ВРЕМЯ HD
+http://78.26.128.45:8081/live/90/playlist.m3u8
+#EXTINF:-1 GROUP-TITLE="НАШ",НАСТОЯЩЕЕ ВРЕМЯ HD
+http://91.197.48.162/awr1ajkdktr52/mpegts?auth=26S96GYXZGYTA
+#EXTINF:-1,NAT GEO
+http://46.18.202.220:8879/NatGeo/ch1.m3u8
+#EXTINF:0,NAT GEO WILD HD
+http://95.141.225.78:4022/udp/233.49.170.106:5000
+#EXTINF:-1,NAT GEO WILD
+http://46.18.202.220:8879/NatGeoWild/ch1.m3u8
+#EXTINF:-1,NAT GEO WILD
+http://212.112.101.69:8081/stream47/output.m3u8
+#EXTINF:-1,NAT GEO WILD HD
+http://ruip.tv/7501/video.m3u8?token=ottgttv
+#EXTINF:0 TYPE="STREAM" CHANNELID="206",NAT GEO WILD HD
+https://cdn1.mobiletv.bg/T14/ATV/ngc_wild_hd/ngc_wild_hd_ATV987654321.m3u8
+#EXTINF:-1 GROUP-TITLE="В МИРЕ ЖИВОТНЫХ" TVG-LOGO="HTTP://EKZOT.UCOZ.NET/CH_ICONS/N/NAT_GEO_WILD.PNG",NAT GEO WILD
+http://176.196.160.34:4022/udp/239.255.42.36:1234
+#EXTINF:-1 GROUP-TITLE="В МИРЕ ЖИВОТНЫХ" TVG-LOGO="HTTP://EKZOT.UCOZ.NET/CH_ICONS/N/NAT_GEO_WILD.PNG",NAT GEO WILD
+http://37.192.22.180:81/udp/239.1.5.16:1234
+#EXTINF:-1,NAT GEO WILD
+http://212.113.38.99/tvpl.php?hash=MjE2QDY1YzBmZDZlM2QyYzU1NGFiNDMyNWQwYmJmMmRiYTIy.index.m3u8?q=?seg-user-zona-iptv.ru-v1-a1.m3u8
+#EXTINF:-1 GROUP-TITLE="НАШ",NAT GEO WILD HD (РЕЗЕРВ)
+http://213.234.9.46:7088/udp/239.1.12.6:1234
+#EXTINF:-1,NAT GEO WILD (RU)
+http://188.35.9.5:10020/stolen/487n/hot.dll
+#EXTINF:-1 GROUP-TITLE="В МИРЕ ЖИВОТНЫХ" TVG-LOGO="HTTP://EKZOT.UCOZ.NET/CH_ICONS/N/NAT_GEO_WILD.PNG",NAT GEO WILD [FHD]
+http://85.12.241.45:81/udp/239.99.17.247:1234
+#EXTINF:-1 GROUP-TITLE="🎧 РАДИО" TVG-LOGO="HTTP://EKZOT.UCOZ.NET/CH_ICONS/N/NATIONAL_GEOGRAHGIC.PNG",NATIONAL GEOGRAHGIC
+http://37.193.190.134:81/udp/239.1.5.8:1234
+#EXTINF:0,NATIONAL GEOGRAPHIC HD
+http://5.129.5.77:81/udp/239.1.17.1:1234
+#EXTINF:-1,NATIONAL GEOGRAPHIC HD
+http://ruip.tv/4998/video.m3u8?token=ottgttv
+#EXTINF:-1,NATIONAL GEOGRAPHIC
+http://tvport.it-tele.net:8000/bf61d21179b14905b0d4031947f6e738
+#EXTINF:-1,NATIONAL GEOGRAPHIC HD
+http://188.35.9.5:10005/stolen/151i/imposter.rar
+#EXTINF:-1 GROUP-TITLE="ПУТЕШЕСТВИЯ" TVG-LOGO="HTTP://EKZOT.UCOZ.NET/CH_ICONS/N/NATIONAL_GEOGRAPHIC.PNG",NATIONAL GEOGRAPHIC
+http://176.196.160.34:4022/udp/239.255.42.37:1234
+#EXTINF:-1 GROUP-TITLE="ПУТЕШЕСТВИЯ" TVG-LOGO="HTTP://EKZOT.UCOZ.NET/CH_ICONS/N/NATIONAL_GEOGRAPHIC.PNG",NATIONAL GEOGRAPHIC
+http://158.46.64.79:81/udp/239.255.42.37:1234
+#EXTINF:-1,NATIONAL GEOGRAPHIC HD
+http://188.242.220.229:81/udp/239.239.5.9:5239?em9uYS1pcHR2LnJ1
+#EXTINF:-1,NATIONAL GEOGRAPHIC WILD HD
+http://188.35.9.5:10005/stolen/149u/imposter.rar
+#EXTINF:0,NATIONAL GEOGRAPHIK
+http://5.129.5.77:81/udp/239.1.5.8:1234
+#EXTINF:-1,НАУКА
+http://78.26.128.45:8081/live/425/playlist.m3u8
+#EXTINF:-1 GROUP-TITLE="ПОЗНАВАТЕЛЬНЫЕ" TVG-LOGO="HTTP://EKZOT.UCOZ.NET/CH_ICONS/N/NAUKA.PNG",НАУКА
+http://92.61.69.31:34040/udp/224.0.42.175:5000
+#EXTINF:-1,НАУКА 2.0
+http://ruip.tv/5138/video.m3u8?token=ottgttv
+#EXTINF:-1 GROUP-TITLE="ПОЗНАВАТЕЛЬНЫЕ" TVG-LOGO="HTTP://EKZOT.UCOZ.NET/CH_ICONS/N/NAUKA_20.PNG",НАУКА 2.0
+http://178.163.122.244:4022/udp/234.0.0.226:2000
+#EXTINF:-1 GROUP-TITLE="ПОЗНАВАТЕЛЬНЫЕ" TVG-LOGO="HTTP://EKZOT.UCOZ.NET/CH_ICONS/N/NAUKA_20.PNG",НАУКА 2.0
+http://109.248.236.41:4433/udp/238.1.1.88:1234
+#EXTINF:-1,НАУКА 2.0
+http://83.246.208.234:81/udp/239.54.7.51:1224
+#EXTINF:-1 GROUP-TITLE="ПОЗНАВАТЕЛЬНЫЕ" TVG-LOGO="HTTP://EKZOT.UCOZ.NET/CH_ICONS/N/NAUKA_20.PNG",НАУКА 2.0 [R]
+http://31.148.16.31:8080/udp/224.0.90.143:1234
+#EXTINF:-1,NBS SPORTS HD
+http://161.0.157.5/PLTV/88888888/224/3221226881/index.m3u8
+#EXTINF:-1,NBS SPORTS
+http://161.0.157.5/PLTV/88888888/224/3221226881/02.m3u8?q=?seg-user-zona-iptv.ru-v1-a1.m3u8
+#EXTINF:-1,NBS SPORTS HD
+http://161.0.157.5/PLTV/88888888/224/3221226881/index.m3u8?q=?seg-user-zona-iptv.ru-v1-a1.m3u8
+#EXTINF:-1,NBS SPORTS HD 720
+http://161.0.157.5/PLTV/88888888/224/3221226881/01.m3u8?q=?seg-user-zona-iptv.ru-v1-a1.m3u8
+#EXTINF:-1,NBS SPORTS
+http://161.0.157.5/PLTV/88888888/224/3221226881/03.m3u8
+#EXTINF:-1 GROUP-TITLE="РАЗНЫЙ СПОРТ",NBS SPORTS
+http://161.0.157.5/PLTV/88888888/224/3221226881/02.m3u8
+#EXTINF:-1 GROUP-TITLE="РАЗНЫЙ СПОРТ",NBS SPORTS HD 720
+http://161.0.157.5/PLTV/88888888/224/3221226881/01.m3u8
+#EXTINF:-1 GROUP-TITLE="РАЗНОЕ" TVG-LOGO="HTTP://EKZOT.UCOZ.NET/CH_ICONS/N/NEWS.PNG",NEWS
+http://182.73.122.74:10003/bysid/915
+#EXTINF:-1,NEWSNET
+http://broadcastny.yournewsnet.com:8081/master/newsnetweb/playlist.m3u8?fluxustv.m3u8
+#EXTINF:-1,NICKELODEON
+http://212.112.101.69:8081/stream43/output.m3u8
+#EXTINF:-1,NICKELODEON HD
+http://ruip.tv/3240/video.m3u8?token=ottgttv
+#EXTINF:-1 GROUP-TITLE="ДЕТСКИЕ" TVG-LOGO="HTTP://EKZOT.UCOZ.NET/CH_ICONS/N/NICKELODEON.PNG",NICKELODEON
+http://37.49.212.64:81/udp/239.54.7.69:1224
+#EXTINF:-1 GROUP-TITLE="ДЕТСКИЕ" TVG-LOGO="HTTP://EKZOT.UCOZ.NET/CH_ICONS/N/NICKELODEON.PNG",NICKELODEON
+http://37.192.100.141:81/udp/239.1.3.4:1234
+#EXTINF:-1 GROUP-TITLE="ДЕТСКИЕ" TVG-LOGO="HTTP://EKZOT.UCOZ.NET/CH_ICONS/N/NICKELODEON.PNG",NICKELODEON
+http://176.196.160.34:4022/udp/239.255.42.32:1234
+#EXTINF:-1,NICKELODEON
+http://178.163.59.183:4022/udp/234.0.0.153:2000
+#EXTINF:-1 TVG-ID="" TVG-NAME="" TVG-LOGO="HTTPS://STATIC.IPTV-EPG.COM/GB/NICKJUNIOR.UK.PNG" GROUP-TITLE="",NICKELODEON JR РОССИЯ
+http://213.174.8.7:9100/index.m3u8
+#EXTINF:-1 GROUP-TITLE="РАЗНОЕ" TVG-LOGO="HTTP://EKZOT.UCOZ.NET/CH_ICONS/N/NICKELODION.PNG",NICKELODION
+http://37.193.190.134:81/udp/239.1.3.4:1234
+#EXTINF:-1,NICKELOZETN
+http://83.246.208.234:81/udp/239.54.7.69:1224
+#EXTINF:-1,NICK JR
+http://ruip.tv/3727/video.m3u8?token=ottgttv
+#EXTINF:-1,NICKJR
+http://212.112.101.69:8081/stream68/output.m3u8
+#EXTINF:-1 GROUP-TITLE="ДЕТСКИЕ" TVG-LOGO="HTTP://EKZOT.UCOZ.NET/CH_ICONS/N/NICK_JR.PNG",NICK JR.
+http://109.171.14.41:81/udp/239.54.7.5:1224
+#EXTINF:-1 GROUP-TITLE="ДЕТСКИЕ" TVG-LOGO="HTTP://EKZOT.UCOZ.NET/CH_ICONS/N/NICK_JR.PNG",NICK JR.
+http://182.73.122.74:10005/bysid/406
+#EXTINF:-1,NICK JR.
+http://83.246.208.234:81/udp/239.54.7.5:1224
+#EXTINF:-1 GROUP-TITLE="ДЕТСКИЕ" TVG-LOGO="HTTP://EKZOT.UCOZ.NET/CH_ICONS/N/NICK_JR.PNG",NICK JR. [R]
+http://176.196.160.34:4022/udp/239.255.42.126:1234
+#EXTINF:-1,НОВИЙ КАНАЛ
+http://ruip.tv/4256/video.m3u8?token=ottgttv
+#EXTINF:-1 GROUP-TITLE="РАЗНОЕ" TVG-LOGO="HTTP://EKZOT.UCOZ.NET/CH_ICONS/N/NOVY_CHANNEL.PNG",NOVY CHANNEL
+http://188.35.9.26:11050/udp/238.0.11.2:69000
+#EXTINF:-1 GROUP-TITLE="РАЗНОЕ" TVG-LOGO="HTTP://EKZOT.UCOZ.NET/CH_ICONS/N/NOVY_CHANNEL.PNG",NOVY CHANNEL
+http://188.35.9.26:11051/udp/238.0.11.2:69000
+#EXTINF:-1,НОВЫЙ КАНАЛ
+http://78.26.128.45:8081/live/132/playlist.m3u8
+#EXTINF:0 TYPE="STREAM" CHANNELID="-1",НОВЫЙ КАНАЛ
+http://stream.ont.by:1935/ont/live576p/playlist.m3u8
+#EXTINF:0 GROUP-TITLE="СПОРТИВНЫЕ",NSPORT + HD
+http://tvport.it-tele.net:8000/29f6991aaa5bf22cb13c0624090520f7
+#EXTINF:-1,НТ
+http://176.101.224.21:8080/udp/239.195.41.48:1234?Доп_ип_91.205.131.26:8080
+#EXTINF:-1,НТК УКРАИНА
+http://stream.ntktv.ua/s/ntk/ntk.m3u8
+#EXTINF:-1,НТН
+http://78.26.128.45:8081/live/7/playlist.m3u8
+#EXTINF:-1,НТН
+http://ruip.tv/4544/video.m3u8?token=ottgttv
+#EXTINF:-1,НТН
+http://lb1.macc.com.ua/img/ntn_2/index.m3u8
+#EXTINF:-1,НТН
+http://109.68.41.148:1935/live/ntn_2/playlist.m3u8
+#EXTINF:0 TYPE="STREAM" CHANNELID="426",НТН
+https://edge3.iptv.macc.com.ua/img/ntn_3/index.m3u8
+#EXTINF:-1,НТН
+http://109.68.41.148:1935/live/ntn_3/playlist.m3u8
+#EXTINF:-1 GROUP-TITLE="РАЗНОЕ" TVG-LOGO="HTTP://EKZOT.UCOZ.NET/CH_ICONS/N/NTN.PNG",NTN
+http://188.35.9.26:11050/udp/238.0.11.3:69000
+#EXTINF:-1 GROUP-TITLE="РАЗНОЕ" TVG-LOGO="HTTP://EKZOT.UCOZ.NET/CH_ICONS/N/NTN.PNG",NTN
+http://188.35.9.26:11051/udp/238.0.11.3:69000
+#EXTINF:-1 GROUP-TITLE="РАЗНОЕ" TVG-LOGO="HTTP://EKZOT.UCOZ.NET/CH_ICONS/N/NTN.PNG",НТН
+https://edge3.iptv.macc.com.ua/img/ntn_3/index.m3u8?q=?seg-user-zona-iptv.ru-v1-a1.m3u8
+#EXTINF:-1,НТН
+http://109.68.41.148:1935/live/ntn_3/playlist.m3u8?q=?seg-user-zona-iptv.ru-v1-a1.m3u8
+#EXTINF:-1,НТН
+https://edge2.iptv.macc.com.ua/img/ntn.m3u8
+#EXTINF:0,НТВ СЕРИАЛ
+http://ruip.tv/3213/video.m3u8?token=ottgttv
+#EXTINF:-1 GROUP-TITLE="КИНО И СЕРИАЛЫ" TVG-LOGO="HTTP://EKZOT.UCOZ.NET/CH_ICONS/N/NTV_SERIAL.PNG",НТВ СЕРИАЛ
+http://tvport.it-tele.net:8000/5a9f4d73816cf95dea6d13f75908c96d
+#EXTINF:-1 GROUP-TITLE="РАЗНОЕ",НТВ СЕРИАЛ
+http://188.35.9.26:11031/udp/150t
+#EXTINF:-1,NUART TV HD
+http://live.planeta-online.tv:1935/public/channel_5/playlist.m3u8
+#EXTINF:-1,NUART TV
+http://cdn.miip.tv:80/Damian/123456/90
+#EXTINF:-1,NUART TV (18+)
+http://tvport.it-tele.net:8000/f6c3f3b4a6fc08c50fa7881628aaad42
+#EXTINF:-1 GROUP-TITLE="МУЗЫКАЛЬНЫЕ" TVG-LOGO="HTTP://EKZOT.UCOZ.NET/CH_ICONS/O/O2TV.PNG",O2TV
+http://178.163.89.138:4022/udp/234.0.0.10:2000
+#EXTINF:-1 GROUP-TITLE="МУЗЫКАЛЬНЫЕ" TVG-LOGO="HTTP://EKZOT.UCOZ.NET/CH_ICONS/O/O2TV.PNG",O2TV
+http://176.196.160.34:4022/udp/239.255.42.134:1234
+#EXTINF:-1 GROUP-TITLE="МУЗЫКАЛЬНЫЕ" TVG-LOGO="HTTP://EKZOT.UCOZ.NET/CH_ICONS/O/O2TV.PNG",O2TV
+http://93.100.231.28:81/udp/239.239.3.46:5239
+#EXTINF:-1 GROUP-TITLE="МУЗЫКАЛЬНЫЕ" TVG-LOGO="HTTP://EKZOT.UCOZ.NET/CH_ICONS/O/O2TV.PNG",O2TV
+http://46.180.99.15:81/udp/239.255.42.134:1234
+#EXTINF:0 TVG-ID="OBOZ-TV" GROUP-TITLE="УКРАИНА" TVG-LOGO="HTTP://EPG.IT999.RU/IMG/2150.PNG",OBOZ TV
+https://player.obozrevatel.com/live1/stream.m3u8
+#EXTINF:0 TVG-ID="OBOZ-TV" GROUP-TITLE="УКРАИНА" TVG-LOGO="HTTP://EPG.IT999.RU/IMG/2150.PNG",OBOZ TV HD
+https://player.obozrevatel.com/live3/stream.m3u8
+#EXTINF:-1,ОХОТА И РЫБАЛКА
+http://46.18.202.220:8879/Ohota/ch1.m3u8
+#EXTINF:-1 GROUP-TITLE="МУЖСКИЕ" TVG-LOGO="HTTP://EKZOT.UCOZ.NET/CH_ICONS/O/OKHOTA_I_RYBALKA.PNG",ОХОТА И РЫБАЛКА
+http://176.196.160.34:4022/udp/239.255.42.39:1234
+#EXTINF:-1 GROUP-TITLE="МУЖСКИЕ" TVG-LOGO="HTTP://EKZOT.UCOZ.NET/CH_ICONS/O/OKHOTA_I_RYBALKA.PNG",ОХОТА И РЫБАЛКА
+http://109.248.236.41:4433/udp/238.1.1.103:1234
+#EXTINF:-1 GROUP-TITLE="МУЖСКИЕ" TVG-LOGO="HTTP://EKZOT.UCOZ.NET/CH_ICONS/O/OKHOTA_I_RYBALKA.PNG",ОХОТА И РЫБАЛКА
+http://37.192.22.180:81/udp/239.1.2.5:1234
+#EXTINF:-1,ОХОТА И РЫБАЛКА
+http://83.246.208.234:81/udp/239.54.7.26:1224
+#EXTINF:-1 GROUP-TITLE="🎧 РАДИО" TVG-LOGO="HTTP://EKZOT.UCOZ.NET/CH_ICONS/O/OKHOTA_I_RYBALKA.PNG",ОХОТА И РЫБАЛКА (РЕЗЕРВ3)
+http://tvport.it-tele.net:8000/47012a08a60720c9d0876841fb083c63
+#EXTINF:-1 GROUP-TITLE="🎧 РАДИО" TVG-LOGO="HTTP://EKZOT.UCOZ.NET/CH_ICONS/O/OKHOTNIK_I_RYBOL.PNG",ОХОТНИК И РЫБОЛ
+http://93.170.3.5:4022/udp/239.255.8.74:1234
+#EXTINF:-1 GROUP-TITLE="МУЖСКИЕ" TVG-LOGO="HTTP://EKZOT.UCOZ.NET/CH_ICONS/O/OKHOTNIK_I_RYBOLOV.PNG",ОХОТНИК И РЫБОЛОВ [FHD]
+http://37.193.92.99:1234/udp/239.1.17.21:1234
+#EXTINF:-1 GROUP-TITLE="МУЖСКИЕ" TVG-LOGO="HTTP://EKZOT.UCOZ.NET/CH_ICONS/O/OKHOTNIK_I_RYBOLOV_HD.PNG",ОХОТНИК И РЫБОЛОВ HD [FHD]
+http://37.192.22.180:81/udp/239.1.17.21:1234
+#EXTINF:0,ОРУЖИЕ
+http://streams.tv.mts.by/oruzhie/1/index.m3u8?q=?seg-user-zona-iptv.ru-v1-a1.m3u8
+#EXTINF:-1,ОРУЖИЕ
+http://ruip.tv/6836/video.m3u8?token=ottgttv
+#EXTINF:-1,ОРУЖИЕ
+http://212.112.101.69:8081/stream61/output.m3u8
+#EXTINF:-1 GROUP-TITLE="МУЖСКИЕ" TVG-LOGO="HTTP://EKZOT.UCOZ.NET/CH_ICONS/O/ORUZHIE.PNG",ОРУЖИЕ
+http://37.192.22.180:81/udp/239.1.2.7:1234
+#EXTINF:-1 GROUP-TITLE="МУЖСКИЕ" TVG-LOGO="HTTP://EKZOT.UCOZ.NET/CH_ICONS/O/ORUZHIE.PNG",ОРУЖИЕ
+http://tvport.it-tele.net:8000/17ef81d444947cf25b4173af09a7bc95
+#EXTINF:-1 GROUP-TITLE="МУЖСКИЕ" TVG-LOGO="HTTP://EKZOT.UCOZ.NET/CH_ICONS/O/ORUZHIE.PNG",ОРУЖИЕ
+http://37.193.190.134:81/udp/239.1.2.7:1234
+#EXTINF:-1,ОРУЖИЕ
+http://176.101.224.21:8080/udp/233.166.172.67:1234?Доп_ип_176.101.224.21:8080
+#EXTINF:0 TYPE="STREAM" CHANNELID="1719",PARAMOUNT
+http://paramount.live.flumotion.com/live/playlist.m3u8
+#EXTINF:-1,PARAMOUNT CHANNEL
+http://185.162.124.197/CH727_std/tracks-v1a1/index.m3u8
+#EXTINF:-1,PARAMOUNT CHANNEL HD
+http://ruip.tv/9462/video.m3u8?token=ottgttv
+#EXTINF:-1 GROUP-TITLE="КИНО И СЕРИАЛЫ" TVG-LOGO="HTTP://EKZOT.UCOZ.NET/CH_ICONS/P/PARAMOUNT_CHANNEL.PNG",PARAMOUNT CHANNEL
+http://182.73.122.74:10004/bysid/1105
+#EXTINF:-1 GROUP-TITLE="🎧 РАДИО" TVG-LOGO="HTTP://EKZOT.UCOZ.NET/CH_ICONS/P/PARAMOUNT_CHANNEL.PNG",PARAMOUNT CHANNEL (РЕЗЕРВ)
+http://tvport.it-tele.net:8000/abfd61f7581e6bc738076a32ff06ec85
+#EXTINF:-1,PARAMOUNT COMEDY HD
+http://ruip.tv/4957/video.m3u8?token=ottgttv
+#EXTINF:-1 GROUP-TITLE="КИНО И СЕРИАЛЫ" TVG-LOGO="HTTP://EKZOT.UCOZ.NET/CH_ICONS/P/PARAMOUNT_COMEDY.PNG",PARAMOUNT COMEDY
+http://176.196.160.34:4022/udp/239.255.42.16:1234
+#EXTINF:-1 GROUP-TITLE="КИНО И СЕРИАЛЫ" TVG-LOGO="HTTP://EKZOT.UCOZ.NET/CH_ICONS/P/PARAMOUNT_COMEDY.PNG",PARAMOUNT COMEDY
+http://158.46.64.79:81/udp/239.255.42.16:1234
+#EXTINF:-1 GROUP-TITLE="КИНО И СЕРИАЛЫ" TVG-LOGO="HTTP://EKZOT.UCOZ.NET/CH_ICONS/P/PARAMOUNT_COMEDY.PNG",PARAMOUNT COMEDY
+http://158.46.65.248:81/udp/239.255.42.16:1234
+#EXTINF:-1,PARAMOUNT COMEDY HD
+http://91.105.132.59:81/udp/239.54.5.117:1234
+#EXTINF:-1,PARAMOUNT COMEDY
+http://46.241.34.6:81/udp/239.54.6.38:1224
+#EXTINF:-1,PARAMOUNT COMEDY HD
+http://83.246.208.234:81/udp/239.54.5.117:1234
+#EXTINF:-1 GROUP-TITLE="🎧 РАДИО" TVG-LOGO="HTTP://EKZOT.UCOZ.NET/CH_ICONS/P/PARAMOUNT_COMEDY.PNG",PARAMOUNT COMEDY (РЕЗЕРВ3)
+http://tvport.it-tele.net:8000/f84a2ca43328a001ca1afc4857ab5e5d
+#EXTINF:-1,PARAMOUNT COMEDY РОССИЯ
+http://176.101.224.21:8080/udp/233.166.172.147:1234?Доп_ип_176.101.224.21:8080
+#EXTINF:-1,PENTHOUSE HD 1
+http://cdn.miip.tv:80/Damian/123456/3276
+#EXTINF:-1,PENTHOUSE HD 2
+http://cdn.miip.tv:80/Damian/123456/3275
+#EXTINF:-1,ПЕРШИЙ
+http://78.26.128.59:8085/live/218/playlist.m3u8
+#EXTINF:0 TYPE="STREAM" CHANNELID="-1",ПЕРШИЙ ДИЛОВОЙ
+http://pershij-dlovij-hls3.cosmonova.net.ua/hls/pershij-dlovij_ua_mid/index.m3u8
+#EXTINF:-1 GROUP-TITLE="🔸UA 🇺🇦" TVG-LOGO="HTTP://EKZOT.UCOZ.NET/CH_ICONS/P/PERSHIJ_ZAKHIDNIJ.PNG",ПЕРШИЙ ЗАХIДНИЙ
+http://hls.cdn.ua/1zahid.com_live/_definst_/livestream/playlist.m3u8
+#EXTINF:-1,ПЕРШИЙ ЗАХІДНИЙ
+http://rtmp.cdn.ua/1zahid.com_live/_definst_/livestream/playlist.m3u8?q=?seg-user-zona-iptv.ru-v1-a1.m3u8
+#EXTINF:0 TYPE="STREAM" CHANNELID="-1",ПЕРШИЙ ЗАХОДНИЙ
+http://rtmp.cdn.ua/1zahid.com_live/_definst_/livestream/playlist.m3u8
+#EXTINF:-1,ПЕРВЫЙ АВТОМОБИЛЬНЫЙ
+http://78.26.128.45:8081/live/300/playlist.m3u8
+#EXTINF:-1,ПЕРВЫЙ ДЕЛОВОЙ
+http://78.26.128.45:8081/live/75/playlist.m3u8
+#EXTINF:-1,ПЕРВЫЙ ДЕЛОВОЙ
+http://pershij-dlovij-hls3.cosmonova.net.ua/hls/pershij-dlovij_ua_hi/index.m3u8
+#EXTINF:-1,ПЕРВЫЙ ДЕЛОВОЙ
+http://pershij-dlovij-hls3.cosmonova.net.ua/hls/pershij-dlovij_ua_mid/index.m3u8?q=?seg-user-zona-iptv.ru-v1-a1.m3u8
+#EXTINF:-1 GROUP-TITLE="РАЗНОЕ" TVG-LOGO="HTTP://EKZOT.UCOZ.NET/CH_ICONS/P/PERVYJ_DELOVOJ.PNG",ПЕРВЫЙ ДЕЛОВОЙ [HD]
+http://pershij-dlovij-hls3.cosmonova.net.ua/hls/pershij-dlovij_ua_hi/index.m3u8?q=?seg-user-zona-iptv.ru-v1-a1.m3u8
+#EXTINF:-1,ПЕРВЫЙ КАНАЛ
+http://79.135.71.195:7777
+#EXTINF:-1,ПЕРВЫЙ КАНАЛ
+http://46.18.202.220:8879/Perviy/ch1.m3u8
+#EXTINF:-1,ПЕРВЫЙ КАНАЛ
+http://ruip.tv/9195/video.m3u8?token=ottgttv
+#EXTINF:0,ПЕРВЫЙ КАНАЛ
+http://176.101.224.21:8080/udp/239.195.32.1:1234
+#EXTINF:-1 GROUP-TITLE="ОБЩЕСТВЕННЫЕ" TVG-LOGO="HTTP://EKZOT.UCOZ.NET/CH_ICONS/P/PERVYJ_KANAL.PNG",ПЕРВЫЙ КАНАЛ
+http://stream.euroasia.lfstrm.tv/perviy_evrasia/1/index.m3u8
+#EXTINF:-1 GROUP-TITLE="ОБЩЕСТВЕННЫЕ" TVG-LOGO="HTTP://EKZOT.UCOZ.NET/CH_ICONS/P/PERVYJ_KANAL.PNG",ПЕРВЫЙ КАНАЛ
+http://176.196.160.34:4022/udp/239.255.42.1:1234
+#EXTINF:-1 GROUP-TITLE="ОБЩЕСТВЕННЫЕ" TVG-LOGO="HTTP://EKZOT.UCOZ.NET/CH_ICONS/P/PERVYJ_KANAL.PNG",ПЕРВЫЙ КАНАЛ
+http://46.180.99.15:81/udp/239.255.42.1:1234
+#EXTINF:-1 GROUP-TITLE="ОБЩЕСТВЕННЫЕ" TVG-LOGO="HTTP://EKZOT.UCOZ.NET/CH_ICONS/P/PERVYJ_KANAL.PNG",ПЕРВЫЙ КАНАЛ
+http://109.171.14.41:81/udp/239.54.6.190:1224
+#EXTINF:-1,ПЕРВЫЙ КАНАЛ HD
+http://83.246.208.234:81/udp/239.54.5.61:1224
+#EXTINF:-1,ПЕРВЫЙ КАНАЛ
+http://91.207.76.11:8000/tv_ch1-01
+#EXTINF:0,ПЕРВЫЙ КАНАЛ (+2)
+http://ruip.tv/9429/video.m3u8?token=ottgttv
+#EXTINF:0,ПЕРВЫЙ КАНАЛ (+4)
+http://ruip.tv/9664/video.m3u8?token=ottgttv
+#EXTINF:0,ПЕРВЫЙ КАНАЛ (+4)
+http://83.246.178.12:81/udp/239.54.7.61:1224
+#EXTINF:0,ПЕРВЫЙ КАНАЛ (+6)
+http://ruip.tv/8664/video.m3u8?token=ottgttv
+#EXTINF:-1 GROUP-TITLE="НАШ",ПЕРВЫЙ КАНАЛ (+7)
+http://rt.xaysaw.ru:49151/udp/239.195.57.1:1234
+#EXTINF:0,ПЕРВЫЙ КАНАЛ (+8)
+http://ruip.tv/7295/video.m3u8?token=ottgttv
+#EXTINF:-1,ПЕРВЫЙ КАНАЛ ( 6)
+http://188.35.9.5:10020/stolen/440r/hot.dll
+#EXTINF:-1 GROUP-TITLE="НАШ",ПЕРВЫЙ КАНАЛ HD (РЕЗЕРВ)
+http://213.234.9.46:7088/udp/239.1.9.36:1234
+#EXTINF:-1,ПЕРВЫЙ КАНАЛ HD 4
+http://188.35.9.5:10005/stolen/103r/imposter.rar
+#EXTINF:0,ПЕРВЫЙ КАНАЛ ЕВРОПА
+http://ruip.tv/4795/video.m3u8?token=ottgttv
+#EXTINF:-1 GROUP-TITLE="ОБЩЕСТВЕННЫЕ" TVG-LOGO="HTTP://EKZOT.UCOZ.NET/CH_ICONS/P/PERVYJ_KANAL.PNG",ПЕРВЫЙ КАНАЛ [FHD]
+http://109.171.14.41:81/udp/239.54.7.61:1224
+#EXTINF:-1 GROUP-TITLE="ОБЩЕСТВЕННЫЕ" TVG-LOGO="HTTP://EKZOT.UCOZ.NET/CH_ICONS/P/PERVYJ_KANAL_HD.PNG",ПЕРВЫЙ КАНАЛ HD [FHD]
+http://46.180.99.15:81/udp/239.255.43.45:1234
+#EXTINF:-1 GROUP-TITLE="ОБЩЕСТВЕННЫЕ" TVG-LOGO="HTTP://EKZOT.UCOZ.NET/CH_ICONS/P/PERVYJ_KANAL.PNG",ПЕРВЫЙ КАНАЛ [R]
+http://37.193.27.13:81/udp/239.1.15.1:1234
+#EXTINF:-1 GROUP-TITLE="ОБЩЕСТВЕННЫЕ" TVG-LOGO="HTTP://EKZOT.UCOZ.NET/CH_ICONS/P/PERVYJ_KANAL.PNG",ПЕРВЫЙ КАНАЛ [R]
+http://176.101.224.21:8080/udp/239.195.32.1:1234?em9uYS1pcHR2LnJ1
+#EXTINF:-1 GROUP-TITLE="ОБРАЗОВАТЕЛЬНЫЕ" TVG-LOGO="HTTP://EKZOT.UCOZ.NET/CH_ICONS/P/PERVYJ_OBRAZOVATELNYJ.PNG",ПЕРВЫЙ ОБРАЗОВАТЕЛЬНЫЙ
+http://176.196.160.34:4022/udp/239.255.42.178:1234
+#EXTINF:-1 GROUP-TITLE="ОБРАЗОВАТЕЛЬНЫЕ" TVG-LOGO="HTTP://EKZOT.UCOZ.NET/CH_ICONS/P/PERVYJ_OBRAZOVATELNYJ.PNG",ПЕРВЫЙ ОБРАЗОВАТЕЛЬНЫЙ
+http://158.46.64.79:81/udp/239.255.42.178:1234
+#EXTINF:-1 GROUP-TITLE="ОБРАЗОВАТЕЛЬНЫЕ" TVG-LOGO="HTTP://EKZOT.UCOZ.NET/CH_ICONS/P/PERVYJ_OBRAZOVATELNYJ.PNG",ПЕРВЫЙ ОБРАЗОВАТЕЛЬНЫЙ
+http://46.180.99.15:81/udp/239.255.42.178:1234
+#EXTINF:-1 GROUP-TITLE="ОБРАЗОВАТЕЛЬНЫЕ" TVG-LOGO="HTTP://EKZOT.UCOZ.NET/CH_ICONS/P/PERVYJ_OBRAZOVATELNYJ.PNG",ПЕРВЫЙ ОБРАЗОВАТЕЛЬНЫЙ
+http://92.61.69.31:34040/udp/224.0.42.115:5000
+#EXTINF:-1 GROUP-TITLE="ОБРАЗОВАТЕЛЬНЫЕ" TVG-LOGO="HTTP://EKZOT.UCOZ.NET/CH_ICONS/P/PERVYJ_OBRAZOVATELNYJ.PNG",ПЕРВЫЙ ОБРАЗОВАТЕЛЬНЫЙ
+http://46.241.48.168:81/udp/239.54.5.64:1224
+#EXTINF:-1 GROUP-TITLE="ОБРАЗОВАТЕЛЬНЫЕ" TVG-LOGO="HTTP://EKZOT.UCOZ.NET/CH_ICONS/P/PERVYJ_OBRAZOVATELNYJ.PNG",ПЕРВЫЙ ОБРАЗОВАТЕЛЬНЫЙ
+http://93.100.231.28:81/udp/239.239.3.31:5239
+#EXTINF:-1,ПЕРВЫЙ ОБРАЗОВАТЕЛЬНЫЙ
+http://217.25.226.215:4022/udp/235.1.10.20:10000
+#EXTINF:-1,ПЕРВЫЙ ОБРАЗОВАТЕЛЬНЫЙ
+http://83.246.208.234:81/udp/239.54.5.64:1224
+#EXTINF:-1,ПІКСЕЛЬ
+http://188.35.9.5:10007/stolen/139e/parasite.install
+#EXTINF:-1,ПИКСЕЛЬ ТВ
+http://78.26.128.59:8085/live/111/chunks.m3u8
+#EXTINF:0,ПЛАНЕТА HD
+http://109.171.14.41:81/udp/239.54.6.170:1234
+#EXTINF:-1,ПЛАНЕТА HD
+http://ruip.tv/7223/video.m3u8?token=ottgttv
+#EXTINF:-1,ПЛАНЕТА HD
+http://83.246.208.234:81/udp/239.54.7.170:1224
+#EXTINF:0,ПЛАНЕТА ТВ
+http://31.148.16.31:8080/udp/224.0.90.163:1234
+#EXTINF:-1,PLAYBOY TV HD (18+)
+http://broadcasting.cdn.contentgm.com:8080/playboy_tv/video.m3u8?token=8UjWeshNwq
+#EXTINF:0,ПЛЮСПЛЮС
+https://stream2g03-f23.ovva.tv/487229/smil:487229.smil/chunklist_b2928000.m3u8
+#EXTINF:-1,ПЛЮСПЛЮС
+https://live-k2301-kbp.1plus1.video/487229/smil:487229.smil/chunklist_b2928000.m3u8
+#EXTINF:-1,ПРЯМИЙ
+http://prm-hls1.cosmonova.net.ua/hls/prm_ua_hi/index.m3u8
+#EXTINF:-1,ПРЯМИЙ TIM
+http://cdn10.live-tv.od.ua:8081/riood/tisod-abr/riood/tisod504/playlist.m3u8
+#EXTINF:-1 GROUP-TITLE="🔸UA 🇺🇦" TVG-LOGO="HTTP://EKZOT.UCOZ.NET/CH_ICONS/P/PRJAMOJ.PNG",ПРЯМОЙ
+http://prm-hls1.cosmonova.net.ua/hls/prm_ua_mid/index.m3u8
+#EXTINF:-1,ПРЯМОЙ HD
+http://prm-hls1.cosmonova.net.ua/hls/prm_ua_hi/index.m3u8?q=?seg-user-zona-iptv.ru-v1-a1.m3u8
+#EXTINF:-1,ПРАВДА ТУТ
+http://78.26.128.45:8081/live/356/playlist.m3u8
+#EXTINF:-1,ПРАВДА ТУТ HD (КИЕВ)
+http://pravdatytkievshina-hls3.cosmonova.net.ua/hls/pravdatytkievshina_ua_hi/index.m3u8
+#EXTINF:-1,ПРАВДА ТУТ HD (КИЕВ)
+http://pravdatytkievshina-hls2.cosmonova.net.ua/hls/pravdatytkievshina_ua_hi/index.m3u8?q=?seg-user-zona-iptv.ru-v1-a1.m3u8
+#EXTINF:-1,ПРАВДА ТУТ HD (КИЇВ)
+http://pravdatytkievshina-hls2.cosmonova.net.ua/hls/pravdatytkievshina_ua_hi/index.m3u8
+#EXTINF:-1 GROUP-TITLE="НАШ",ПРАВДА ТУТ КИЕВ HD
+http://91.197.48.162/tGUOSgIlij/mpegts?auth=26S96GYXZGYTA
+#EXTINF:-1 GROUP-TITLE="🔸UA 🇺🇦" TVG-LOGO="HTTP://EKZOT.UCOZ.NET/CH_ICONS/P/PRAVDA_TUT.PNG",ПРАВДА ТУТ [HD]
+http://pravdatytkievshina-hls1.cosmonova.net.ua/hls/pravdatytkievshina_ua_hi/index.m3u8
+#EXTINF:0,ПРИКЛЮЧЕНИЯ
+http://91.192.168.242:9091
+#EXTINF:-1,ПРИКЛЮЧЕНИЯ HD
+http://ruip.tv/3242/video.m3u8?token=ottgttv
+#EXTINF:-1 GROUP-TITLE="ПУТЕШЕСТВИЯ" TVG-LOGO="HTTP://EKZOT.UCOZ.NET/CH_ICONS/P/PRIKLJUCHENIJA.PNG",ПРИКЛЮЧЕНИЯ [FHD]
+http://109.171.14.41:81/udp/239.54.7.103:1224
+#EXTINF:-1 GROUP-TITLE="ПУТЕШЕСТВИЯ" TVG-LOGO="HTTP://EKZOT.UCOZ.NET/CH_ICONS/P/PRIKLJUCHENIJA.PNG",ПРИКЛЮЧЕНИЯ [FHD]
+http://5.129.5.77:81/udp/239.1.17.11:1234
+#EXTINF:-1 TVG-ID="" TVG-NAME="" TVG-LOGO="HTTP://ONLINES.TV/WP-CONTENT/UPLOADS/2017/04/1514921891_TELEKANAL-RADA.PNG" GROUP-TITLE="UKRAINE(УКРАЇНА)",РАДА
+http://217.20.164.181/live/rada480p.stream/playlist.m3u8
+#EXTINF:-1,РАДА ТВ
+http://217.20.164.181/live/rada480p.stream/playlist.m3u8?q=?seg-user-zona-iptv.ru-v1-a1.m3u8
+#EXTINF:-1 GROUP-TITLE="ЖЕНСКИЕ" TVG-LOGO="HTTP://EKZOT.UCOZ.NET/CH_ICONS/S/SARAFAN_TV.PNG",САРАФАН ТВ
+http://5.129.5.77:81/udp/239.1.2.11:1234
+#EXTINF:-1 GROUP-TITLE="ЖЕНСКИЕ" TVG-LOGO="HTTP://EKZOT.UCOZ.NET/CH_ICONS/S/SARAFAN_TV.PNG",САРАФАН ТВ
+http://109.248.236.41:4433/udp/238.1.1.28:1234
+#EXTINF:-1 GROUP-TITLE="ЖЕНСКИЕ" TVG-LOGO="HTTP://EKZOT.UCOZ.NET/CH_ICONS/S/SARAFAN_TV.PNG",САРАФАН ТВ
+http://178.163.52.61:4022/udp/234.0.0.246:2000
+#EXTINF:-1 GROUP-TITLE="ЖЕНСКИЕ" TVG-LOGO="HTTP://EKZOT.UCOZ.NET/CH_ICONS/S/SARAFAN_TV.PNG",САРАФАН ТВ
+http://182.73.122.74:10005/bysid/411
+#EXTINF:-1 GROUP-TITLE="ЖЕНСКИЕ" TVG-LOGO="HTTP://EKZOT.UCOZ.NET/CH_ICONS/S/SARAFAN_TV.PNG",САРАФАН ТВ
+http://iptv-telik.usite.pro/load/0-0-1-44-20
+#EXTINF:-1,SETANTA SPORT
+http://92.46.127.146:8080/SetantaSport/index.m3u8
+#EXTINF:-1,СЕТАНТА СПОРТ + HD
+http://92.46.127.146:8080/SetantaSportPlus/tracks-v1a1/index.m3u8
+#EXTINF:-1,SETANTA SPORTS
+http://95.153.22.122:8000/play/a00n/index.m3u8
+#EXTINF:-1 GROUP-TITLE="СПОРТ" TVG-LOGO="HTTP://EKZOT.UCOZ.NET/CH_ICONS/S/SETANTA_SPORTS.PNG",SETANTA SPORTS
+http://109.248.236.41:4433/udp/238.1.1.60:1234
+#EXTINF:-1 GROUP-TITLE="СПОРТ",SETANTA SPORTS
+http://95-213-174-218.livesports24.online/rusetantaeurasia.m3u8
+#EXTINF:-1 GROUP-TITLE="СПОРТ",SETANTA SPORTS
+http://livebar.pw/lba/123/g6/setantarus.m3u8
+#EXTINF:-1,SETANTA SPORTS +
+http://92.46.127.146:8080/SetantaSportPlus/index.m3u8
+#EXTINF:-1 GROUP-TITLE="СПОРТ",SETANTA SPORTS+
+http://95-213-174-218.livesports24.online/setantaplusru.m3u8
+#EXTINF:-1 GROUP-TITLE="СПОРТ",SETANTA SPORTS +
+http://livebar.pw/lba/123/g1/seteurasiaplus.m3u8
+#EXTINF:0,SETANTA SPORTS FHD
+http://77.245.98.22:8000/play/401/tracks-v1a1/index.m3u8
+#EXTINF:-1 GROUP-TITLE="СПОРТ" TVG-LOGO="HTTP://EKZOT.UCOZ.NET/CH_ICONS/S/SETANTA_SPORTS.PNG",SETANTA SPORTS [FHD]
+http://92.46.127.146:8080/SetantaSport/index.m3u8?q=?seg-user-zona-iptv.ru-v1-a1.m3u8
+#EXTINF: -1 ,SILENCE
+http://109.236.85.100:8081/SilenceTV/live/playlist.m3u8
+#EXTINF:-1,SONY CHANNEL
+http://95.153.22.122:8000/play/a00d/index.m3u8
+#EXTINF:-1 GROUP-TITLE="РАЗНОЕ",SONY CHANNEL
+http://83.246.178.12:81/udp/239.54.7.47:1224
+#EXTINF:-1,SONY SCI-FI
+http://78.26.128.45:8081/live/403/playlist.m3u8
+#EXTINF:-1 GROUP-TITLE="КИНО И СЕРИАЛЫ" TVG-LOGO="HTTP://EKZOT.UCOZ.NET/CH_ICONS/S/SONY_SCI-FI.PNG",SONY SCI-FI
+http://37.49.212.64:81/udp/239.54.7.50:1224
+#EXTINF:-1 GROUP-TITLE="КИНО И СЕРИАЛЫ" TVG-LOGO="HTTP://EKZOT.UCOZ.NET/CH_ICONS/S/SONY_SCI-FI.PNG",SONY SCI-FI
+http://109.171.14.41:81/udp/239.54.6.50:1224
+#EXTINF:-1 GROUP-TITLE="КИНО И СЕРИАЛЫ" TVG-LOGO="HTTP://EKZOT.UCOZ.NET/CH_ICONS/S/SONY_SCI-FI.PNG",SONY SCI-FI
+http://37.193.190.134:81/udp/239.1.4.7:1234
+#EXTINF:-1 GROUP-TITLE="КИНО И СЕРИАЛЫ" TVG-LOGO="HTTP://EKZOT.UCOZ.NET/CH_ICONS/S/SONY_SCI-FI.PNG",SONY SCI-FI
+http://109.171.14.41:81/udp/239.54.7.50:1224
+#EXTINF:-1,SONY SCI-FI
+http://83.246.208.234:81/udp/239.54.7.50:1224
+#EXTINF:-1 GROUP-TITLE="КИНО И СЕРИАЛЫ" TVG-LOGO="HTTP://EKZOT.UCOZ.NET/CH_ICONS/S/SONY_SCI-FI.PNG",SONY SCI-FI [R]
+http://37.192.22.180:81/udp/239.1.4.7:1234
+#EXTINF:-1,SONY TURBO
+http://78.26.128.45:8081/live/402/playlist.m3u8
+#EXTINF:-1,SONY TURBO
+http://95.153.22.122:8000/play/a00l/index.m3u8
+#EXTINF:-1 GROUP-TITLE="КИНО И СЕРИАЛЫ" TVG-LOGO="HTTP://EKZOT.UCOZ.NET/CH_ICONS/S/SONY_TURBO.PNG",SONY TURBO
+http://37.49.212.64:81/udp/239.54.7.54:1224
+#EXTINF:-1,SONY TURBO
+http://83.246.208.234:81/udp/239.54.7.54:1224
+#EXTINF:-1,СОНЦЕ
+http://78.26.128.45:8081/live/284/playlist.m3u8
+#EXTINF:0,SPIKE
+http://vs310.vcdn.biz/e4f248be21734d3ce8e4b7af56b1480b_megogo/live/hls/u_sid/0/o/58197841/u_uid/0/u_vod/0/u_device/cms_html5/u_srvc/28561/type.live/chunklist-sid1814319918-b2490000.m3u8
+#EXTINF:-1,SPIKE
+http://ruip.tv/5914/video.m3u8?token=ottgttv
+#EXTINF:-1,SPIKE
+http://212.112.101.69:8081/stream70/output.m3u8
+#EXTINF:-1 GROUP-TITLE="НАШ",SPIKE HD
+http://213.234.9.46:7088/udp/239.1.10.10:1234
+#EXTINF:-1 GROUP-TITLE="КИНО И СЕРИАЛЫ" TVG-LOGO="HTTP://EKZOT.UCOZ.NET/CH_ICONS/S/SPIKE.PNG",SPIKE
+http://vs310.vcdn.biz/e4f248be21734d3ce8e4b7af56b1480b_megogo/live/hls/u_sid/0/o/58197841/u_uid/0/u_vod/0/u_device/cms_html5/u_srvc/28561/type.live/playlist.m3u8
+#EXTINF:-1,SPIKE НАШ
+http://vs310.vcdn.biz/e4f248be21734d3ce8e4b7af56b1480b_megogo/live/hls/u_sid/0/o/58197841/u_uid/0/u_vod/0/u_device/cms_html5/u_srvc/28561/type.live/chunklist-sid1135063137-b2490000.m3u8
+#EXTINF:0,SPORT HD
+http://161.0.157.8/PLTV/88888888/224/3221227040/index.m3u8
+#EXTINF:0,СПОРТ
+http://8bbf95d0.iptvzone.net/iptv/XCAVNP7ZUPPBXC/123/index.m3u8
+#EXTINF:0,СПОРТ
+http://ruip.tv/7439/video.m3u8?token=ottgttv
+#EXTINF:0,СПОРТ
+http://ruip.tv/7486/video.m3u8?token=ottgttv
+#EXTINF:0,СПОРТ
+http://ruip.tv/1339/video.m3u8?token=ottgttv
+#EXTINF:0,СПОРТ
+http://ruip.tv/1427/video.m3u8?token=ottgttv
+#EXTINF:0,СПОРТ
+http://ruip.tv/5019/video.m3u8?token=ottgttv
+#EXTINF:0,СПОРТ
+http://ruip.tv/1385/video.m3u8?token=ottgttv
+#EXTINF:0,СПОРТ
+http://ruip.tv/4780/video.m3u8?token=ottgttv
+#EXTINF:0,СПОРТ
+http://ruip.tv/7937/video.m3u8?token=ottgttv
+#EXTINF:0,СПОРТ
+http://ruip.tv/3226/video.m3u8?token=ottgttv
+#EXTINF:0,СПОРТ
+http://ruip.tv/5292/video.m3u8?token=ottgttv
+#EXTINF:0,СПОРТ
+http://ruip.tv/7517/video.m3u8?token=ottgttv
+#EXTINF:0,СПОРТ
+http://ruip.tv/6623/video.m3u8?token=ottgttv
+#EXTINF:0,СПОРТ
+http://ruip.tv/1072/video.m3u8?token=ottgttv
+#EXTINF:0,СПОРТ
+http://ruip.tv/9546/video.m3u8?token=ottgttv
+#EXTINF:0,СПОРТ
+http://ruip.tv/2957/video.m3u8?token=ottgttv
+#EXTINF:0,СПОРТ
+http://ruip.tv/6328/video.m3u8?token=ottgttv
+#EXTINF:0,СПОРТ
+http://ruip.tv/8809/video.m3u8?token=ottgttv
+#EXTINF:0,СПОРТ
+http://ruip.tv/5679/video.m3u8?token=ottgttv
+#EXTINF:0,СПОРТ
+http://ruip.tv/2616/video.m3u8?token=ottgttv
+#EXTINF:0,СПОРТ
+http://ruip.tv/4652/video.m3u8?token=ottgttv
+#EXTINF:0,СПОРТ
+http://ruip.tv/1931/video.m3u8?token=ottgttv
+#EXTINF:0,СПОРТ
+http://ruip.tv/8036/video.m3u8?token=ottgttv
+#EXTINF:0,СПОРТ
+http://ruip.tv/4866/video.m3u8?token=ottgttv
+#EXTINF:0,СПОРТ
+http://ruip.tv/3069/video.m3u8?token=ottgttv
+#EXTINF:0,СПОРТ
+http://ruip.tv/3570/video.m3u8?token=ottgttv
+#EXTINF:0,СПОРТ
+http://ruip.tv/3678/video.m3u8?token=ottgttv
+#EXTINF:0,СПОРТ
+http://ruip.tv/7962/video.m3u8?token=ottgttv
+#EXTINF:0,СПОРТ
+http://ruip.tv/2453/video.m3u8?token=ottgttv
+#EXTINF:-1 GROUP-TITLE="РАЗНОЕ" TVG-LOGO="HTTP://EKZOT.UCOZ.NET/CH_ICONS/S/SPORT.PNG",SPORT
+http://161.0.157.8/PLTV/88888888/224/3221227040/index.m3u8?q=?seg-user-zona-iptv.ru-v1-a1.m3u8
+#EXTINF:0,СПОРТ
+http://178.163.93.37:4022/udp/234.0.0.208:2000
+#EXTINF:-1,СПОРТ
+https://alpha.tv.online.tm/legacyhls/ch004_720/index.m3u8
+#EXTINF:0 TYPE="STREAM" CHANNELID="977",SPORT1
+http://wms.shared.streamshow.it/irctv/mp4:irctv/playlist.m3u8
+#EXTINF:0,SPORT MAX HD
+http://161.0.157.9/PLTV/88888888/224/3221226766/index.m3u8
+#EXTINF:-1 GROUP-TITLE="СПОРТ РАЗНЫЙ" TVG-LOGO="HTTP://EKZOT.UCOZ.NET/CH_ICONS/S/SPORT_MAX.PNG",SPORT MAX
+http://161.0.157.8/PLTV/88888888/224/3221226766/index.m3u8
+#EXTINF:-1 GROUP-TITLE="СПОРТ РАЗНЫЙ" TVG-LOGO="HTTP://EKZOT.UCOZ.NET/CH_ICONS/S/SPORT_MAX.PNG",SPORT MAX
+http://161.0.157.8/PLTV/88888888/224/3221226766/index.m3u8?q=?seg-user-zona-iptv.ru-v1-a1.m3u8
+#EXTINF:-1 GROUP-TITLE="СПОРТ РАЗНЫЙ" TVG-LOGO="HTTP://EKZOT.UCOZ.NET/CH_ICONS/S/SPORT_MAX.PNG",SPORT MAX
+http://161.0.157.8/PLTV/88888888/224/3221226766/03.m3u8
+#EXTINF:-1 GROUP-TITLE="СПОРТ РАЗНЫЙ" TVG-LOGO="HTTP://EKZOT.UCOZ.NET/CH_ICONS/S/SPORT_MAX.PNG",SPORT MAX
+http://161.0.157.8/PLTV/88888888/224/3221226766/03.m3u8?q=?seg-user-zona-iptv.ru-v1-a1.m3u8
+#EXTINF:-1 GROUP-TITLE="РАЗНОЕ" TVG-LOGO="HTTP://EKZOT.UCOZ.NET/CH_ICONS/S/SPORTS_MAX.PNG",SPORTS MAX
+http://161.0.157.9/PLTV/88888888/224/3221226766/index.m3u8?q=?seg-user-zona-iptv.ru-v1-a1.m3u8
+#EXTINF:-1 GROUP-TITLE="СПОРТ РАЗНЫЙ" TVG-LOGO="HTTP://EKZOT.UCOZ.NET/CH_ICONS/S/SPORTS_MAX.PNG",SPORTS MAX
+http://161.0.157.9/PLTV/88888888/224/3221226766/04.m3u8
+#EXTINF:0,SPORTS TV
+https://blutv-beta.akamaized.net/sportstv/sportstv.smil/playlist.m3u8
+#EXTINF:-1 GROUP-TITLE="РАЗНОЕ" TVG-LOGO="HTTP://EKZOT.UCOZ.NET/CH_ICONS/S/SPORTS_TV.PNG",SPORTS TV
+https://blutv-beta.akamaized.net/sportstv/sportstv.smil/playlist.m3u8?q=?seg-user-zona-iptv.ru-v1-a1.m3u8
+#EXTINF:-1 GROUP-TITLE="РАЗНОЕ" TVG-LOGO="HTTP://EKZOT.UCOZ.NET/CH_ICONS/S/SPORTS_TV.PNG",SPORTS TV
+https://blutv-beta.akamaized.net/sportstv/sportstv.smil/chunklist_b1596000_sltur.m3u8?q=?seg-user-zona-iptv.ru-v1-a1.m3u8
+#EXTINF:-1,SPORTS TV
+https://blutv-beta.akamaized.net/sportstv/sportstv.smil/chunklist_b1096000_sltur.m3u8
+#EXTINF:-1 GROUP-TITLE="РАЗНЫЙ СПОРТ",SPORTS TV
+https://blutv-beta.akamaized.net/sportstv/sportstv.smil/chunklist_b1596000_sltur.m3u8
+#EXTINF:-1,SPORTS TV
+http://blutv-beta.akamaized.net/sportstv/sportstv.smil/playlist.m3u8
+#EXTINF:0,SPORT TV 1
+http://85.244.70.140:7000/play/a035
+#EXTINF:0,SPORT TV11
+http://52.24.12.57/live/test1/index.m3u8
+#EXTINF:0,SPORT TV 2
+http://85.244.70.140:7000/play/a02t
+#EXTINF:0,SPORT TV 3
+http://85.244.70.140:7000/play/a02w
+#EXTINF:0,SPORT TV 4
+http://85.244.70.140:7000/play/a02y
+#EXTINF:-1 GROUP-TITLE="СПОРТ РАЗНЫЙ" TVG-LOGO="HTTP://EKZOT.UCOZ.NET/CH_ICONS/S/SPORT.PNG",SPORT [HD]
+http://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v2a1/index.m3u8?q=?seg-user-zona-iptv.ru-v1-a1.m3u8
+#EXTINF:-1,STAR CINEMA HD
+http://ruip.tv/5109/video.m3u8?token=ottgttv
+#EXTINF:-1 GROUP-TITLE="НАШ",STAR CINEMA HD
+http://91.197.48.162/ar5s5rnz8upmb/mpegts?auth=26S96GYXZGYTA
+#EXTINF:-1 GROUP-TITLE="НАШ",STAR FAMILY HD
+http://91.197.48.162/ECDWJP7bvZ/mpegts?auth=26S96GYXZGYTA
+#EXTINF:-1,СТБ
+http://78.26.128.45:8081/live/123/playlist.m3u8
+#EXTINF:-1,СТБ
+http://ruip.tv/4772/video.m3u8?token=ottgttv
+#EXTINF:0,СТС
+http://ruip.tv/9716/video.m3u8?token=ottgttv
+#EXTINF:-1,СТС
+http://vs310.vcdn.biz/f6681bf4f562aec018b39c4bf3316dc6_megogo/vod/fs/o/40256721/u_sid/0/u_uid/0/u_vod/0/u_device/cms_html5/u_srvc/28561/type.live/chunklist-sid985762079-b2490000.m3u8
+#EXTINF:0,СТС
+http://176.101.224.21:8080/udp/239.195.32.8:1234
+#EXTINF:-1 GROUP-TITLE="РАЗВЛЕКАТЕЛЬНЫЕ" TVG-LOGO="HTTP://EKZOT.UCOZ.NET/CH_ICONS/S/STS.PNG",СТС
+http://meta.vcdn.biz/f6681bf4f562aec018b39c4bf3316dc6_megogo/vod/fs/o/40256721/u_sid/0/u_uid/0/u_vod/0/u_device/cms_html5/u_srvc/28561/type.live/playlist.m3u8
+#EXTINF:-1 GROUP-TITLE="РАЗВЛЕКАТЕЛЬНЫЕ" TVG-LOGO="HTTP://EKZOT.UCOZ.NET/CH_ICONS/S/STS.PNG",СТС
+https://sc.id-tv.kz/STS_34_35.m3u8
+#EXTINF:-1 GROUP-TITLE="РАЗВЛЕКАТЕЛЬНЫЕ" TVG-LOGO="HTTP://EKZOT.UCOZ.NET/CH_ICONS/S/STS.PNG",СТС
+http://158.46.64.79:81/udp/239.255.42.7:1234
+#EXTINF:-1 GROUP-TITLE="РАЗВЛЕКАТЕЛЬНЫЕ" TVG-LOGO="HTTP://EKZOT.UCOZ.NET/CH_ICONS/S/STS.PNG",СТС
+http://37.192.22.180:81/udp/239.1.15.6:1234
+#EXTINF:-1 GROUP-TITLE="РАЗВЛЕКАТЕЛЬНЫЕ" TVG-LOGO="HTTP://EKZOT.UCOZ.NET/CH_ICONS/S/STS.PNG",СТС
+http://31.148.16.31:8080/udp/224.10.10.204:10000
+#EXTINF:-1 GROUP-TITLE="РАЗВЛЕКАТЕЛЬНЫЕ" TVG-LOGO="HTTP://EKZOT.UCOZ.NET/CH_ICONS/S/STS.PNG",СТС
+http://176.101.224.21:8080/udp/239.195.32.8:1234?em9uYS1pcHR2LnJ1
+#EXTINF:-1 GROUP-TITLE="РАЗВЛЕКАТЕЛЬНЫЕ" TVG-LOGO="HTTP://EKZOT.UCOZ.NET/CH_ICONS/S/STS.PNG",СТС
+http://176.196.160.34:4022/udp/239.255.42.7:1234
+#EXTINF:-1 GROUP-TITLE="РАЗВЛЕКАТЕЛЬНЫЕ" TVG-LOGO="HTTP://EKZOT.UCOZ.NET/CH_ICONS/S/STS.PNG",СТС
+http://109.171.14.41:81/udp/239.0.42.30:1224
+#EXTINF:-1 GROUP-TITLE="РАЗВЛЕКАТЕЛЬНЫЕ" TVG-LOGO="HTTP://EKZOT.UCOZ.NET/CH_ICONS/S/STS.PNG",СТС
+http://188.242.201.77:4022/udp/239.239.2.64:5239
+#EXTINF:-1 GROUP-TITLE="РАЗВЛЕКАТЕЛЬНЫЕ" TVG-LOGO="HTTP://EKZOT.UCOZ.NET/CH_ICONS/S/STS.PNG",СТС
+http://31.148.6.4:8020/13_ch
+#EXTINF:-1 GROUP-TITLE="РАЗВЛЕКАТЕЛЬНЫЕ" TVG-LOGO="HTTP://EKZOT.UCOZ.NET/CH_ICONS/S/STS.PNG",СТС
+http://176.196.160.34:4022/udp/239.255.0.13:1234
+#EXTINF:-1 GROUP-TITLE="РАЗВЛЕКАТЕЛЬНЫЕ" TVG-LOGO="HTTP://EKZOT.UCOZ.NET/CH_ICONS/S/STS.PNG",СТС
+http://158.46.65.248:81/udp/239.255.42.246:1234
+#EXTINF:-1 GROUP-TITLE="РАЗВЛЕКАТЕЛЬНЫЕ" TVG-LOGO="HTTP://EKZOT.UCOZ.NET/CH_ICONS/S/STS.PNG",СТС
+http://109.171.14.41:81/udp/239.0.42.63:1224
+#EXTINF:-1 GROUP-TITLE="РАЗВЛЕКАТЕЛЬНЫЕ" TVG-LOGO="HTTP://EKZOT.UCOZ.NET/CH_ICONS/S/STS.PNG",СТС
+http://109.171.14.41:81/udp/239.0.42.93:1224
+#EXTINF:-1 GROUP-TITLE="РАЗВЛЕКАТЕЛЬНЫЕ" TVG-LOGO="HTTP://EKZOT.UCOZ.NET/CH_ICONS/S/STS.PNG",СТС
+http://188.242.199.174:81/udp/239.239.2.64:5239
+#EXTINF:-1 GROUP-TITLE="РАЗВЛЕКАТЕЛЬНЫЕ" TVG-LOGO="HTTP://EKZOT.UCOZ.NET/CH_ICONS/S/STS.PNG",СТС
+http://109.171.14.41:81/udp/239.54.6.195:1224
+#EXTINF:-1 GROUP-TITLE="РАЗВЛЕКАТЕЛЬНЫЕ" TVG-LOGO="HTTP://EKZOT.UCOZ.NET/CH_ICONS/S/STS.PNG",СТС
+http://188.242.133.94:443/udp/239.239.2.64:5239
+#EXTINF:-1 GROUP-TITLE="РАЗВЛЕКАТЕЛЬНЫЕ" TVG-LOGO="HTTP://EKZOT.UCOZ.NET/CH_ICONS/S/STS.PNG",СТС
+http://93.100.231.28:81/udp/239.239.2.64:5239
+#EXTINF:-1 GROUP-TITLE="РАЗВЛЕКАТЕЛЬНЫЕ" TVG-LOGO="HTTP://EKZOT.UCOZ.NET/CH_ICONS/S/STS.PNG",СТС
+http://109.248.236.41:4433/udp/238.1.1.67:1234
+#EXTINF:0,СТС +2
+http://85.208.223.249:4022/udp/239.192.0.53:8000?zona-iptv.ru/
+#EXTINF:-1,СТС INTERNATIONAL
+https://sc.id-tv.kz/STS_38_39.m3u8
+#EXTINF:0,ТЕАТР
+http://178.49.77.88:3371/udp/239.1.21.18:1234
+#EXTINF:-1,ТЕАТР
+http://212.112.101.69:8081/stream11/output.m3u8
+#EXTINF:-1 GROUP-TITLE="УКРАИНА",ТЕЛЕВСЕСВИТ HD
+http://91.197.48.162/srymf6fo85ipt/mpegts?auth=26S96GYXZGYTA
+#EXTINF:-1,ТЕРРА
+http://78.26.128.45:8081/live/423/playlist.m3u8
+#EXTINF:-1,ТЕТ
+http://78.26.128.45:8081/live/236/playlist.m3u8
+#EXTINF:-1,ТЕТ
+http://ruip.tv/3700/video.m3u8?token=ottgttv
+#EXTINF:-1 GROUP-TITLE="РАЗНОЕ" TVG-LOGO="HTTP://EKZOT.UCOZ.NET/CH_ICONS/T/TET.PNG",TET
+http://188.35.9.26:2050/udp/238.0.2.5:69000
+#EXTINF:-1,ТЕТ
+https://live-k2301-kbp.1plus1.video/233342/smil:233342/chunklist_b2928000.m3u8
+#EXTINF:-1,TET
+https://stream2g03-f23.ovva.tv/233342/smil:233342.smil/chunklist_b2928000.m3u8
+#EXTINF:-1,TET
+https://live-k2301-kbp.1plus1.video/233342/smil:233342.smil/chunklist_b2928000.m3u8
+#EXTINF:-1,TET
+https://stream2g03-f23.ovva.tv/233342/smil:233342.smil/playlist.m3u8
+#EXTINF:-1 TVG-ID="" TVG-NAME="" TVG-LOGO="" GROUP-TITLE="",ТК ПЛАНЕТА
+http://80.91.177.102:1935/live/live1/playlist.m3u8
+#EXTINF:-1,ТНТ HD
+http://ruip.tv/1337/video.m3u8?token=ottgttv
+#EXTINF:-1 GROUP-TITLE="НАШ",ТНТ HD
+http://85.112.114.11:8086/udp/233.170.170.78:58631
+#EXTINF:-1,ТНТ
+http://vs350.vcdn.biz/1ff4118dc0fefcbd3ce5ae5fdf2fc482_megogo/vod/fs/o/40500701/u_sid/0/u_uid/0/u_vod/0/u_device/cms_html5/u_srvc/28561/type.live/chunklist-sid333265525-b2490000.m3u8
+#EXTINF:-1 GROUP-TITLE="РАЗВЛЕКАТЕЛЬНЫЕ" TVG-LOGO="HTTP://EKZOT.UCOZ.NET/CH_ICONS/T/TNT.PNG",ТНТ
+http://meta.vcdn.biz/1ff4118dc0fefcbd3ce5ae5fdf2fc482_megogo/vod/fs/o/40500701/u_sid/0/u_uid/0/u_vod/0/u_device/cms_html5/u_srvc/28561/type.live/playlist.m3u8
+#EXTINF:-1 GROUP-TITLE="РАЗВЛЕКАТЕЛЬНЫЕ" TVG-LOGO="HTTP://EKZOT.UCOZ.NET/CH_ICONS/T/TNT.PNG",ТНТ
+http://streams.tv.mts.by:80/tnt_international/1/index.m3u8
+#EXTINF:-1 GROUP-TITLE="РАЗВЛЕКАТЕЛЬНЫЕ" TVG-LOGO="HTTP://EKZOT.UCOZ.NET/CH_ICONS/T/TNT.PNG",ТНТ
+http://109.171.14.41:81/udp/239.0.42.3:1224
+#EXTINF:-1 GROUP-TITLE="РАЗВЛЕКАТЕЛЬНЫЕ" TVG-LOGO="HTTP://EKZOT.UCOZ.NET/CH_ICONS/T/TNT.PNG",ТНТ
+http://176.101.224.21:8080/udp/239.195.32.11:1234
+#EXTINF:-1 GROUP-TITLE="РАЗВЛЕКАТЕЛЬНЫЕ" TVG-LOGO="HTTP://EKZOT.UCOZ.NET/CH_ICONS/T/TNT.PNG",ТНТ
+http://109.171.14.41:81/udp/239.0.42.123:1224
+#EXTINF:-1 GROUP-TITLE="РАЗВЛЕКАТЕЛЬНЫЕ" TVG-LOGO="HTTP://EKZOT.UCOZ.NET/CH_ICONS/T/TNT.PNG",ТНТ
+http://109.171.14.41:81/udp/239.0.42.23:1224
+#EXTINF:-1 GROUP-TITLE="РАЗВЛЕКАТЕЛЬНЫЕ" TVG-LOGO="HTTP://EKZOT.UCOZ.NET/CH_ICONS/T/TNT.PNG",ТНТ
+http://31.148.6.4:8020/19_ch
+#EXTINF:-1 GROUP-TITLE="РАЗВЛЕКАТЕЛЬНЫЕ" TVG-LOGO="HTTP://EKZOT.UCOZ.NET/CH_ICONS/T/TNT.PNG",ТНТ
+http://178.49.77.88:3371/udp/239.1.15.7:1234
+#EXTINF:-1 GROUP-TITLE="РАЗВЛЕКАТЕЛЬНЫЕ" TVG-LOGO="HTTP://EKZOT.UCOZ.NET/CH_ICONS/T/TNT.PNG",ТНТ
+http://109.171.14.41:81/udp/239.0.42.99:1224
+#EXTINF:-1 GROUP-TITLE="РАЗВЛЕКАТЕЛЬНЫЕ" TVG-LOGO="HTTP://EKZOT.UCOZ.NET/CH_ICONS/T/TNT.PNG",ТНТ
+http://109.171.14.41:81/udp/239.54.5.134:1234
+#EXTINF:-1 GROUP-TITLE="РАЗВЛЕКАТЕЛЬНЫЕ" TVG-LOGO="HTTP://EKZOT.UCOZ.NET/CH_ICONS/T/TNT.PNG",ТНТ
+http://158.46.65.248:81/udp/239.255.42.58:1234
+#EXTINF:-1 GROUP-TITLE="РАЗВЛЕКАТЕЛЬНЫЕ" TVG-LOGO="HTTP://EKZOT.UCOZ.NET/CH_ICONS/T/TNT.PNG",ТНТ
+http://37.193.27.13:81/udp/239.1.15.7:1234
+#EXTINF:-1 GROUP-TITLE="РАЗВЛЕКАТЕЛЬНЫЕ" TVG-LOGO="HTTP://EKZOT.UCOZ.NET/CH_ICONS/T/TNT.PNG",ТНТ
+http://194.28.155.10:81/udp/225.0.59.19:1234
+#EXTINF:-1 GROUP-TITLE="РАЗВЛЕКАТЕЛЬНЫЕ" TVG-LOGO="HTTP://EKZOT.UCOZ.NET/CH_ICONS/T/TNT.PNG",ТНТ
+http://109.171.14.41:81/udp/239.0.42.69:1224
+#EXTINF:-1 GROUP-TITLE="РАЗВЛЕКАТЕЛЬНЫЕ" TVG-LOGO="HTTP://EKZOT.UCOZ.NET/CH_ICONS/T/TNT.PNG",ТНТ
+http://93.100.231.28:81/udp/239.239.2.8:5239
+#EXTINF:-1,ТНТ
+http://vs350.vcdn.biz/1ff4118dc0fefcbd3ce5ae5fdf2fc482_megogo/vod/fs/o/40500701/u_sid/0/u_uid/0/u_vod/0/u_device/cms_html5/u_srvc/28561/type.live/chunklist-sid333265525-b4000000.m3u8
+#EXTINF:-1,ТНТ-INTERNATIONAL
+http://streams.tv.mts.by/tnt_international/index.m3u8
+#EXTINF:-1 GROUP-TITLE="🎧 РАДИО" TVG-LOGO="HTTP://EKZOT.UCOZ.NET/CH_ICONS/T/TNT_0.PNG",TNT 0
+http://188.35.9.26:4050/udp/238.0.4.5:69000
+#EXTINF:-1,ТНТ4 HD
+http://85.112.114.11:8086/udp/233.170.170.130:58631
+#EXTINF:-1,ТНТ4
+http://ruip.tv/4848/video.m3u8?token=ottgttv
+#EXTINF:-1,ТНТ4
+http://212.112.101.69:8081/stream77/output.m3u8
+#EXTINF:-1,TNT4
+http://188.35.9.5:10020/stolen/422r/hot.dll
+#EXTINF:-1 GROUP-TITLE="РАЗВЛЕКАТЕЛЬНЫЕ" TVG-LOGO="HTTP://EKZOT.UCOZ.NET/CH_ICONS/T/TNT4.PNG",ТНТ4
+http://178.49.77.88:3371/udp/239.1.2.16:1234
+#EXTINF:-1 GROUP-TITLE="РАЗВЛЕКАТЕЛЬНЫЕ" TVG-LOGO="HTTP://EKZOT.UCOZ.NET/CH_ICONS/T/TNT4.PNG",ТНТ4
+http://92.61.69.31:34040/udp/224.0.42.102:5000
+#EXTINF:-1 GROUP-TITLE="РАЗВЛЕКАТЕЛЬНЫЕ" TVG-LOGO="HTTP://EKZOT.UCOZ.NET/CH_ICONS/T/TNT4.PNG",ТНТ4
+http://93.170.3.5:4022/udp/239.255.10.27:1234
+#EXTINF:-1 GROUP-TITLE="РАЗВЛЕКАТЕЛЬНЫЕ" TVG-LOGO="HTTP://EKZOT.UCOZ.NET/CH_ICONS/T/TNT4.PNG",ТНТ4
+http://37.192.22.180:81/udp/239.1.2.16:1234
+#EXTINF:-1 GROUP-TITLE="РАЗВЛЕКАТЕЛЬНЫЕ" TVG-LOGO="HTTP://EKZOT.UCOZ.NET/CH_ICONS/T/TNT4.PNG",ТНТ4
+http://93.100.231.28:81/udp/239.239.3.36:5239
+#EXTINF:-1 GROUP-TITLE="РАЗВЛЕКАТЕЛЬНЫЕ" TVG-LOGO="HTTP://EKZOT.UCOZ.NET/CH_ICONS/T/TNT4.PNG",ТНТ4
+http://109.248.236.41:4433/udp/238.1.1.12:1234
+#EXTINF:-1 GROUP-TITLE="РАЗВЛЕКАТЕЛЬНЫЕ" TVG-LOGO="HTTP://EKZOT.UCOZ.NET/CH_ICONS/T/TNT4.PNG",ТНТ4
+http://176.196.160.34:4022/udp/239.255.42.196:1234
+#EXTINF:-1 GROUP-TITLE="РАЗВЛЕКАТЕЛЬНЫЕ" TVG-LOGO="HTTP://EKZOT.UCOZ.NET/CH_ICONS/T/TNT4.PNG",ТНТ4
+http://178.163.65.225:4022/udp/234.0.0.9:2000
+#EXTINF:-1 GROUP-TITLE="РАЗВЛЕКАТЕЛЬНЫЕ" TVG-LOGO="HTTP://EKZOT.UCOZ.NET/CH_ICONS/T/TNT4.PNG",ТНТ4
+http://178.163.63.41:4022/udp/234.0.0.181:2000
+#EXTINF:-1,ТНТ 4
+http://83.246.208.234:81/udp/239.54.5.36:1234
+#EXTINF:-1,ТНТ4
+http://83.246.208.234:81/udp/239.54.7.36:1224
+#EXTINF:-1,ТНТ 7
+http://188.35.9.5:10020/stolen/441t/hot.dll
+#EXTINF:-1,ТНТ_INTERNATIONAL
+http://streams.tv.mts.by/tnt_international/1/index.m3u8
+#EXTINF:-1,TRAVEL
+http://78.26.128.45:8081/live/221/playlist.m3u8
+#EXTINF:-1,TRAVEL
+http://95.153.22.122:8000/play/a016/index.m3u8
+#EXTINF:-1,TRAVEL
+http://212.112.101.69:8081/stream67/output.m3u8
+#EXTINF:-1,TRAVEL HD
+http://78.26.128.45:8081/live/491/playlist.m3u8
+#EXTINF:-1,TRAVEL 4U
+https://edge1.dashmedia.tv/onestudio/travel4u/playlist.m3u8?fluxustv.m3u8
+#EXTINF:0,TRAVEL HD BG
+http://31.13.223.104:1935/travel/community.stream/playlist.m3u8
+#EXTINF:-1,TRAVEL HD BG
+http://31.13.223.104:1935/travel/community.stream/playlist.m3u8?q=?seg-user-zona-iptv.ru-v1-a1.m3u8
+#EXTINF:-1,TRAVEL CHANNEL HD
+http://212.113.38.99/tvpl.php?hash=MjMzQDY1YzBmZDZlM2QyYzU1NGFiNDMyNWQwYmJmMmRiYTIy.index.m3u8?q=?seg-user-zona-iptv.ru-v1-a1.m3u8
+#EXTINF:-1,TRAVEL CHANNEL (ENGLAND)
+http://80.80.160.168/live/3/live.m3u8
+#EXTINF:-1,TRAVEL CHANNEL (ENGLAND)
+http://80.80.160.168/live/3/live.m3u8?q=?seg-user-zona-iptv.ru-v1-a1.m3u8
+#EXTINF:-1 GROUP-TITLE="ПУТЕШЕСТВИЯ" TVG-LOGO="HTTP://EKZOT.UCOZ.NET/CH_ICONS/T/TRAVEL_CHANNEL_HD.PNG",TRAVEL CHANNEL HD [FHD]
+http://182.73.122.74:10003/bysid/903
+#EXTINF:-1 GROUP-TITLE="ПУТЕШЕСТВИЯ" TVG-LOGO="HTTP://EKZOT.UCOZ.NET/CH_ICONS/T/TRAVEL_CHANNEL.PNG",TRAVEL CHANNEL [HD]
+http://31.13.223.104:1935/travel/community.stream/chunklist_w79979599.m3u8
+#EXTINF:-1 GROUP-TITLE="ПУТЕШЕСТВИЯ" TVG-LOGO="HTTP://EKZOT.UCOZ.NET/CH_ICONS/T/TRAVEL_CHANNEL_HD.PNG",TRAVEL CHANNEL HD [HD]
+http://31.13.223.103/travel/community.stream/playlist.m3u8?hash=943212345
+#EXTINF:-1,TRAVEL TV
+http://78.26.128.45:8081/live/489/playlist.m3u8
+#EXTINF:-1 GROUP-TITLE="РАЗНОЕ" TVG-LOGO="HTTP://EKZOT.UCOZ.NET/CH_ICONS/T/TRAVEL_TV.PNG",TRAVEL TV
+http://31.13.223.104:1935/travel/travel.stream/playlist.m3u8?hash=?
+#EXTINF:0 TYPE="STREAM" CHANNELID="-1",TRAVEL TV BG
+http://31.13.223.104:1935/travel/travel.stream/playlist.m3u8
+#EXTINF:0,ТРОФЕЙ HD
+http://str.trofey.net:1935/live/2_max.smil/chunklist_w610406507_b4000000.m3u8?id=2&session=5bffdc6279d066.67200103
+#EXTINF:-1,ТРОФЕЙ HD
+http://str.trofey.net:1935/live/2_max.smil/chunklist_b2000000.m3u8?id=2&session=1
+#EXTINF:-1,ТРОФЕЙ
+http://str.trofey.net:1935/live/2_max.smil/chunklist_b4000000.m3u8?id=2&session=1
+#EXTINF:0 TYPE="STREAM" CHANNELID="1718",ТРОФЕЙ
+http://str.trofey.net:1935/live/2_max.smil/chunklist_w1001411868_b2000000.m3u8?id=2&session=1
+#EXTINF:0 TYPE="STREAM" CHANNELID="2845",ТРОФЕЙ HD
+http://str.trofey.net:1935/live/2_max.smil/playlist.m3u8?session=5649d30f5bd7b9.98084058&id=2
+#EXTINF:-1 GROUP-TITLE="МУЖСКИЕ" TVG-LOGO="HTTP://EKZOT.UCOZ.NET/CH_ICONS/T/TROFEJ.PNG",ТРОФЕЙ
+http://str.trofey.net:1935/live/2_max.smil/playlist.m3u8?session=5488c6087e1ea6.57082302&amp;id=2
+#EXTINF:-1 GROUP-TITLE="МУЖСКИЕ" TVG-LOGO="HTTP://EKZOT.UCOZ.NET/CH_ICONS/T/TROFEJ.PNG",ТРОФЕЙ
+http://str.trofey.net:1935/live/2_max.smil/playlist.m3u8?session=5488c6087e1ea6.57082302&id=2
+#EXTINF:-1,ТРОФЕЙ HD
+http://str.trofey.net:1935/live/2_max.smil/chunklist_w158057594_b4000000.m3u8?q=?seg-user-zona-iptv.ru-v1-a1.m3u8?id=2&session=5488c6087e1ea6.57082302
+#EXTINF:-1,ТРОФЕЙ HD
+http://str.trofey.net:1935/live/2_max.smil/playlist.m3u8?q=?seg-user-zona-iptv.ru-v1-a1.m3u8?session=5488c6087e1ea6.57082302&id=2
+#EXTINF:-1,ТРОФЕЙ HD
+http://str.trofey.net:1935/live/2_max.smil/chunklist_w1001411868_b2000000.m3u8?q=?seg-user-zona-iptv.ru-v1-a1.m3u8?id=2&session=1
+#EXTINF:-1,ТРОФЕЙ FULL HD
+http://str.trofey.net:1935/live/2_max.smil/chunklist_w788093682_4200000.m3u8?id=2&session=5488c6087e1ea6.57082302
+#EXTINF:-1,TV 1000
+http://ruip.tv/1411/video.m3u8?token=ottgttv
+#EXTINF:-1,TV1000
+http://78.26.128.45:8081/live/140/playlist.m3u8
+#EXTINF:-1,TV1000
+http://95.153.22.122:8000/play/a01o/index.m3u8
+#EXTINF:-1,TV1000
+http://212.112.101.69:8081/stream56/output.m3u8
+#EXTINF:-1,TV1000
+http://188.35.9.5:10020/stolen/484c/hot.dll
+#EXTINF:-1,TV1000 HD
+http://s1.ott-club.ru/ch0108/video.m3u8?token=QWxpa3NhbmRyaXNofHxRbUZ5WVdKaE1UazBNQT09
+#EXTINF:-1 GROUP-TITLE="КИНО И СЕРИАЛЫ" TVG-LOGO="HTTP://EKZOT.UCOZ.NET/CH_ICONS/T/TV1000.PNG",TV1000
+http://158.46.64.79:81/udp/239.255.42.49:1234
+#EXTINF:-1 GROUP-TITLE="КИНО И СЕРИАЛЫ" TVG-LOGO="HTTP://EKZOT.UCOZ.NET/CH_ICONS/T/TV1000.PNG",TV1000
+http://109.171.14.41:81/udp/239.54.7.91:1234
+#EXTINF:-1 GROUP-TITLE="КИНО И СЕРИАЛЫ" TVG-LOGO="HTTP://EKZOT.UCOZ.NET/CH_ICONS/T/TV1000.PNG",TV1000
+http://92.61.69.31:34040/udp/224.0.42.85:5000
+#EXTINF:-1 GROUP-TITLE="КИНО И СЕРИАЛЫ" TVG-LOGO="HTTP://EKZOT.UCOZ.NET/CH_ICONS/T/TV1000.PNG",TV1000
+http://109.171.14.41:81/udp/239.54.5.91:1234
+#EXTINF:-1,TV1000
+http://83.246.208.234:81/udp/239.54.7.91:1234
+#EXTINF:-1,TV 1000
+http://83.246.208.234:81/udp/239.54.5.91:1234
+#EXTINF:-1,TV1000 ACTION
+http://ruip.tv/9080/video.m3u8?token=ottgttv
+#EXTINF:-1,TV1000 ACTION
+http://95.153.22.122:8000/play/a01f/index.m3u8
+#EXTINF:-1,TV1000 ACTION
+http://212.112.101.69:8081/stream58/output.m3u8
+#EXTINF:-1,TV1000 ACTION
+http://77.245.98.22:8000/play/302/index.m3u8
+#EXTINF:-1,TV1000 ACTION
+http://77.245.98.22:8000/play/302/tracks-v1a1/index.m3u8
+#EXTINF:-1 GROUP-TITLE="КИНО И СЕРИАЛЫ" TVG-LOGO="HTTP://EKZOT.UCOZ.NET/CH_ICONS/T/TV1000_ACTION.PNG",TV1000 ACTION
+http://109.171.14.41:81/udp/239.54.7.111:1234
+#EXTINF:-1 GROUP-TITLE="КИНО И СЕРИАЛЫ" TVG-LOGO="HTTP://EKZOT.UCOZ.NET/CH_ICONS/T/TV1000_ACTION.PNG",TV1000 ACTION
+http://92.61.69.31:34040/udp/224.0.42.123:5000
+#EXTINF:-1 GROUP-TITLE="КИНО И СЕРИАЛЫ" TVG-LOGO="HTTP://EKZOT.UCOZ.NET/CH_ICONS/T/TV1000_ACTION.PNG",TV1000 ACTION
+http://109.171.14.41:81/udp/239.54.5.111:1234
+#EXTINF:-1 GROUP-TITLE="КИНО И СЕРИАЛЫ" TVG-LOGO="HTTP://EKZOT.UCOZ.NET/CH_ICONS/T/TV1000_ACTION.PNG",TV1000 ACTION
+http://158.46.64.79:81/udp/239.255.42.46:1234
+#EXTINF:-1 GROUP-TITLE="КИНО И СЕРИАЛЫ" TVG-LOGO="HTTP://EKZOT.UCOZ.NET/CH_ICONS/T/TV1000_ACTION.PNG",TV1000 ACTION
+http://176.196.160.34:4022/udp/239.255.42.46:1234
+#EXTINF:-1,TV1000 ACTION
+http://83.246.208.234:81/udp/239.54.7.111:1234
+#EXTINF:-1,TV 1000 ACTION
+http://83.246.208.234:81/udp/239.54.5.111:1234
+#EXTINF:-1,TV1000 ACTION (РЕЗЕРВ4)
+http://213.174.8.7:8000/play/22/index.m3u8
+#EXTINF:-1 GROUP-TITLE="КИНО И СЕРИАЛЫ" TVG-LOGO="HTTP://EKZOT.UCOZ.NET/CH_ICONS/T/TV1000_ACTION.PNG",TV1000 ACTION [FHD]
+http://194.28.155.10:81/udp/225.0.56.76:1234
+#EXTINF:-1,TV1000 COMEDY
+http://78.26.128.45:8081/live/330/playlist.m3u8
+#EXTINF:0,TV 1000 PREMIUM HD
+http://ruip.tv/3127/video.m3u8?token=ottgttv
+#EXTINF:-1,TV1000 PREMIUM
+http://95.153.22.122:8000/play/a01q/index.m3u8
+#EXTINF:-1,TV 1000 PREMIUM EAST
+http://212.12.194.10/tv1000prem/live.m3u8
+#EXTINF:-1,TV1000 WORLD KINO
+http://s2.ott-club.ru/ch0425/video.m3u8?token=QWxpa3NhbmRyaXNofHxRbUZ5WVdKaE1UazBNQT09
+#EXTINF:-1,TVA SPORT
+https://ccma-tva-int-cellnex-live-hls.secure.footprint.net/int/ngrp:es3_web/chunklist.m3u8
+#EXTINF:-1 GROUP-TITLE="РАЗНОЕ" TVG-LOGO="HTTP://EKZOT.UCOZ.NET/CH_ICONS/T/TV_PLUS.PNG",TV PLUS
+http://62.64.92.118:8000/002
+#EXTINF:-1 GROUP-TITLE="НАШ",UA/TV
+http://91.197.48.162/3ilxzmx3syfae/mpegts?auth=26S96GYXZGYTA
+#EXTINF:-1,UA КУЛЬТУРА
+http://ua-culture-hls1.cosmonova.net.ua/hls/ua-culture_ua_mid/index.m3u8
+#EXTINF:-1,UA КУЛЬТУРА
+http://ua-culture-hls2.cosmonova.net.ua/hls/ua-culture_ua_mid/index.m3u8
+#EXTINF:0 TVG-ID="UA-PERSHY-UKRAINE" GROUP-TITLE="УКРАИНА",UA ПЕРШИЙ HD
+http://uapershiy-hls2.cosmonova.net.ua/hls/uapershiy_ua_hi/index.m3u8
+#EXTINF:-1,UA TV
+http://95.67.106.242:80/hls/ua-tv_ua_mid/index.m3u8
+#EXTINF:0 TYPE="STREAM" CHANNELID="-1",UA ТВ
+http://ua-tv-hls2.cosmonova.net.ua/hls/ua-tv_ua_mid/index.m3u8
+#EXTINF:-1 GROUP-TITLE="РАЗНОЕ" TVG-LOGO="HTTP://EKZOT.UCOZ.NET/CH_ICONS/U/UA_TV.PNG",UA TV
+http://ua-tv-hls2.cosmonova.net.ua/hls/ua-tv_ua_low/index.m3u8
+#EXTINF:-1,UA TV
+http://ua-tv-hls2.cosmonova.net.ua/hls/ua-tv_ua_mid/index.m3u8?q=?seg-user-zona-iptv.ru-v1-a1.m3u8
+#EXTINF:-1,UA TV
+http://ua-tv-hls2.cosmonova.net.ua/hls/ua-tv_ua_low/index.m3u8?q=?seg-user-zona-iptv.ru-v1-a1.m3u8
+#EXTINF:-1 GROUP-TITLE="РАЗНОЕ" TVG-LOGO="HTTP://EKZOT.UCOZ.NET/CH_ICONS/U/UKRAINA-SD.PNG",UKRAINA-SD
+http://188.35.9.26:11050/udp/238.0.11.4:69000
+#EXTINF:-1 GROUP-TITLE="РАЗНОЕ" TVG-LOGO="HTTP://EKZOT.UCOZ.NET/CH_ICONS/U/UKRAINA-SD.PNG",UKRAINA-SD
+http://188.35.9.26:11051/udp/238.0.11.4:69000
+#EXTINF:0,ULTRA CINEMA 4K
+http://ruip.tv/6870/video.m3u8?token=ottgttv
+#EXTINF:-1,ЮМОР
+http://83.246.208.234:81/udp/239.54.5.5:1224
+#EXTINF:-1,УНІАН
+https://stream2g03-f23.ovva.tv/288721/smil:288721.smil/chunklist_b2928000.m3u8
+#EXTINF:-1,UTV MUSIC
+http://81.196.0.126/utvedge/utvlivehls/index.m3u8
+#EXTINF:-1,U TV MUSIC
+http://81.196.0.126/utvedge/utvlivehls/chunklist_w1688658104.m3u8?q=?seg-user-zona-iptv.ru-v1-a1.m3u8?
+#EXTINF:-1,UTV MUSIC
+http://81.196.0.126/utvedge/utvlivehls/index.m3u8?q=?seg-user-zona-iptv.ru-v1-a1.m3u8
+#EXTINF:-1,VH1 EUROPE
+http://161.0.157.51/PLTV/88888888/224/3221226078/index.m3u8?fluxustv.m3u8
+#EXTINF:-1 GROUP-TITLE="МУЗЫКАЛЬНЫЕ" TVG-LOGO="HTTP://EKZOT.UCOZ.NET/CH_ICONS/V/VH1_EUROPEAN.PNG",VH1 ЕUROPEAN
+http://37.195.117.73:81/udp/239.1.8.16:1234
+#EXTINF:-1 GROUP-TITLE="МУЗЫКАЛЬНЫЕ" TVG-LOGO="HTTP://EKZOT.UCOZ.NET/CH_ICONS/V/VH1_EUROPEAN.PNG",VH1 ЕUROPEAN
+http://37.195.3.13:81/udp/239.1.8.16:1234
+#EXTINF:-1,VIASAT EXPLORE
+http://188.35.9.5:10020/stolen/485v/hot.dll
+#EXTINF:-1,VIASAT EXPLORE HD
+http://ruip.tv/3139/video.m3u8?token=ottgttv
+#EXTINF:-1 GROUP-TITLE="ПУТЕШЕСТВИЯ" TVG-LOGO="HTTP://EKZOT.UCOZ.NET/CH_ICONS/V/VIASAT_EXPLORE.PNG",VIASAT EXPLORE
+http://158.46.64.79:81/udp/239.255.42.41:1234
+#EXTINF:-1 GROUP-TITLE="ПУТЕШЕСТВИЯ" TVG-LOGO="HTTP://EKZOT.UCOZ.NET/CH_ICONS/V/VIASAT_EXPLORE.PNG",VIASAT EXPLORE
+http://109.171.14.41:81/udp/239.54.7.92:1234
+#EXTINF:-1 GROUP-TITLE="ПУТЕШЕСТВИЯ" TVG-LOGO="HTTP://EKZOT.UCOZ.NET/CH_ICONS/V/VIASAT_EXPLORE.PNG",VIASAT EXPLORE
+http://5.129.5.77:81/udp/239.1.21.35:1234
+#EXTINF:-1 GROUP-TITLE="ПУТЕШЕСТВИЯ" TVG-LOGO="HTTP://EKZOT.UCOZ.NET/CH_ICONS/V/VIASAT_EXPLORE.PNG",VIASAT EXPLORE
+http://176.196.160.34:4022/udp/239.255.42.41:1234
+#EXTINF:-1 GROUP-TITLE="ПУТЕШЕСТВИЯ" TVG-LOGO="HTTP://EKZOT.UCOZ.NET/CH_ICONS/V/VIASAT_EXPLORE.PNG",VIASAT EXPLORE
+http://tvport.it-tele.net:8000/faf9c293fe01125c0919ae8cb8b6c87c
+#EXTINF:-1 GROUP-TITLE="ПУТЕШЕСТВИЯ" TVG-LOGO="HTTP://EKZOT.UCOZ.NET/CH_ICONS/V/VIASAT_EXPLORE.PNG",VIASAT EXPLORE
+http://109.248.236.41:4433/udp/238.1.1.18:1234
+#EXTINF:-1 GROUP-TITLE="ПУТЕШЕСТВИЯ" TVG-LOGO="HTTP://EKZOT.UCOZ.NET/CH_ICONS/V/VIASAT_EXPLORE.PNG",VIASAT EXPLORE
+http://109.171.14.41:81/udp/239.54.5.92:1234
+#EXTINF:-1,VIASAT EXPLORE
+http://83.246.208.234:81/udp/239.54.7.92:1234
+#EXTINF:-1,VIASAT EXPLORE
+http://83.246.208.234:81/udp/239.54.5.92:1234
+#EXTINF:-1,VIASAT EXPLORER
+http://212.112.101.69:8081/stream52/output.m3u8
+#EXTINF:-1 GROUP-TITLE="СПОРТ",VIASAT FOOTBALL HD
+http://livebar.pw/lba/123/g1/sweviafootball.m3u8
+#EXTINF:0,VIASAT HISTORY
+http://hls-viasat.cdnvideo.ru/hls/relay/1501746731655/index.m3u8?md5=2Dxnjzcr2UxtTABLqdfYTA&e=1541934953&hls_proxy_host=97544926393025ab05ebfb4dc3486095
+#EXTINF:-1,VIASAT HISTORY
+http://ruip.tv/4637/video.m3u8?token=ottgttv
+#EXTINF:-1,VIASAT HISTORY
+http://95.153.22.122:8000/play/a019/index.m3u8
+#EXTINF:-1,VIASAT HISTORY
+http://212.112.101.69:8081/stream54/output.m3u8
+#EXTINF:-1,VIASAT HISTORY
+https://hls-viasat.cdnvideo.ru/hls/relay/1501746731655/index.m3u8?md5=2Dxnjzcr2UxtTABLqdfYTA&e=1541934953&hls_proxy_host=97544926393025ab05ebfb4dc3486095
+#EXTINF:-1 GROUP-TITLE="ПОЗНАВАТЕЛЬНЫЕ" TVG-LOGO="HTTP://EKZOT.UCOZ.NET/CH_ICONS/V/VIASAT_HISTORY.PNG",VIASAT HISTORY
+http://176.196.160.34:4022/udp/239.255.42.40:1234
+#EXTINF:-1 GROUP-TITLE="ПОЗНАВАТЕЛЬНЫЕ" TVG-LOGO="HTTP://EKZOT.UCOZ.NET/CH_ICONS/V/VIASAT_HISTORY.PNG",VIASAT HISTORY
+http://158.46.64.79:81/udp/239.255.42.40:1234
+#EXTINF:-1 GROUP-TITLE="ПОЗНАВАТЕЛЬНЫЕ" TVG-LOGO="HTTP://EKZOT.UCOZ.NET/CH_ICONS/V/VIASAT_HISTORY.PNG",VIASAT HISTORY
+http://92.61.69.31:34040/udp/224.0.42.88:5000
+#EXTINF:-1 GROUP-TITLE="ПОЗНАВАТЕЛЬНЫЕ" TVG-LOGO="HTTP://EKZOT.UCOZ.NET/CH_ICONS/V/VIASAT_HISTORY.PNG",VIASAT HISTORY
+http://109.171.14.41:81/udp/239.54.5.93:1234
+#EXTINF:-1,VIASAT HISTORY (RU)
+http://188.35.9.5:10020/stolen/486b/hot.dll
+#EXTINF:-1,VIASAT NATURE
+http://212.112.101.69:8081/stream53/output.m3u8
+#EXTINF:-1,VIASAT NATURE HD
+http://ruip.tv/5532/video.m3u8?token=ottgttv
+#EXTINF:-1 GROUP-TITLE="В МИРЕ ЖИВОТНЫХ" TVG-LOGO="HTTP://EKZOT.UCOZ.NET/CH_ICONS/V/VIASAT_NATURE.PNG",VIASAT NATURE
+http://5.129.5.77:81/udp/239.1.21.36:1234
+#EXTINF:-1 GROUP-TITLE="В МИРЕ ЖИВОТНЫХ" TVG-LOGO="HTTP://EKZOT.UCOZ.NET/CH_ICONS/V/VIASAT_NATURE.PNG",VIASAT NATURE
+http://92.61.69.31:34040/udp/224.0.42.86:5000
+#EXTINF:-1,VIASAT NATURE
+http://83.246.208.234:81/udp/239.54.7.93:1234
+#EXTINF:-1,VIASAT NATURE
+http://83.246.208.234:81/udp/239.54.7.90:1234
+#EXTINF:-1,VIASAT NATURE/HISTORY HD
+http://ruip.tv/8772/video.m3u8?token=ottgttv
+#EXTINF:-1 GROUP-TITLE="СПОРТ",VIASAT PREMIUM
+http://livebar.pw/lba/123/g3/viasatpremiumsw.m3u8
+#EXTINF:-1,VIASAT SPORT
+http://212.112.101.69:8081/stream55/output.m3u8
+#EXTINF:-1,VIASAT SPORT
+http://46.19.43.248:9981/stream/channelid/344696513
+#EXTINF:-1,VIASAT SPORT HD
+http://78.26.128.59:8085/live/143/chunks.m3u8
+#EXTINF:-1,VIASAT SPORT
+http://92.61.69.31:34040/udp/224.0.42.90:5000
+#EXTINF:-1 GROUP-TITLE="СПОРТ" TVG-LOGO="HTTP://EKZOT.UCOZ.NET/CH_ICONS/V/VIASAT_SPORT.PNG",VIASAT SPORT
+http://109.171.14.41:81/udp/239.54.5.94:1234
+#EXTINF:-1 GROUP-TITLE="СПОРТ" TVG-LOGO="HTTP://EKZOT.UCOZ.NET/CH_ICONS/V/VIASAT_SPORT.PNG",VIASAT SPORT
+http://158.46.64.79:81/udp/239.255.42.57:1234
+#EXTINF:-1 GROUP-TITLE="СПОРТ" TVG-LOGO="HTTP://EKZOT.UCOZ.NET/CH_ICONS/V/VIASAT_SPORT.PNG",VIASAT SPORT
+http://109.171.69.251:81/udp/239.54.7.41:1234
+#EXTINF:-1 GROUP-TITLE="СПОРТ" TVG-LOGO="HTTP://EKZOT.UCOZ.NET/CH_ICONS/V/VIASAT_SPORT.PNG",VIASAT SPORT
+http://109.171.14.41:81/udp/239.54.7.41:1234
+#EXTINF:-1 GROUP-TITLE="СПОРТ" TVG-LOGO="HTTP://EKZOT.UCOZ.NET/CH_ICONS/V/VIASAT_SPORT.PNG",VIASAT SPORT
+http://176.196.160.34:4022/udp/239.255.42.57:1234
+#EXTINF:-1,VIASAT SPORT
+http://83.246.208.234:81/udp/239.54.7.41:1234
+#EXTINF:-1,ВИНТАЖ
+http://78.26.128.45:8081/live/234/playlist.m3u8
+#EXTINF:0,VIP COMEDY HD
+http://ruip.tv/2903/video.m3u8?token=ottgttv
+#EXTINF:-1,VIP COMEDY HD
+http://78.26.128.59:8085/live/151/chunks.m3u8
+#EXTINF:0,VIP MEGAHIT HD
+http://ruip.tv/8448/video.m3u8?token=ottgttv
+#EXTINF:-1,VIP MEGAHIT HD
+http://188.35.9.5:10020/stolen/403x/hot.dll
+#EXTINF:-1 GROUP-TITLE="UNSORTED",VIP MEGAHIT
+http://212.29.231.242:8080/btv_201/index.m3u8
+#EXTINF:-1 GROUP-TITLE="UNSORTED",VIP MEGAHIT HD (РЕЗЕРВ)
+http://78.26.128.59:8085/live/148/chunks.m3u8
+#EXTINF:0,VIP PREMIERE HD
+http://ruip.tv/8785/video.m3u8?token=ottgttv
+#EXTINF:-1,VIP PREMIERE HD
+http://78.26.128.59:8085/live/4/chunks.m3u8
+#EXTINF:-1 GROUP-TITLE="КИНО И СЕРИАЛЫ" TVG-LOGO="HTTP://EKZOT.UCOZ.NET/CH_ICONS/V/VIP_PREMIERE.PNG",VIP PREMIERE [FHD]
+http://194.28.155.10:81/udp/225.0.56.13:1234
+#EXTINF:-1,VIP SERIAL
+http://ruip.tv/1514/video.m3u8?token=ottgttv
+#EXTINF:-1,WWE NETWORK
+http://cdnak19.cast4u.info/channels/4/10804.m3u8?fluxustv.m3u8
+#EXTINF:-1,XSPORT
+http://78.26.128.45:8081/live/411/playlist.m3u8
+#EXTINF:-1,ZEE TV
+http://78.26.128.45:8081/live/412/playlist.m3u8
+#EXTINF:-1,ZEE TV
+http://ruip.tv/7669/video.m3u8?token=ottgttv
+#EXTINF:-1 GROUP-TITLE="НАШ",ZEE TV
+http://91.197.48.162/cbst7nb8ezd6e/mpegts?auth=26S96GYXZGYTA
+#EXTINF:-1 GROUP-TITLE="КИНО И СЕРИАЛЫ" TVG-LOGO="HTTP://EKZOT.UCOZ.NET/CH_ICONS/Z/ZEE_TV.PNG",ZEE TV
+http://109.171.14.41:81/udp/239.54.6.173:1234
+#EXTINF:-1 GROUP-TITLE="КИНО И СЕРИАЛЫ" TVG-LOGO="HTTP://EKZOT.UCOZ.NET/CH_ICONS/Z/ZEE_TV.PNG",ZEE TV
+http://185.184.233.174:5000/udp/225.1.2.159:1234
+#EXTINF:-1,ZIK
+http://78.26.128.45:8081/live/446/playlist.m3u8
+#EXTINF:-1 GROUP-TITLE="НАШ",ZIK HD
+http://tvport.it-tele.net:8000/44ecb9c3d660d2b2c4cf8a055c890d28
+#EXTINF:-1,ZOOM
+http://78.26.128.45:8081/live/126/playlist.m3u8
+#EXTINF:-1,ZOOM
+http://ruip.tv/8065/video.m3u8?token=ottgttv
